@@ -1,5 +1,9 @@
 # Changes
 
+- **22 October 2026.** *A folder into Maktab* agrees with the topic file: a video or reading is a
+  *Video* or *Reading* box, a picture a *Figure* box; only a past paper waits in the note.
+  Spreadsheets are read, and every file in the folder is in the note, used or left out (#3844).
+  A question with an empty *Marks* comes in with 2, and the note says which.
 - **22 October 2026.** The box at the end of the file is named as it reads, *For an AI agent*.
   These directions are now published from Maktab's own copy, and checked against the file Maktab
   writes, so a change to the format changes them too.

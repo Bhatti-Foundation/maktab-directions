@@ -69,8 +69,9 @@ Downloaded on … · stamp …                      grey first line
 Tables whose first row is the header: *Title · Link · Opens at*, *Title · Link · From*,
 *Paper · Questions · Link*.
 
-**Today a file changes a row that is there, but cannot add a row.** A new video, reading or past
-paper goes in your note to the teacher, with its title and link, to add on the sub-topic's page.
+**Today a file changes a row that is there, but cannot add a row.** A new past paper goes in your
+note to the teacher, with its questions and link, to add on the sub-topic's page; a new video or
+reading goes in the *Text* as a *Video* or *Reading* box (above).
 
 - **Link** starts with `https://`.
 - **Opens at** is minutes and seconds (`24:13`), or empty for the beginning. YouTube's `t=1453s` is
@@ -91,7 +92,8 @@ Marks: 3                          a whole number, the total; leave empty if she 
 ```
 
 Number new questions on from the last in that place. Use only the outcomes of the sub-topic the
-question sits in. **Practise** holds full questions; **Quick check** a few short ones that check
+question sits in. **A question she gave no marks comes in with 2**, as one written on the page
+starts: leave *Marks* empty, and say in your note which questions will show 2 marks. **Practise** holds full questions; **Quick check** a few short ones that check
 understanding.
 
 ## Making the changes

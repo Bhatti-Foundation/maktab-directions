@@ -8,7 +8,8 @@ Read [provenance.md](provenance.md) first.
 
 ## Steps
 
-1. **Read everything** in the folder and its subfolders: Word, PDF, slides, text files.
+1. **Read everything** in the folder and its subfolders: Word, PDF, slides, spreadsheets, text
+   files, pictures. **Every file ends up in your note**: used, or left out with why.
 2. **Sort each piece to a learning outcome**, by its code or what it teaches. A piece spanning two
    goes under the one it teaches most; a calculation of a centre of gravity is centre of gravity.
 3. **Leave out what the file already says.** A paragraph whose idea is already in that outcome's
@@ -20,7 +21,10 @@ Read [provenance.md](provenance.md) first.
    - a practical: a **Lab** box;
    - her remarks to herself (*remind them about units!!*): a **Teacher's note** box, in her words;
    - a worksheet's or quiz's questions with their answers: **Practise**; short ones: **Quick check**;
-   - a video, a reading or a past paper: **in your note**, to add on the page (see the topic file);
+   - a video or a reading: a **Video** or **Reading** box under the heading it belongs to;
+   - a picture: pasted into a **Figure** box with its caption, under the heading it belongs to,
+     when her notes say where it goes; otherwise left out, named in your note;
+   - a past paper: **in your note**, to add on the page (a file cannot add its row);
    - class business (homework, class lists, *remove before printing*): left out.
 5. **Keep her words.** Correct spelling and units only. Add no physics she did not write; write no
    questions of your own. If something she wrote looks wrong, keep it and say so in your note.
@@ -31,8 +35,9 @@ Read [provenance.md](provenance.md) first.
 
 Short and plain, in this order:
 
-1. **Add on the page**: each video, reading and past paper, with its title, link and sub-topic.
-2. **Left out**: each piece with its file and why (a picture, a page from a book, already there).
+1. **Add on the page**: each past paper, with its title, questions, link and sub-topic.
+2. **Left out**: each piece with its file and why (a page from a book, already there, a file
+   that does not open). Every file in her folder you did not use is here.
 3. **Check these**: anything you were unsure of, and anything that looks wrong.
 4. **Done**: per sub-topic, how many paragraphs, boxes and questions went in.
 
