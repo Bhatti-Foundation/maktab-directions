@@ -11,7 +11,7 @@ class and which version it came from. Ask for her export if you were not given o
 2. **A sub-topic heading** (Heading 1, `4.1 Turning effects of forces`): never add, rename,
    renumber or remove one. Sub-topics are changed on the class materials page.
 3. **A place heading** (Heading 2): the six below, in their order.
-4. **The yellow *How to edit this file* box**, and any box at the end addressed to an AI agent.
+4. **The yellow *How to edit this file* box**, and the *For an AI agent* box at the end of the file.
 
 **Add; never remove.** What the file already holds stays as it is, even where it breaks a rule
 below. The grey *Add questions here…* line in an empty place may stay or go when you add a

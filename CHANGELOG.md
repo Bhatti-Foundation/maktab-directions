@@ -1,5 +1,8 @@
 # Changes
 
+- **22 October 2026.** The box at the end of the file is named as it reads, *For an AI agent*.
+  These directions are now published from Maktab's own copy, and checked against the file Maktab
+  writes, so a change to the format changes them too.
 - **22 October 2026.** Pictures, videos and readings come in (M-403, 5): a picture in a sub-topic's
   *Text*, a *Figure* box with its picture and caption, and *Video* and *Reading* boxes with their
   links. Files exported from 22 October 2026 say so in *How to edit this file*; an older file takes
