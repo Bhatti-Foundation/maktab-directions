@@ -50,7 +50,9 @@ Downloaded on … · stamp …                      grey first line
   | `Lab` | A practical or experiment | `E2EFDA` |
   | `Teacher's note` | A remark for teachers; **students never see it** | `FCE4D6` |
 
-  A heading for the box, if it has one, is a Heading 3 just under its label.
+  A title for the box, if it has one, is a plain paragraph just under its label. If the file has no
+  box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,
+  and set the shading above. Leave an empty paragraph after each box, so two boxes stay two.
 - **Pictures cannot come in by file.** A *Figure* box with no picture is refused; name the figure
   in your note instead.
 
