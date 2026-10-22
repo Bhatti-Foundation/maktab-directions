@@ -49,12 +49,20 @@ Downloaded on … · stamp …                      grey first line
   | `Worked example` | A problem with its working | `DEEAF6` |
   | `Lab` | A practical or experiment | `E2EFDA` |
   | `Teacher's note` | A remark for teachers; **students never see it** | `FCE4D6` |
+  | `Figure` | A picture pasted into the box, and its caption as the box's words | `F2F2F2` |
+  | `Video` | Its title, then its link (`https://…`, YouTube or Vimeo) on a line of its own | `F2F2F2` |
+  | `Reading` | Its title, then its link (`https://…`) on a line of its own | `F2F2F2` |
 
   A title for the box, if it has one, is a plain paragraph just under its label. If the file has no
   box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,
   and set the shading above. Leave an empty paragraph after each box, so two boxes stay two.
-- **Pictures cannot come in by file.** A *Figure* box with no picture is refused; name the figure
-  in your note instead.
+- **A picture** comes in where it stands in a sub-topic's *Text*: on a line of its own between
+  paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); a
+  chart, a shape or a linked picture does not come in. A *Figure* box with no picture is refused. A
+  picture anywhere else (before the first sub-topic, in a table, in a question) stays out.
+- **A video or a reading** is a *Video* or *Reading* box under the heading it belongs to. A box with
+  no link is refused. A figure, video or reading that is already in the file stays as it is: never
+  paste a picture into a *Figure* box that was there.
 
 ## Lesson video, Textbook, Past papers
 
@@ -99,3 +107,4 @@ file** (its tables have no `w:tblGrid`); copy table and paragraph elements at th
 4. Every new link starts with `https://`; every *Opens at* and *Questions* is in the shape above.
 5. Every outcome code you wrote belongs to the sub-topic it is in.
 6. Every box's first line is one of the kinds above, spelt exactly.
+7. Every new picture is pasted as a picture, and every new *Video* or *Reading* box has its link.
