@@ -1,0 +1,37 @@
+# Maktab's directions for AI agents
+
+Maktab is the learning site of Barkat International College. Teachers export a topic as a Word file,
+change it, and import it back. **That Word file is an interface**, and these are its directions: for
+an AI agent helping a teacher bring her own material into Maktab.
+
+## Start here
+
+| You are asked to… | Read |
+|---|---|
+| Put a folder of a teacher's notes, worksheets and slides into Maktab | [bulk-import.md](bulk-import.md) |
+| Change or add to an exported file in any other way | [topic-file.md](topic-file.md) |
+| Decide whether a piece of material may go in at all | [provenance.md](provenance.md): read it every time |
+
+**[topic-file.md](topic-file.md) is the format**, and every task follows it. **The file you are
+given always wins**: where it and these directions differ, follow the file and tell the teacher.
+
+## For the teacher
+
+Export the topic on the class materials page (**Export or import**), put the file in your folder,
+and tell your AI agent:
+
+> Make Maktab files from this folder, following github.com/Bhatti-Foundation/maktab-directions.
+
+Then import what it gives back with **Export or import**. Maktab shows every change before anything
+is added, and names any line that is not in the right shape.
+
+## How these grow
+
+- **One file per task**, all resting on [topic-file.md](topic-file.md). A new kind of job (a whole
+  subject at once, a new topic) is a new task file, not a longer one.
+- **A subject's own rules** (units, notation, a board's style) go in `subjects/<code>.md` when a
+  subject needs them.
+- **Every change is a line in [CHANGELOG.md](CHANGELOG.md)**, dated. A change to the format says
+  which exports it applies to.
+- These directions are kept in Maktab's own repository beside the code that reads the file, and
+  published here.
