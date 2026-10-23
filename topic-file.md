@@ -52,6 +52,7 @@ Downloaded on … · stamp …                      grey first line
   | `Figure` | A picture pasted into the box, and its caption as the box's words | `F2F2F2` |
   | `Video` | Its title, then its link (`https://…`, YouTube or Vimeo) on a line of its own | `F2F2F2` |
   | `Reading` | Its title, then its link (`https://…`) on a line of its own | `F2F2F2` |
+  | `Book` | A book's title, then its link (`https://…`) on a line of its own; it comes in as a reading | `F2F2F2` |
 
   A title for the box, if it has one, is a plain paragraph just under its label. If the file has no
   box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,
@@ -59,7 +60,12 @@ Downloaded on … · stamp …                      grey first line
 - **A picture** comes in where it stands in a sub-topic's *Text*: on a line of its own between
   paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); a
   chart, a shape or a linked picture does not come in. A *Figure* box with no picture is refused. A
-  picture anywhere else (before the first sub-topic, in a table, in a question) stays out.
+  picture anywhere else (before the first sub-topic, in a table, in a question) stays out. A picture
+  in a *Worked example*, *Lab* or *Teacher's note* box comes in as a figure just after the box.
+- **A table in the *Text*** that is not a box is read anyway: when its first line names a kind, or
+  is a heading that starts with one (`WORKED EXAMPLE - A ROCKET IN FLIGHT`), as a box of that kind;
+  otherwise its words come in as text where it stands, a row of several cells one line. Write boxes
+  rather than relying on this.
 - **A video or a reading** is a *Video* or *Reading* box under the heading it belongs to. A box with
   no link is refused. A figure, video or reading that is already in the file stays as it is: never
   paste a picture into a *Figure* box that was there.
@@ -92,7 +98,8 @@ Marks: 3                          a whole number, the total; leave empty if she 
 ```
 
 Number new questions on from the last in that place. Use only the outcomes of the sub-topic the
-question sits in. **A question she gave no marks comes in with 2**, as one written on the page
+question sits in; **a new question naming no outcome stays out**. A question has no other labelled
+lines: its *Watch* and *Asks* are set on the sub-topic's page. **A question she gave no marks comes in with 2**, as one written on the page
 starts: leave *Marks* empty, and say in your note which questions will show 2 marks. **Practise** holds full questions; **Quick check** a few short ones that check
 understanding.
 

@@ -1,5 +1,8 @@
 # Changes
 
+- **23 October 2026.** Every kind the import reads is named: a *Book* box (it comes in as a
+  reading), a picture in a *Worked example*, *Lab* or *Teacher's note* box, a table in the *Text*, and
+  a new question with no learning outcome staying out. Applies to every export.
 - **22 October 2026.** *A folder into Maktab* agrees with the topic file: a video or reading is a
   *Video* or *Reading* box, a picture a *Figure* box; only a past paper waits in the note.
   Spreadsheets are read, and every file in the folder is in the note, used or left out (#3844).
