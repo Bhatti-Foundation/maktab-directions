@@ -53,6 +53,22 @@ Downloaded on … · stamp …                      grey first line
   | `Video` | Its title, then its link (`https://…`, YouTube or Vimeo) on a line of its own | `F2F2F2` |
   | `Reading` | Its title, then its link (`https://…`) on a line of its own | `F2F2F2` |
   | `Book` | A book's title, then its link (`https://…`) on a line of its own; it comes in as a reading | `F2F2F2` |
+  | `Key idea` | The one idea to take away | `E9EFF8` |
+  | `Definition` | A definition Cambridge asks for, to learn exactly | `FFF7E0` |
+  | `Top tip` | A quick way to get it right | `E6F3EC` |
+  | `Examiner's advice` | How marks are won and lost | `EDE4F7` |
+  | `Common misconception` | A mistake students often make | `FBE5E5` |
+  | `Real-world link` | Where this appears in real life | `DEF3F3` |
+  | `Think about it` | A puzzle to deepen understanding | `FFF4DC` |
+  | `Memory trick` | A mnemonic or trick | `FDE9F3` |
+  | `Practical skills link` | How this is tested in the practical papers | `F5F1DF` |
+  | `Syllabus link` | Where the idea is used later in the course | `EEF0F3` |
+  | `Box` | A box with no label | `FFFFFF` |
+
+  The ten labels are written as the first line alone, or followed by the box's title after a middle
+  dot: `Top tip · Using the data`. A first line in a teacher's own style (`✔ TOP TIP · Using the
+  data`, `✎ DEFINITION – learn it word for word · Electronegativity`) is read the same way; a
+  *Teacher's corner* is a *Teacher's note*. What each holds is Tayyab Imran Sahib's legend, in his words.
 
   A title for the box, if it has one, is a plain paragraph just under its label. If the file has no
   box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,

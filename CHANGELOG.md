@@ -1,5 +1,9 @@
 # Changes
 
+- **26 October 2026.** A box can carry one of ten labels (*Key idea*, *Definition*, *Top tip*,
+  *Examiner's advice*, *Common misconception*, *Real-world link*, *Think about it*, *Memory trick*,
+  *Practical skills link*, *Syllabus link*), or none as a *Box* (M-419). A first line in a teacher's own
+  style, symbol and all, names its label. Applies to every export.
 - **23 October 2026.** Every kind the import reads is named: a *Book* box (it comes in as a
   reading), a picture in a *Worked example*, *Lab* or *Teacher's note* box, a table in the *Text*, and
   a new question with no learning outcome staying out. Applies to every export.
