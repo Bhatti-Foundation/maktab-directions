@@ -1,5 +1,8 @@
 # Changes
 
+- **26 October 2026.** A sub-topic's worked examples are a place of their own, *Worked examples*, each a
+  box headed *Worked example 7*; the *Text* shows one with a box whose only line is *Worked example 7*
+  (M-419). Applies to every export.
 - **26 October 2026.** A box can carry one of ten labels (*Key idea*, *Definition*, *Top tip*,
   *Examiner's advice*, *Common misconception*, *Real-world link*, *Think about it*, *Memory trick*,
   *Practical skills link*, *Syllabus link*), or none as a *Box* (M-419). A first line in a teacher's own

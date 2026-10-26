@@ -10,7 +10,8 @@ class and which version it came from. Ask for her export if you were not given o
    `· stamp …`. Keep the file's custom document properties too.
 2. **A sub-topic heading** (Heading 1, `4.1 Turning effects of forces`): never add, rename,
    renumber or remove one. Sub-topics are changed on the class materials page.
-3. **A place heading** (Heading 2): the six below, in their order.
+3. **A place heading** (Heading 2): those below, in their order; *Worked examples* only where the
+   sub-topic has any, or where you add the first.
 4. **The yellow *How to edit this file* box**, and the *For an AI agent* box at the end of the file.
 
 **Add; never remove.** What the file already holds stays as it is, even where it breaks a rule
@@ -31,6 +32,7 @@ Downloaded on … · stamp …                      grey first line
   Textbook                                     Heading 2, a table
   Past papers                                  Heading 2, a table
   Practise                                     Heading 2, questions
+  Worked examples                              Heading 2, boxes, where it has any
   Quick check                                  Heading 2, questions
 4.2 …
 ```
@@ -85,6 +87,18 @@ Downloaded on … · stamp …                      grey first line
 - **A video or a reading** is a *Video* or *Reading* box under the heading it belongs to. A box with
   no link is refused. A figure, video or reading that is already in the file stays as it is: never
   paste a picture into a *Figure* box that was there.
+
+## Worked examples
+
+- **Each example is a box** whose first line is `Worked example` and its number, `Worked example 7`,
+  its place in the list. Under it: its title as a Heading 3, then `Paper: 9702/12/O/N/15 Q15` where it
+  has one, then its words. Add a new one where it goes in the list, numbered for its place; the
+  examples are matched by what they say, so the numbers are read as their order.
+- **In the *Text*, a box whose only line is `Worked example 7`** shows example 7 where it stands. Its
+  words are never in the *Text*: change them under *Worked examples*. A line naming a number the
+  section does not hold is left out.
+- A picture pasted into a new example's box comes in with it; an example already in the list keeps
+  its pictures, which the file does not carry.
 
 ## Lesson video, Textbook, Past papers
 
