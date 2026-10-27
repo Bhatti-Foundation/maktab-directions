@@ -1,8 +1,11 @@
 # The topic file
 
 One Word file (.docx) holds one topic of one class's materials. The teacher exports it from Maktab;
-you change it; she imports it. **You cannot make one from nothing**: its first line proves which
-class and which version it came from. Ask for her export if you were not given one.
+you change it; she imports it. Its grey first line proves which class and which version it came from,
+so an export can add, change and remove. **A file made from nothing in the same shape imports too**
+(M-421): it is compared with the class as it stands, and it adds and rewords but never removes, so
+what the class has and the file lacks stays. Each sub-topic it covers offers to replace the starter
+text nobody has edited, unticked. Work from her export when you were given one.
 
 ## Never change
 

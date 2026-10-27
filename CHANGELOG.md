@@ -1,5 +1,9 @@
 # Changes
 
+- **26 October 2026.** A file in the topic file's shape without the grey first line imports too (M-421):
+  it adds and rewords and never removes, and each sub-topic it covers offers to replace the starter
+  text nobody has edited. An export still removes what you take out.
+
 - **26 October 2026.** A sub-topic's worked examples are a place of their own, *Worked examples*, each a
   box headed *Worked example 7*; the *Text* shows one with a box whose only line is *Worked example 7*
   (M-419). Applies to every export.
