@@ -1,5 +1,9 @@
 # Changes
 
+- **26 October 2026.** *Common misconception* is now *Common mistake*, a wrong idea or a slip in
+  working; a first line saying either comes in as *Common mistake*. A new label, *Derivation*, for where
+  a result comes from (#4209). Applies to every export.
+
 - **26 October 2026.** A file in the topic file's shape without the grey first line imports too (M-421):
   it adds and rewords and never removes, and each sub-topic it covers offers to replace the starter
   text nobody has edited. An export still removes what you take out.
