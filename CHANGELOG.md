@@ -1,5 +1,9 @@
 # Changes
 
+- **28 October 2026.** A new task, *A teacher's own file, made ready for Maktab* ([own-file.md](own-file.md)),
+  with a sample file to copy ([sample-lecture.docx](sample-lecture.docx)): what three teachers' lecture notes,
+  worked solutions and past-paper booklets taught us on 27 October 2026, as one set of directions (#4421).
+
 - **26 October 2026.** *Common misconception* is now *Common mistake*, a wrong idea or a slip in
   working; a first line saying either comes in as *Common mistake*. A new label, *Derivation*, for where
   a result comes from (#4209). Applies to every export.

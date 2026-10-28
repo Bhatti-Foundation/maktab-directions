@@ -8,11 +8,12 @@ an AI agent helping a teacher bring her own material into Maktab.
 
 | You are asked to… | Read |
 |---|---|
+| Make a teacher's own lecture notes, worked solutions or past-paper booklet ready for Maktab, in his own layout | [own-file.md](own-file.md), with [sample-lecture.docx](sample-lecture.docx) |
 | Put a folder of a teacher's notes, worksheets and slides into Maktab | [bulk-import.md](bulk-import.md) |
 | Change or add to an exported file in any other way | [topic-file.md](topic-file.md) |
 | Decide whether a piece of material may go in at all | [provenance.md](provenance.md): read it every time |
 
-**[topic-file.md](topic-file.md) is the format**, and every task follows it. **The file you are
+**[topic-file.md](topic-file.md) is the format**, and every task but [own-file.md](own-file.md) follows it: that one keeps the teacher's own file. **The file you are
 given always wins**: where it and these directions differ, follow the file and tell the teacher.
 
 ## For the teacher
@@ -24,6 +25,13 @@ and tell your AI agent:
 
 Then import what it gives back with **Export or import**. Maktab shows every change before anything
 is added, and names any line that is not in the right shape.
+
+To keep your own file and your own layout, attach the file, and the topic's export if you have one, and
+tell your AI agent:
+
+> Make this file ready for Maktab, following github.com/Bhatti-Foundation/maktab-directions.
+
+It gives back the same file with its form changed, never your words, and a note of what to check.
 
 ## How these grow
 
