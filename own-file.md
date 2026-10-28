@@ -76,8 +76,8 @@ Summary                                            Heading 1: what comes after t
    Heading 1s and leave his numbered Heading 2s as they are. **A file with no heading that is a
    sub-topic's number and title exactly is checked heading by heading**: there `3.1 Mass, inertia, and
    Newton's second law` is read as another subject's 3.1 and left out.
-5. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*, *How to use these
-   notes*) goes under a Heading 1 *Introduction*, when there is any besides a cover and a contents page; **what sits after the last** (his summary, glossary,
+5. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*) goes under a Heading 1
+   *Introduction*, when there is any besides his front matter (below); **what sits after the last** (his summary, glossary,
    key terms) under a Heading 1 *Summary*. Maktab puts them on the topic's own first and last pages.
 6. **If you cannot tell which sub-topic a section teaches, do not guess.** Leave its heading as it is
    and list it in your note.

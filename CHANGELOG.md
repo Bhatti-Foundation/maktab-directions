@@ -1,5 +1,10 @@
 # Changes
 
+- **28 October 2026, late.** *A teacher's own file*: Maktab leaves his front matter out of the topic's Introduction
+  (the cover page, lines to fill in by hand, a table or numbered list of the sub-topics, *Linked to …*, *Prepared
+  for … by*, and *How to use these notes*, *How to read this booklet* or *Colour and style code*), each said under
+  *Left out*; you may leave it in his file or take it out. His glossary and keywords before the first sub-topic go to
+  the topic's Conclusion (#4469).
 - **28 October 2026, night.** *A teacher's own file*: Maktab is a website, not a handout. Your copy for Maktab takes out what
   only paper needs (cover, forms, *Linked to*, *How to use these notes*, colour codes, the chapter map) and lines that describe
   the printed booklet; his glossary and summary go under `Summary` at the end; one `Read:` coursebook line per sub-topic;
