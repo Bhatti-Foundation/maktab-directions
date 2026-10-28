@@ -1,5 +1,9 @@
 # Changes
 
+- **28 October 2026, night.** *A teacher's own file*: his sections numbered by their sub-topic (`3.1 Mass, inertia,
+  and Newton's second law`) come in under that sub-topic, his words their headings, once the file has a heading that
+  is the sub-topic's number and title exactly (M-454). The shape with unnumbered Heading 2s stays the one to make; for
+  a file numbered his way, add the exact Heading 1s and leave his headings as they are.
 - **28 October 2026, evening.** *A teacher's own file*: each sub-topic's Heading 1 is the Cambridge number and title
   exactly; his own titles are Heading 2 under it, with no number. A number followed by his own words is read as another
   subject's sub-topic and left out.

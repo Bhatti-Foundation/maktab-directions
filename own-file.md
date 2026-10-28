@@ -62,18 +62,24 @@ Summary                                            Heading 1: what comes after t
    paragraph just under the new heading.
 2. **Each sub-topic is a Heading 1 that is exactly the Cambridge sub-topic's number and title**, as the
    export or the course's skeleton writes it: `3.1 Momentum and Newton's laws of motion`, never his own
-   words after the number. Maktab checks a heading's words as well as its number, so `3.1 Mass,
-   inertia, and Newton's second law` is read as another subject's 3.1 and left out. Use only sub-topics
-   the export or the skeleton has. A section that teaches two goes under the one it teaches most.
+   words after the number. Use only sub-topics the export or the skeleton has. A section that teaches two
+   goes under the one it teaches most.
 3. **His own titles are his sections' Heading 2, with no number**: `Mass, inertia, and Newton's second
-   law`, `Section A: Multiple choice solutions`, under the Heading 1 they teach. **Take off his own
-   numbering** too: `3. Client–Server Model` becomes `Client–Server Model` under `2.1 Networks including
-   the internet`. Maktab reads a number at the start of a heading as a Cambridge sub-topic, so his own
-   1.1 would be read as another sub-topic.
-4. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*, *How to use these
+   law`, `Section A: Multiple choice solutions`, under the Heading 1 they teach. This is the shape to make.
+   **His own numbering** that is not a sub-topic's comes off: `3. Client–Server Model` becomes
+   `Client–Server Model` under `2.1 Networks including the internet`, since Maktab reads a number at the
+   start of a heading as a Cambridge sub-topic.
+4. **A file that already numbers his sections by their sub-topic also comes in**, once it has the exact
+   Heading 1 above them: under `3.1 Momentum and Newton's laws of motion`, his Heading 2s `3.1 Mass,
+   inertia, and Newton's second law` and `3.1 Weight and the acceleration of free fall` are sections of
+   3.1, his words their headings, in his order. When his file has this shape, add only the missing
+   Heading 1s and leave his numbered Heading 2s as they are. **A file with no heading that is a
+   sub-topic's number and title exactly is checked heading by heading**: there `3.1 Mass, inertia, and
+   Newton's second law` is read as another subject's 3.1 and left out.
+5. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*, *How to use these
    notes*) goes under a Heading 1 *Introduction*, when there is any besides a cover and a contents page; **what sits after the last** (his summary, glossary,
    key terms) under a Heading 1 *Summary*. Maktab puts them on the topic's own first and last pages.
-5. **If you cannot tell which sub-topic a section teaches, do not guess.** Leave its heading as it is
+6. **If you cannot tell which sub-topic a section teaches, do not guess.** Leave its heading as it is
    and list it in your note.
 
 ### Boxes
@@ -194,7 +200,8 @@ Tell him in your note when his file does any of these; never change his words fo
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
-   *Introduction* or *Summary*; every Heading 2 is his own title with no number.
+   *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
+   the sub-topic it sits under.
 4. Every box is a one-cell table whose first line is one of the labels above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
