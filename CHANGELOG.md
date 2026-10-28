@@ -1,5 +1,8 @@
 # Changes
 
+- **28 October 2026, latest.** *A teacher's own file*: a list keeps its levels, up to three, each drawn indented
+  under the point above it; a bullet at the first level ending in a colon with points a level down
+  under it (`Advantages:`) comes in as a plain line over its points (M-455).
 - **28 October 2026, late.** *A teacher's own file*: Maktab leaves his front matter out of the topic's Introduction
   (the cover page, lines to fill in by hand, a table or numbered list of the sub-topics, *Linked to …*, *Prepared
   for … by*, and *How to use these notes*, *How to read this booklet* or *Colour and style code*), each said under

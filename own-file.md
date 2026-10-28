@@ -144,6 +144,13 @@ solution, move it to a line of its own just after the box.
 - **A numbered list keeps its numbers as he has them** (`1.`, `(a)`, `iv.`, `Step 1`), typed or Word's own
   numbering: leave them as they are. Maktab brings both in, and draws a line that starts with its number as
   a numbered list.
+- **A list may have levels**: a point under a point is Word's next list level (Tab in Word), up to three
+  levels; Maktab draws each level indented under the point above it. Leave his levels as they are; a deeper
+  one comes in at the third level.
+- **A line that introduces the points under it ends with a colon** (`Advantages:`), and may be a bullet at
+  the first level with its points a level down: Maktab reads such a bullet as a plain line, its points as the
+  list under it. A bullet a level down that ends with a colon stays a bullet, its points under it, and a
+  numbered point with points under it keeps its number.
 - **A picture is pasted as a picture** (PNG or JPEG), on a line of its own, its caption the line just
   under it. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
 - **A table of data stays a table**, as he set it.
