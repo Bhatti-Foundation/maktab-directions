@@ -1,5 +1,9 @@
 # Changes
 
+- **28 October 2026, night.** *A teacher's own file*: Maktab is a website, not a handout. Your copy for Maktab takes out what
+  only paper needs (cover, forms, *Linked to*, *How to use these notes*, colour codes, the chapter map) and lines that describe
+  the printed booklet; his glossary and summary go under `Summary` at the end; one `Read:` coursebook line per sub-topic;
+  unlabelled two-row boxes get Maktab's labels; each picture of a question gets its `Words:` paragraph.
 - **28 October 2026, night.** *A teacher's own file*: his sections numbered by their sub-topic (`3.1 Mass, inertia,
   and Newton's second law`) come in under that sub-topic, his words their headings, once the file has a heading that
   is the sub-topic's number and title exactly (M-454). The shape with unnumbered Heading 2s stays the one to make; for

@@ -105,7 +105,8 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
   dash is read as after a middle dot. You may leave these as he wrote them.
 - **A small icon picture on a label line** is his label's mark: leave it; Maktab shows its own.
 - **A two-row table whose top row names no label** (a formula over its key, `F = ma` over `F = resultant force
-  / N …`) is not a box: it comes in as his words, a paragraph a row. Leave it, or make it a box with `Box · `.
+  / N …`; a law over its note) **gets Maktab's label**: a key equation `Key idea · F = ma`, a law or definition
+  `Definition · Newton's first law` (M-455). An empty one is a work space: leave it.
 - **A label that means one of Maktab's but uses other words** (`GAP FILLED – WHERE DOES THIS LAW COME
   FROM?`, which is a derivation) **is not read**: put Maktab's label first and keep his words as the
   title, `Derivation · GAP FILLED – WHERE DOES THIS LAW COME FROM?`. When you cannot tell which label
@@ -180,24 +181,43 @@ Answer: 4.0 kg m s⁻¹
    number.
 4. **Each question is in one sub-topic only**: the one it mainly tests. If the same question (the same
    paper and number) is in two, keep it in one and list the other in your note.
-5. **A picture of the printed question** is fine: Maktab reads it into words and keeps the picture.
+5. **A picture of the printed question or mark scheme stays where it is, and you add its words under it**: a
+   paragraph starting **`Words:`** with what the picture says, as a student would type it (sub- and superscripts
+   set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
+   picture, and the words may point to it (*Figure 2.1 shows …*).
 
 ### Coursebook pages
 
 A line pointing to a book, `Compare: coursebook Figures 3.3 and 3.5 (pp. 64–66), Ryan & Norris 3e`, is
-kept only when the book is the one approved for the course. Keep it as he wrote it, and **list every
-such line in your note**, so he can check the pages match the edition his students hold.
+kept only when the book is the one approved for the course. **Give each sub-topic one line, at its start, where
+the student reads it**: `Read: Coursebook Section 2.4, p. 46`. A table of every sub-topic's pages at the chapter's
+start becomes those lines, one under each sub-topic's heading, and the table goes. **List every such line in your
+note**, so he can check the pages match the edition his students hold.
 
-### Left out by Maktab, so leave them as they are
+### Maktab is a website, not a handout: take out what only paper needs
 
-Maktab already shows these another way and skips them; do not remove them from his file: the cover, a
+A student reads Maktab on a phone, page by page, with the class's book in her hand and Maktab's own pages around
+his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is. **Take
+out of it** (Maktab leaves these out too, but a clean file comes in cleaner): the cover, a
 table of contents, the chapter map, the learning-outcome table, *Covers learning outcomes* lines, AO and
 Bloom's level lines, a self-assessment checklist, *Take a break* boxes, *Work it out here* spaces and
-*SOLUTION* labels.
+*SOLUTION* labels; and a booklet's apparatus for paper: forms to fill in (*Learner's name: ____*, *Teacher's
+signature: ____*), *Prepared for … by …* lines and repeated headers and footers, *Linked to* (the syllabus,
+the coursebook, Bloom's), *How to use these notes* and *How to read this booklet*, a colour and style code
+and its Bloom's and AO tables; a chapter-at-a-glance list of the sub-topics (keep a paragraph
+around it that teaches, as the Introduction). **Drop any line that describes the printed booklet** (*answers are at
+the end of the chapter*, *the navy banner*, *the last page is your checklist*), since it is untrue online, and list
+each in your note.
+- **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
+  wherever he had them: Maktab shows them on the topic's last page.
+- **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
+  worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
 ## What Maktab asks of the content
 
 Tell him in your note when his file does any of these; never change his words for them.
+
+- **Ask him to read what came in on Maktab as a student would**, on a phone.
 
 - **The lesson adds to the textbook; it does not repeat it.** His lesson text is what he adds to the
   class's book: his tips, examples, common mistakes and exam pointers.
@@ -218,7 +238,10 @@ Tell him in your note when his file does any of these; never change his words fo
    sub-topic.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
    picture is a pasted picture.
-8. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
+8. Nothing only paper needs is left: no cover, form, *How to use*, colour code or chapter map; his glossary and
+   summary sit under `Summary` at the end; each sub-topic has its one `Read:` line.
+9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
+10. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
 ## The note to the teacher
 
@@ -229,6 +252,7 @@ Short and plain, in this order:
    looks wrong.
 2. **Changed**: what you changed, by kind, with a count: *9 headings made Word headings; 4 box labels
    set; 12 bulleted lists made Word lists.*
-3. **Left out**: anything that is not his own material, with where it came from.
+3. **Taken out for Maktab**: what only paper needs, by kind, and each line describing the printed booklet.
+4. **Left out**: anything that is not his own material, with where it came from.
 
 Then he sends the file back, or imports it.
