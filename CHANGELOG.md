@@ -1,5 +1,7 @@
 # Changes
 
+- **28 October 2026, later.** *A teacher's own file*: a numbered list keeps its numbers as he has them,
+  typed or Word's own; Maktab now brings in every kind Word draws, letters and roman numerals too.
 - **28 October 2026.** *A teacher's own file*: a numbered list keeps the numbers he typed; only a bulleted
   list is made Word's own list. A number Word draws can be lost (the blind test's 21 step numbers), and a letter or
   roman numeral always is.
