@@ -44,10 +44,10 @@ shapes.
 Introduction                                       Heading 1: what comes before the first sub-topic
   …his introduction, chapter at a glance…
 3.1 Momentum and Newton's laws of motion           Heading 1: the sub-topic, as Maktab names it
-  3.1 Mass and inertia                             Heading 2: each of his sections, sub-topic number first
+  Mass and inertia                                 Heading 2: each of his sections, in his own words, no number
     paragraphs, lists, boxes, pictures
     Check your understanding · 3.1.3               a box: one short question, its outcome, its answer
-  3.1 Past-paper questions                         Heading 2
+  Past-paper questions                             Heading 2
 3.2 Non-uniform motion                             Heading 1
   …
 Summary                                            Heading 1: what comes after the last sub-topic
@@ -58,15 +58,18 @@ Summary                                            Heading 1: what comes after t
 1. **Every heading is a real Word heading** (Home › Styles): the topic Title, each sub-topic Heading 1,
    each of his sections Heading 2, a smaller heading inside one Heading 3. **Never a table, a shaded
    band or bold text.** A heading set as a table (`01 | Mass, inertia… | 3.1`) becomes a heading:
-   `3.1 Mass, inertia, and Newton's second law`. The table's other lines (`3.1 – F = ma …`) stay, as a
+   `Mass, inertia, and Newton's second law`. The table's other lines (`3.1 – F = ma …`) stay, as a
    paragraph just under the new heading.
-2. **Every Heading 1 and Heading 2 starts with the Cambridge sub-topic number it teaches**, then his
-   own words: `3.1 Mass and inertia`, `4.1 Section A: Multiple choice solutions`. Use only numbers the
-   export or the course's skeleton has. A section that teaches two goes under the one it teaches most.
-3. **Take off his own numbering**: `3. Client–Server Model` becomes `2.1 Client–Server Model`;
-   `1.1 What Is a Computer Network?` in a 9618 file becomes `2.1 What Is a Computer Network?`. Maktab
-   reads a number at the start of a heading as a Cambridge sub-topic, so his own 1.1 would be read as
-   another sub-topic.
+2. **Each sub-topic is a Heading 1 that is exactly the Cambridge sub-topic's number and title**, as the
+   export or the course's skeleton writes it: `3.1 Momentum and Newton's laws of motion`, never his own
+   words after the number. Maktab checks a heading's words as well as its number, so `3.1 Mass,
+   inertia, and Newton's second law` is read as another subject's 3.1 and left out. Use only sub-topics
+   the export or the skeleton has. A section that teaches two goes under the one it teaches most.
+3. **His own titles are his sections' Heading 2, with no number**: `Mass, inertia, and Newton's second
+   law`, `Section A: Multiple choice solutions`, under the Heading 1 they teach. **Take off his own
+   numbering** too: `3. Client–Server Model` becomes `Client–Server Model` under `2.1 Networks including
+   the internet`. Maktab reads a number at the start of a heading as a Cambridge sub-topic, so his own
+   1.1 would be read as another sub-topic.
 4. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*, *How to use these
    notes*) goes under a Heading 1 *Introduction*, when there is any besides a cover and a contents page; **what sits after the last** (his summary, glossary,
    key terms) under a Heading 1 *Summary*. Maktab puts them on the topic's own first and last pages.
@@ -190,8 +193,8 @@ Tell him in your note when his file does any of these; never change his words fo
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order.
 2. Every heading is a Word heading, not a table or bold text.
-3. Every Heading 1 and Heading 2 starts with a sub-topic number the export or the course's skeleton has, or is *Introduction* or
-   *Summary*; no heading keeps his own numbering.
+3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
+   *Introduction* or *Summary*; every Heading 2 is his own title with no number.
 4. Every box is a one-cell table whose first line is one of the labels above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one

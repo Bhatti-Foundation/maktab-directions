@@ -1,5 +1,8 @@
 # Changes
 
+- **28 October 2026, evening.** *A teacher's own file*: each sub-topic's Heading 1 is the Cambridge number and title
+  exactly; his own titles are Heading 2 under it, with no number. A number followed by his own words is read as another
+  subject's sub-topic and left out.
 - **28 October 2026, later.** *A teacher's own file*: a numbered list keeps its numbers as he has them,
   typed or Word's own; Maktab now brings in every kind Word draws, letters and roman numerals too.
 - **28 October 2026.** *A teacher's own file*: a numbered list keeps the numbers he typed; only a bulleted
