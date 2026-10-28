@@ -10,6 +10,7 @@ an AI agent helping a teacher bring her own material into Maktab.
 |---|---|
 | Make a teacher's own lecture notes, worked solutions or past-paper booklet ready for Maktab, in his own layout | [own-file.md](own-file.md), with [sample-lecture.docx](sample-lecture.docx) |
 | Put a folder of a teacher's notes, worksheets and slides into Maktab | [bulk-import.md](bulk-import.md) |
+| Find a course's sub-topic numbers and outcome codes | [subjects/](subjects/): one page and one empty Word file per course, `subjects/9702.md` and `subjects/9702 skeleton.docx` |
 | Change or add to an exported file in any other way | [topic-file.md](topic-file.md) |
 | Decide whether a piece of material may go in at all | [provenance.md](provenance.md): read it every time |
 
@@ -37,8 +38,8 @@ It gives back the same file with its form changed, never your words, and a note 
 
 - **One file per task**, all resting on [topic-file.md](topic-file.md). A new kind of job (a whole
   subject at once, a new topic) is a new task file, not a longer one.
-- **A subject's own rules** (units, notation, a board's style) go in `subjects/<code>.md` when a
-  subject needs them.
+- **A course's page, `subjects/<code>.md`**, and its skeleton are generated from Maktab's syllabus data;
+  a subject's own rules (units, notation, a board's style) go on its page when it needs them.
 - **Every change is a line in [CHANGELOG.md](CHANGELOG.md)**, dated. A change to the format says
   which exports it applies to.
 - These directions are kept in Maktab's own repository beside the code that reads the file, and

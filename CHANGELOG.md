@@ -1,5 +1,10 @@
 # Changes
 
+- **28 October 2026.** Every course's skeleton, in [subjects/](subjects/): a page per course with each topic,
+  each sub-topic's number and name and each learning outcome's code, as Maktab holds them, and the same list as
+  an empty Word file in [own-file.md](own-file.md)'s shape. Ten courses: 9231, 9609, 9618, 9700, 9701, 9702,
+  9706, 9708, 9709 and Digital literacy (#4424).
+
 - **28 October 2026.** A new task, *A teacher's own file, made ready for Maktab* ([own-file.md](own-file.md)),
   with a sample file to copy ([sample-lecture.docx](sample-lecture.docx)): what three teachers' lecture notes,
   worked solutions and past-paper booklets taught us on 27 October 2026, as one set of directions (#4421).

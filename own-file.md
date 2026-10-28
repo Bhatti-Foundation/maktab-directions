@@ -20,8 +20,12 @@ teacher's notes, a paper of another course).
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
    Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
-   every sub-topic number and outcome code from it.** With no export, take them from the Cambridge
-   syllabus for the course code on his file, and list them in your note for him to check.
+   every sub-topic number and outcome code from it.**
+3. **With no export, the course's skeleton**: [subjects/](subjects/) has a page for every course Maktab
+   holds, `subjects/9702.md`, with each topic, each sub-topic's number and name and each outcome's code, as
+   Maktab holds them, and the same list as an empty Word file in this shape, `subjects/9702 skeleton.docx`.
+   Take every sub-topic number and outcome code from it. A Cambridge course's page lists each outcome by its
+   code only; its wording is in the export and in the syllabus the page links to.
 
 [sample-lecture.docx](sample-lecture.docx) is a short file in the shape below. Open it and copy its
 shapes.
@@ -58,7 +62,7 @@ Summary                                            Heading 1: what comes after t
    paragraph just under the new heading.
 2. **Every Heading 1 and Heading 2 starts with the Cambridge sub-topic number it teaches**, then his
    own words: `3.1 Mass and inertia`, `4.1 Section A: Multiple choice solutions`. Use only numbers the
-   export has. A section that teaches two goes under the one it teaches most.
+   export or the course's skeleton has. A section that teaches two goes under the one it teaches most.
 3. **Take off his own numbering**: `3. Client–Server Model` becomes `2.1 Client–Server Model`;
    `1.1 What Is a Computer Network?` in a 9618 file becomes `2.1 What Is a Computer Network?`. Maktab
    reads a number at the start of a heading as a Cambridge sub-topic, so his own 1.1 would be read as
@@ -183,7 +187,7 @@ Tell him in your note when his file does any of these; never change his words fo
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order.
 2. Every heading is a Word heading, not a table or bold text.
-3. Every Heading 1 and Heading 2 starts with a sub-topic number the export has, or is *Introduction* or
+3. Every Heading 1 and Heading 2 starts with a sub-topic number the export or the course's skeleton has, or is *Introduction* or
    *Summary*; no heading keeps his own numbering.
 4. Every box is a one-cell table whose first line is one of the labels above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer.
