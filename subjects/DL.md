@@ -2,7 +2,7 @@
 
 Maktab's own course, 2026: 3 topics, 27 sub-topics, 81 learning outcomes, each with its wording. A syllabus of our own (M-156): the staff course Digital literacy for BIC and ZRBF, written in this repository, statements and all. Topics are its tracks and sub-topics its lessons.
 
-Every heading in a teacher's file starts with a sub-topic number below, and every *Check your understanding* box names an outcome code below ([own-file.md](../own-file.md)). [DL skeleton.docx](<DL skeleton.docx>) is the same list as an empty file in that shape.
+Each sub-topic in a teacher's file is a Heading 1 that is exactly its number and title below; his own titles are Heading 2s under it, with no number (M-452); and every *Check your understanding* box names an outcome code below ([own-file.md](../own-file.md)). [DL skeleton.docx](<DL skeleton.docx>) is the same list as an empty file in that shape.
 
 *Generated from Maktab's syllabus data by `tools/directions_subjects.py`.*
 
