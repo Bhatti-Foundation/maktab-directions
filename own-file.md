@@ -152,7 +152,10 @@ solution, move it to a line of its own just after the box.
   list under it. A bullet a level down that ends with a colon stays a bullet, its points under it, and a
   numbered point with points under it keeps its number.
 - **A picture is pasted as a picture** (PNG or JPEG), on a line of its own, its caption the line just
-  under it. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+  under it, starting with its name and number: `Diagram 2.1  A mass spectrum shows each isotope and its
+  abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
+  picture in as a figure where it stands, that line its caption; a line under it that starts any other way
+  stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
 - **A table of data stays a table**, as he set it.
 
 ### Short questions: Check your understanding, self-assessment
