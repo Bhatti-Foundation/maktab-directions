@@ -122,8 +122,11 @@ in**: when it belongs to the solution, move it to a line of its own just after t
 
 ### Lists, pictures, tables
 
-- **A list is a Word list** (bullets or numbering from the Home tab), never typed dashes, `•` or
-  `1.` at the start of a paragraph.
+- **A bulleted list is a Word bulleted list** (Home › Bullets), never typed dashes or `•` at the start of
+  a paragraph.
+- **A numbered list keeps the numbers he typed** (`1.`, `(a)`, `Step 1`): leave them as text, and never
+  make them Word numbering. Maktab keeps a typed number. A number Word draws can be lost (21 step numbers
+  in a test on 28 October 2026), and a letter or roman numeral Word draws always is.
 - **A picture is pasted as a picture** (PNG or JPEG), on a line of its own, its caption the line just
   under it. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
 - **A table of data stays a table**, as he set it.
@@ -193,7 +196,8 @@ Tell him in your note when his file does any of these; never change his words fo
 5. Every short question names its outcomes and has its answer.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic.
-7. Every list is a Word list, and every picture a pasted picture.
+7. Every bulleted list is a Word bulleted list, every numbered list keeps his typed numbers, and every
+   picture is a pasted picture.
 8. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
 ## The note to the teacher
@@ -204,7 +208,7 @@ Short and plain, in this order:
    choose, each coursebook line, each question in two sub-topics, each missing answer, and anything that
    looks wrong.
 2. **Changed**: what you changed, by kind, with a count: *9 headings made Word headings; 4 box labels
-   set; 12 lists made Word lists.*
+   set; 12 bulleted lists made Word lists.*
 3. **Left out**: anything that is not his own material, with where it came from.
 
 Then he sends the file back, or imports it.

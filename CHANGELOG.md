@@ -1,5 +1,9 @@
 # Changes
 
+- **28 October 2026.** *A teacher's own file*: a numbered list keeps the numbers he typed; only a bulleted
+  list is made Word's own list. A number Word draws can be lost (the blind test's 21 step numbers), and a letter or
+  roman numeral always is.
+
 - **28 October 2026.** Every course's skeleton, in [subjects/](subjects/): a page per course with each topic,
   each sub-topic's number and name and each learning outcome's code, as Maktab holds them, and the same list as
   an empty Word file in [own-file.md](own-file.md)'s shape. Ten courses: 9231, 9609, 9618, 9700, 9701, 9702,
