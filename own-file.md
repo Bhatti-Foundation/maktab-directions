@@ -84,8 +84,9 @@ Summary                                            Heading 1: what comes after t
 
 ### Boxes
 
-A box is a table of **one row and one cell**. **Its first line is its label**, alone or followed by its
-title after a middle dot (`·`):
+A box is a table of **one row and one cell**, or of **one column and two rows**: a label row over a body
+row, as his boxes may be (`COMMON MISTAKE` in the top row, his words in the one under it). **Its first line
+is its label**, alone or followed by its title after a middle dot (`·`):
 
 ```
 Definition · Momentum
@@ -103,6 +104,8 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
   `WORKED EXAMPLE - A ROCKET IN FLIGHT` a worked example titled *A rocket in flight*: his title after a
   dash is read as after a middle dot. You may leave these as he wrote them.
 - **A small icon picture on a label line** is his label's mark: leave it; Maktab shows its own.
+- **A two-row table whose top row names no label** (a formula over its key, `F = ma` over `F = resultant force
+  / N …`) is not a box: it comes in as his words, a paragraph a row. Leave it, or make it a box with `Box · `.
 - **A label that means one of Maktab's but uses other words** (`GAP FILLED – WHERE DOES THIS LAW COME
   FROM?`, which is a derivation) **is not read**: put Maktab's label first and keep his words as the
   title, `Derivation · GAP FILLED – WHERE DOES THIS LAW COME FROM?`. When you cannot tell which label
@@ -121,13 +124,17 @@ A rocket of mass …                       the problem, as he wrote it
 Step 1 …                                 his working, in his order, one step to a line
 ```
 
-A worked example he set as a table of several rows may stay: Maktab reads it. Pictures inside it come
-in with it. **His solution may follow the box**, as he wrote it (after a *SOLUTION* line, his steps
-indented): Maktab reads it as the example's working, up to its last step. Leave it where it is.
+A worked example he set as a table of several rows may stay: Maktab reads it, a label row over the problem
+included (`WORKED EXAMPLE - A ROCKET IN FLIGHT` over its words). Pictures inside it come in with it, his
+label row's icon aside. **A picture on a line of its own just after the box** is the example's picture.
+**His solution may follow the box**, as he wrote it: a *SOLUTION* line, then his steps, each starting with
+its number (`1.`, `2.`), a run-on line indented under its step. Maktab reads them as the example's working,
+each a step, up to the next box, table, heading or line that is not a step. Leave it where it is.
 
-**His work spaces** (an empty table or *Work it out here* for a printed copy) stay as they are; Maktab
-leaves them out. **A picture inside a work space, or inside any table that is not a box, does not come
-in**: when it belongs to the solution, move it to a line of its own just after the table.
+**His work spaces** (*Work it out here:* and an empty table under it, for a printed copy) and his
+*SOLUTION* label stay as they are; Maktab leaves them out, and its report says how many. **A picture
+inside a work space, or inside any table that is not a box, does not come in**: when it belongs to the
+solution, move it to a line of its own just after the box.
 
 ### Lists, pictures, tables
 
@@ -154,7 +161,9 @@ Answer: 4.0 kg m s⁻¹
 
 - A question with its outcome goes to the sub-topic's *Quick check*, exactly where he meant; one with
   none is placed by guesswork, so always write it.
-- His worked solution may follow the box, as he wrote it; its last line is then the answer.
+- His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
+  then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
+  `Answer:` line is the answer, else its last step.
 - **Numbered self-assessment questions** (`SAQ 2.4 …`) in one box, with their answers in a table at the
   end of the file whose rows start with the same `SAQ 2.4`, may stay as he wrote them: Maktab reads them.
 - Every question needs its answer.
@@ -202,7 +211,8 @@ Tell him in your note when his file does any of these; never change his words fo
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
    *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
    the sub-topic it sits under.
-4. Every box is a one-cell table whose first line is one of the labels above, or `Box · ` and his title.
+4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
+   above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic.
