@@ -171,8 +171,9 @@ Answer: 4.0 kg m s⁻¹
 ```
 
 - **Every short question names the outcome it tests.** A question with its outcome goes to the sub-topic's
-  *Quick check*, filed under that outcome; one with none goes to *Practise*. The outcome may instead be a line
-  of its own in the box, `Learning outcome 3.1.3`.
+  *Quick check*, filed under that outcome; one with none goes to *Practise*, filed under no outcome until
+  *Clean up with AI* gives it one. The outcome may instead be a line of its own in the box, `Learning
+  outcome 3.1.3`.
 - His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
   then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
   `Answer:` line is the answer, else its last step.

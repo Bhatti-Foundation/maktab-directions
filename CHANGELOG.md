@@ -1,5 +1,7 @@
 # Changes
 
+- **28 October 2026, final.** *A teacher's own file*: a short question naming no outcome comes in on *Practise* under
+  no outcome, never every outcome of its sub-topic; *Clean up with AI* gives it the one it tests (M-457, 6).
 - **28 October 2026, last.** *A teacher's own file*: every short question names the outcome it tests. A *Check your
   understanding · 3.1.3* box, one with a line `Learning outcome 3.1.3`, and a self-assessment question written
   `SAQ 2.4 · 2.2.1 …` go to the sub-topic's *Quick check* under that outcome; one naming none goes to *Practise*
