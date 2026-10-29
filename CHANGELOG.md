@@ -1,5 +1,9 @@
 # Changes
 
+- **28 October 2026, last.** *A teacher's own file*: every short question names the outcome it tests. A *Check your
+  understanding · 3.1.3* box, one with a line `Learning outcome 3.1.3`, and a self-assessment question written
+  `SAQ 2.4 · 2.2.1 …` go to the sub-topic's *Quick check* under that outcome; one naming none goes to *Practise*
+  (M-457, 1).
 - **28 October 2026, latest.** *A teacher's own file*: a list keeps its levels, up to three, each drawn indented
   under the point above it; a bullet at the first level ending in a colon with points a level down
   under it (`Advantages:`) comes in as a plain line over its points (M-455).

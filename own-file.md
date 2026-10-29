@@ -170,13 +170,16 @@ A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 Answer: 4.0 kg m s⁻¹
 ```
 
-- A question with its outcome goes to the sub-topic's *Quick check*, exactly where he meant; one with
-  none is placed by guesswork, so always write it.
+- **Every short question names the outcome it tests.** A question with its outcome goes to the sub-topic's
+  *Quick check*, filed under that outcome; one with none goes to *Practise*. The outcome may instead be a line
+  of its own in the box, `Learning outcome 3.1.3`.
 - His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
   then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
   `Answer:` line is the answer, else its last step.
 - **Numbered self-assessment questions** (`SAQ 2.4 …`) in one box, with their answers in a table at the
   end of the file whose rows start with the same `SAQ 2.4`, may stay as he wrote them: Maktab reads them.
+  Each follows the same rule: give its outcome after its number and a middle dot, `SAQ 2.4 · 2.2.1 Define the
+  term polysaccharide.`, and it goes to the *Quick check*; with none, to *Practise*.
 - Every question needs its answer.
 
 ### Past-paper questions
