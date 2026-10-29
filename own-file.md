@@ -16,7 +16,9 @@ teacher's notes, a paper of another course).
 ## What you need
 
 1. **His file**, as a Word file (.docx). A PDF is read less well: ask him for the Word file it was made
-   from. If there is none, make a Word file from the PDF and say so in your note.
+   from. If there is none, make a Word file from the PDF, and check against the PDF what a conversion gets wrong:
+   equations, subscripts and superscripts, tables, and any page that is a scan, read off a picture. List each part
+   you rebuilt under `Changes made by AI` at the end of the copy (below), not in your note.
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
    Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
@@ -36,6 +38,8 @@ shapes.
   in your note.
 - **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set.
 - **His answers and marks.**
+- **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
+  (below).
 
 ## The shape
 
@@ -208,37 +212,56 @@ the student reads it**: `Read: Coursebook Section 2.4, p. 46`. A table of every 
 start becomes those lines, one under each sub-topic's heading, and the table goes. **List every such line in your
 note**, so he can check the pages match the edition his students hold.
 
-### Maktab is a website, not a handout: what only paper needs
+### Maktab is a website, not a handout: mark what only paper needs
 
 A student reads Maktab on a phone, page by page, with the class's book in her hand and Maktab's own pages around
 his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is.
 
-**Leave his cover, colour key, Bloom's table and *How to use these notes* in the copy. Never delete his teaching,
-or a heading over it.** Maktab knows each of these by its own shape, wherever it sits before the first sub-topic, and
-leaves it out, saying each in its report:
+**You mark; Maktab leaves out. Never delete his teaching, a heading over it, or a part only paper needs.**
 
-- the cover: his opening lines that name the college or say *Prepared for … by*;
-- lines to fill in by hand (*Learner's name: ____*), *Linked to* and its syllabus and coursebook lines;
-- a table or a numbered list of the sub-topics (a chapter map, a contents table);
-- the colour key (a table headed *What you see | What it means*, or *Style in question | Meaning*), a Bloom's table
-  (*Bloom's level | …*), an AO table (*AO | …*) and the key to his boxes (*Box | Use it for*), with a short line over
-  one that names it (*Bloom's levels used in this chapter*);
-- the line *How to use these notes* or *How to read this booklet*, the points of its list, and the words just under
-  it that come before its colour key or another such line.
+**Put each part only paper needs inside a box marked Print only**: a table of one row and one cell whose first line
+is **`Print only · `** and what it is, his words under it as he had them, a table of his inside it too:
 
-**Anything else before the first sub-topic comes in, to the topic's Introduction**: his *Chapter at a glance*, *Before
-you start*, a paragraph that teaches. His learning-outcome tables (a first row naming a learning outcome, *LO*, beside
-a Bloom's level) and his *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines (its codes and levels alone) may stay too,
-wherever they sit: Maktab leaves them out, and the sub-topic's page shows them.
+```
+Print only · Take a break
+Stand up, stretch, and drink some water before Part C.
+```
 
-**Drop a line that describes the printed booklet** outside these (*answers are at the end of the chapter*, *the last
-page is your checklist*), since it is untrue online, and a *Take a break* box: the line or the box alone, never the
-heading over it or the teaching around it. List each in your note. Maktab leaves out by itself his *Work it out here*
-spaces and *SOLUTION* labels, his self-assessment checklist and the page header and footer.
+Use it for the cover, the colour key and its Bloom's and AO tables, *How to use these notes* or *How to read this
+booklet*, a form to fill in (*Learner's name: ____*), a *Take a break* box, a line that describes the printed booklet
+(*answers are at the end of the chapter*, *the last page is your checklist*), and anything else true only on paper.
+Maktab leaves each box out, *Marked for print only.*
+
+**A table or a numbered list of the sub-topics, and a line to fill in, need no mark**: Maktab knows them by their shape.
+So too, should a mark be missed, the cover (his opening lines naming the college), *Linked to*, the colour key (*What
+you see | What it means*), a Bloom's table (*Bloom's level | …*), an AO table (*AO | …*), the key to his boxes (*Box |
+Use it for*) and *How to use these notes* with its list, before the first sub-topic; and his learning-outcome tables
+(*LO* beside a Bloom's level) and *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines, wherever they sit: the
+sub-topic's page shows them.
+
+Anything else before the first sub-topic comes in, to the topic's Introduction: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
+by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and
+footer.
+
 - **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
   wherever he had them: Maktab shows them on the topic's last page.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
+
+### Say what you changed: Changes made by AI
+
+**End the copy with a Heading 1 `Changes made by AI`**, after `Summary`, and under it a bulleted list of what you
+could not keep as he had it, one change a line (not the headings, labels and lists you set, which are the shape):
+
+```
+Changes made by AI
+• Converted from PDF to Word.
+• Rebuilt the table of reacting masses in 2.4 from a picture of it.
+• Split the paragraph under Part B into two at its numbered steps.
+```
+
+Maktab keeps the list with the import, shows it to the teacher before his
+file, and leaves it out of every lesson page. If you changed nothing, leave the heading out.
 
 ### Stamp the copy
 
@@ -278,8 +301,9 @@ Tell him in your note when his file does any of these; never change his words fo
    sub-topic.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
    picture is a pasted picture.
-8. His teaching and every heading over it are all there; his cover, colour key and *How to use* may be too. His
-   glossary and summary sit under `Summary` at the end; each sub-topic has its one `Read:` line.
+8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
+   shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; each sub-topic has its one
+   `Read:` line; the last heading is `Changes made by AI`, when you changed anything.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
 11. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
@@ -291,9 +315,8 @@ Short and plain, in this order:
 1. **Check these**: each heading you could not place, each box whose label you chose or could not
    choose, each coursebook line, each question in two sub-topics, each missing answer, and anything that
    looks wrong.
-2. **Changed**: what you changed, by kind, with a count: *9 headings made Word headings; 4 box labels
-   set; 12 bulleted lists made Word lists.*
-3. **Taken out for Maktab**: each line describing the printed booklet that you dropped.
-4. **Left out**: anything that is not his own material, with where it came from.
+2. **Left out**: anything that is not his own material, with where it came from.
+
+What you changed is in the file itself, under `Changes made by AI`, not in the note.
 
 Then he sends the file back, or imports it.

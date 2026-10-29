@@ -1,5 +1,12 @@
 # Changes
 
+- **29 October 2026, marks.** *A teacher's own file*: never delete a part only paper needs: put it in a one-cell box
+  whose first line is `Print only · <what it is>` (the cover, the colour key, *How to use these notes*, a form, a *Take a
+  break* box), which Maktab leaves out (*Marked for print only.*); a table of the sub-topics and a line to fill in need
+  no mark. End the copy with a Heading 1 `Changes made by AI` listing what you could
+  not keep as he had it (a PDF converted to Word, a table rebuilt, a paragraph split); Maktab keeps the list with the
+  import and shows it to the teacher, never on a lesson page. The note no longer lists your changes. A PDF made Word is checked
+  for its equations, sub- and superscripts, tables and scanned pages, each part rebuilt listed there.
 - **29 October 2026, stamp.** *A teacher's own file*: put one line in the copy's page header, `Prepared for Maktab by
   <you and your model>, <day>, following the directions <version>`, the version the one line in `VERSION`, written at
   each publish. Maktab keeps the stamp with the import and never shows it on a lesson page.
