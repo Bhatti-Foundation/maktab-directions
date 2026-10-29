@@ -1,5 +1,8 @@
 # Changes
 
+- **29 October 2026, stamp.** *A teacher's own file*: put one line in the copy's page header, `Prepared for Maktab by
+  <you and your model>, <day>, following the directions <version>`, the version the one line in `VERSION`, written at
+  each publish. Maktab keeps the stamp with the import and never shows it on a lesson page.
 - **29 October 2026, last.** *A teacher's own file*: leave his cover, colour key, Bloom's table and *How to use these
   notes* in the copy, and never delete his teaching or a heading over it. Maktab knows each by its own shape, wherever
   it sits before the first sub-topic (a colour key by its first row *What you see | What it means*, a Bloom's table by

@@ -40,6 +40,9 @@ It gives back the same file with its form changed, never your words, and a note 
   subject at once, a new topic) is a new task file, not a longer one.
 - **A course's page, `subjects/<code>.md`**, and its skeleton are generated from Maktab's syllabus data;
   a subject's own rules (units, notation, a board's style) go on its page when it needs them.
+- **Their version is the one line in [VERSION](VERSION)**, written each time they are published (the day and
+  the commit: several publishes a day). An AI names it in the stamp it puts in a teacher's file
+  ([own-file.md](own-file.md), *Stamp the copy*).
 - **Every change is a line in [CHANGELOG.md](CHANGELOG.md)**, dated. A change to the format says
   which exports it applies to.
 - These directions are kept in Maktab's own repository beside the code that reads the file, and

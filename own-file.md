@@ -240,6 +240,19 @@ spaces and *SOLUTION* labels, his self-assessment checklist and the page header 
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
+### Stamp the copy
+
+**Put one line in the copy's page header** (Insert › Header), so Maktab knows which AI prepared it, when, and from
+which directions:
+
+```
+Prepared for Maktab by Claude Opus 5.5, 29 October 2026, following the directions 2026-10-29-afdf76f
+```
+
+Your name and model, the day you made it, and the directions' version: the one line in their
+[VERSION](VERSION) file, written each time they are published. Leave his own header and footer as they are,
+beside it. Maktab keeps the stamp with the import and never shows it on a lesson page.
+
 ## What Maktab asks of the content
 
 Tell him in your note when his file does any of these; never change his words for them.
@@ -268,7 +281,8 @@ Tell him in your note when his file does any of these; never change his words fo
 8. His teaching and every heading over it are all there; his cover, colour key and *How to use* may be too. His
    glossary and summary sit under `Summary` at the end; each sub-topic has its one `Read:` line.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
-10. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
+10. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
+11. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
 ## The note to the teacher
 
