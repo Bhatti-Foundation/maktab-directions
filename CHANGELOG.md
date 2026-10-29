@@ -1,5 +1,12 @@
 # Changes
 
+- **29 October 2026, last.** *A teacher's own file*: leave his cover, colour key, Bloom's table and *How to use these
+  notes* in the copy, and never delete his teaching or a heading over it. Maktab knows each by its own shape, wherever
+  it sits before the first sub-topic (a colour key by its first row *What you see | What it means*, a Bloom's table by
+  *Bloom's level*, an AO table by *AO*), and leaves it out; anything else there comes in, to the Introduction. Before,
+  the directions said *take out of it*, and a teacher deleted the headings over his teaching with it.
+- **29 October 2026, last.** *subjects/*: each course's skeleton is headings only; its *Covers learning outcomes* lines
+  are gone, since Maktab leaves such a line out. Each outcome's code is on the course's page.
 - **29 October 2026, later.** *A teacher's own file*: Maktab leaves out a table of his learning outcomes and their
   Bloom's levels (its first row naming a learning outcome, *LO*, beside a Bloom's level) and each *Covers learning
   outcomes 2.1.1 …* line that names only outcomes and their levels, wherever they sit: the sub-topic's page shows

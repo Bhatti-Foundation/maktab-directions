@@ -208,23 +208,33 @@ the student reads it**: `Read: Coursebook Section 2.4, p. 46`. A table of every 
 start becomes those lines, one under each sub-topic's heading, and the table goes. **List every such line in your
 note**, so he can check the pages match the edition his students hold.
 
-### Maktab is a website, not a handout: take out what only paper needs
+### Maktab is a website, not a handout: what only paper needs
 
 A student reads Maktab on a phone, page by page, with the class's book in her hand and Maktab's own pages around
-his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is. **His learning-outcome tables** (a first row
-naming a learning outcome, *LO*, beside a Bloom's level) **and his *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines**
-(its codes and levels alone) may stay in the copy, wherever they sit: Maktab leaves them out, and the sub-topic's page
-shows them. **Take
-out of it** (Maktab leaves these out too, but a clean file comes in cleaner): the cover, a
-table of contents, the chapter map, AO and
-Bloom's level lines, a self-assessment checklist, *Take a break* boxes, *Work it out here* spaces and
-*SOLUTION* labels; and a booklet's apparatus for paper: forms to fill in (*Learner's name: ____*, *Teacher's
-signature: ____*), *Prepared for … by …* lines and repeated headers and footers, *Linked to* (the syllabus,
-the coursebook, Bloom's), *How to use these notes* and *How to read this booklet*, a colour and style code
-and its Bloom's and AO tables; a chapter-at-a-glance list of the sub-topics (keep a paragraph
-around it that teaches, as the Introduction). **Take a heading out with what is under it, never the heading alone**: the words left under *How to use these notes* after its tables are his introduction, and Maktab brings them in, but a clean file keeps a heading over them, under `Introduction`. **Drop any line that describes the printed booklet** (*answers are at
-the end of the chapter*, *the navy banner*, *the last page is your checklist*), since it is untrue online, and list
-each in your note.
+his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is.
+
+**Leave his cover, colour key, Bloom's table and *How to use these notes* in the copy. Never delete his teaching,
+or a heading over it.** Maktab knows each of these by its own shape, wherever it sits before the first sub-topic, and
+leaves it out, saying each in its report:
+
+- the cover: his opening lines that name the college or say *Prepared for … by*;
+- lines to fill in by hand (*Learner's name: ____*), *Linked to* and its syllabus and coursebook lines;
+- a table or a numbered list of the sub-topics (a chapter map, a contents table);
+- the colour key (a table headed *What you see | What it means*, or *Style in question | Meaning*), a Bloom's table
+  (*Bloom's level | …*), an AO table (*AO | …*) and the key to his boxes (*Box | Use it for*), with a short line over
+  one that names it (*Bloom's levels used in this chapter*);
+- the line *How to use these notes* or *How to read this booklet*, the points of its list, and the words just under
+  it that come before its colour key or another such line.
+
+**Anything else before the first sub-topic comes in, to the topic's Introduction**: his *Chapter at a glance*, *Before
+you start*, a paragraph that teaches. His learning-outcome tables (a first row naming a learning outcome, *LO*, beside
+a Bloom's level) and his *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines (its codes and levels alone) may stay too,
+wherever they sit: Maktab leaves them out, and the sub-topic's page shows them.
+
+**Drop a line that describes the printed booklet** outside these (*answers are at the end of the chapter*, *the last
+page is your checklist*), since it is untrue online, and a *Take a break* box: the line or the box alone, never the
+heading over it or the teaching around it. List each in your note. Maktab leaves out by itself his *Work it out here*
+spaces and *SOLUTION* labels, his self-assessment checklist and the page header and footer.
 - **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
   wherever he had them: Maktab shows them on the topic's last page.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
@@ -255,8 +265,8 @@ Tell him in your note when his file does any of these; never change his words fo
    sub-topic.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
    picture is a pasted picture.
-8. Nothing only paper needs is left: no cover, form, *How to use*, colour code or chapter map; his glossary and
-   summary sit under `Summary` at the end; each sub-topic has its one `Read:` line.
+8. His teaching and every heading over it are all there; his cover, colour key and *How to use* may be too. His
+   glossary and summary sit under `Summary` at the end; each sub-topic has its one `Read:` line.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
@@ -269,7 +279,7 @@ Short and plain, in this order:
    looks wrong.
 2. **Changed**: what you changed, by kind, with a count: *9 headings made Word headings; 4 box labels
    set; 12 bulleted lists made Word lists.*
-3. **Taken out for Maktab**: what only paper needs, by kind, and each line describing the printed booklet.
+3. **Taken out for Maktab**: each line describing the printed booklet that you dropped.
 4. **Left out**: anything that is not his own material, with where it came from.
 
 Then he sends the file back, or imports it.
