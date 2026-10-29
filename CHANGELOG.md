@@ -1,5 +1,9 @@
 # Changes
 
+- **29 October 2026, later.** *A teacher's own file*: Maktab leaves out a table of his learning outcomes and their
+  Bloom's levels (its first row naming a learning outcome, *LO*, beside a Bloom's level) and each *Covers learning
+  outcomes 2.1.1 …* line that names only outcomes and their levels, wherever they sit: the sub-topic's page shows
+  them. You may leave them in the copy for Maktab; a picture after such a line keeps its place.
 - **29 October 2026.** *A teacher's own file*: what Maktab leaves out under *How to use these notes* ends at the first
   line after its tables, or at his glossary's line; what follows is his introduction, his glossary and keywords going to
   the topic's Conclusion, even with the heading over them (*Chapter 2 at a glance*) taken out. Take a heading out with

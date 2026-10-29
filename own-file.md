@@ -211,9 +211,12 @@ note**, so he can check the pages match the edition his students hold.
 ### Maktab is a website, not a handout: take out what only paper needs
 
 A student reads Maktab on a phone, page by page, with the class's book in her hand and Maktab's own pages around
-his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is. **Take
+his (the owner, 28 October 2026). **The copy you hand back is for Maktab**; his own file stays as it is. **His learning-outcome tables** (a first row
+naming a learning outcome, *LO*, beside a Bloom's level) **and his *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines**
+(its codes and levels alone) may stay in the copy, wherever they sit: Maktab leaves them out, and the sub-topic's page
+shows them. **Take
 out of it** (Maktab leaves these out too, but a clean file comes in cleaner): the cover, a
-table of contents, the chapter map, the learning-outcome table, *Covers learning outcomes* lines, AO and
+table of contents, the chapter map, AO and
 Bloom's level lines, a self-assessment checklist, *Take a break* boxes, *Work it out here* spaces and
 *SOLUTION* labels; and a booklet's apparatus for paper: forms to fill in (*Learner's name: ____*, *Teacher's
 signature: ____*), *Prepared for … by …* lines and repeated headers and footers, *Linked to* (the syllabus,
