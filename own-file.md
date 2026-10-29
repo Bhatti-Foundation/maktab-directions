@@ -114,7 +114,9 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
 - **A label that means one of Maktab's but uses other words** (`GAP FILLED – WHERE DOES THIS LAW COME
   FROM?`, which is a derivation) **is not read**: put Maktab's label first and keep his words as the
   title, `Derivation · GAP FILLED – WHERE DOES THIS LAW COME FROM?`. When you cannot tell which label
-  fits, use `Box · ` and his words, and list it in your note.
+  fits, use `Box · ` and his words: Maktab asks him to check its type.
+- **A box with no label line**, which Maktab types by its shading alone, and a `Box · ` box with his title, each
+  come in with a warning for him to check its type. A box you labelled comes in with none.
 - A *Teacher's note* is for teachers; students never see it.
 - Leave an empty paragraph after each box, so two boxes stay two.
 
@@ -248,6 +250,20 @@ footer.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
+### Say what you are unsure of: [check: why]
+
+**Only where you are truly unsure** of something you made (a value you read from a blurred scan, a table you rebuilt
+from a picture, a label you chose between two), put `[check: ` and **one plain reason** `]` at the end of its
+paragraph, box line, heading, picture's caption or table cell; not in a worked example or a short question, where
+it is not read, so list those in your note:
+
+```
+The bond angle in water is 104.5°. [check: the scan cut off its last digit]
+```
+
+Maktab takes the marker out of what students read and shows him the reason as a warning on what came in, until he
+presses *Looks right* or edits it. Never mark what you are sure of: each one is something he must check.
+
 ### Say what you changed: Changes made by AI
 
 **End the copy with a Heading 1 `Changes made by AI`**, after `Summary`, and under it a bulleted list of what you
@@ -305,8 +321,9 @@ Tell him in your note when his file does any of these; never change his words fo
    shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; each sub-topic has its one
    `Read:` line; the last heading is `Changes made by AI`, when you changed anything.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
-10. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
-11. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
+10. Each `[check: why]` is where you are truly unsure, with one plain reason.
+11. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
+12. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
 ## The note to the teacher
 

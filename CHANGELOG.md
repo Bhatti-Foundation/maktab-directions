@@ -1,5 +1,11 @@
 # Changes
 
+- **29 October 2026, unsure.** *A teacher's own file*: where you are truly unsure of something you made, end its
+  paragraph, box line, heading, picture's caption or table cell with `[check: <one plain reason>]` (not a worked
+  example or a short question: list those in your note). Maktab leaves the marker off every
+  lesson page and shows him the reason as a warning on what came in, until he presses *Looks right* or edits it. A
+  box with no label line, or a `Box · ` box with his title, comes in with a warning to check its type; a labelled box
+  with none.
 - **29 October 2026, marks.** *A teacher's own file*: never delete a part only paper needs: put it in a one-cell box
   whose first line is `Print only · <what it is>` (the cover, the colour key, *How to use these notes*, a form, a *Take a
   break* box), which Maktab leaves out (*Marked for print only.*); a table of the sub-topics and a line to fill in need
