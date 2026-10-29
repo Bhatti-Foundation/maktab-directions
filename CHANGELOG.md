@@ -1,5 +1,9 @@
 # Changes
 
+- **29 October 2026.** *A teacher's own file*: what Maktab leaves out under *How to use these notes* ends at the first
+  line after its tables, or at his glossary's line; what follows is his introduction, his glossary and keywords going to
+  the topic's Conclusion, even with the heading over them (*Chapter 2 at a glance*) taken out. Take a heading out with
+  what is under it, never the heading alone.
 - **28 October 2026, final.** *A teacher's own file*: a short question naming no outcome comes in on *Practise* under
   no outcome, never every outcome of its sub-topic; *Clean up with AI* gives it the one it tests (M-457, 6).
 - **28 October 2026, last.** *A teacher's own file*: every short question names the outcome it tests. A *Check your

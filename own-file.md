@@ -219,7 +219,7 @@ Bloom's level lines, a self-assessment checklist, *Take a break* boxes, *Work it
 signature: ____*), *Prepared for … by …* lines and repeated headers and footers, *Linked to* (the syllabus,
 the coursebook, Bloom's), *How to use these notes* and *How to read this booklet*, a colour and style code
 and its Bloom's and AO tables; a chapter-at-a-glance list of the sub-topics (keep a paragraph
-around it that teaches, as the Introduction). **Drop any line that describes the printed booklet** (*answers are at
+around it that teaches, as the Introduction). **Take a heading out with what is under it, never the heading alone**: the words left under *How to use these notes* after its tables are his introduction, and Maktab brings them in, but a clean file keeps a heading over them, under `Introduction`. **Drop any line that describes the printed booklet** (*answers are at
 the end of the chapter*, *the navy banner*, *the last page is your checklist*), since it is untrue online, and list
 each in your note.
 - **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
