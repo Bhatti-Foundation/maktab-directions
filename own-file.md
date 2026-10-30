@@ -260,6 +260,8 @@ footer.
 
 - **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
   wherever he had them: Maktab shows them on the topic's last page.
+- **Leave his answers section where it is** (*ANSWERS – Chapter 3*, his SAQ answers, answer key and mark schemes),
+  under its own heading, and do not move it under `Summary`: Maktab gives each answer to its question.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
