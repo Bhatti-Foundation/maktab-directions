@@ -1,5 +1,8 @@
 # Changes
 
+- **29 October 2026, past papers.** *A teacher's own file*: the heading and notes over a sub-topic's past-paper
+  questions (*Exam practice 2.1 · …*, *Paper 1 · Multiple choice (6 questions)*, *All 6 … are included.*) stay out
+  of its lesson text: its Past papers card lists the papers. They need no mark.
 - **29 October 2026, keys.** *A teacher's own file*: the lines under his keys that say how his questions are marked
   (*Note: Questions marked ⚠ …*, *How the tags are assigned: …*, a key to multiple-completion answers and the lines
   over and under it) stay out with the keys, before the first sub-topic; they need no mark.

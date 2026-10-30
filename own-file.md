@@ -250,7 +250,9 @@ So too, should a mark be missed, the cover (his opening lines naming the college
 you see | What it means*), a Bloom's table (*Bloom's level | …*), an AO table (*AO | …*), the key to his boxes (*Box |
 Use it for*), *How to use these notes* with its list, and the lines under his keys that say how his questions are marked (*Note: Questions marked ⚠ …*, *How the tags are assigned: …*, a key to multiple-completion answers), before the first sub-topic; and his learning-outcome tables
 (*LO* beside a Bloom's level) and *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines, wherever they sit: the
-sub-topic's page shows them.
+sub-topic's page shows them. The heading and notes over a sub-topic's past-paper questions (*Exam practice 2.1 · real Cambridge past-paper
+questions*, *Paper 1 · Multiple choice (6 questions)*, *All 6 Paper 1 questions … are included.*), wherever they sit:
+its Past papers card lists the papers, and the questions under them go to Past papers.
 
 Anything else before the first sub-topic comes in, to the topic's Introduction: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
 by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and
