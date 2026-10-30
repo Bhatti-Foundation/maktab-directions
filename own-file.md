@@ -248,7 +248,7 @@ Maktab leaves each box out, *Marked for print only.*
 **A table or a numbered list of the sub-topics, and a line to fill in, need no mark**: Maktab knows them by their shape.
 So too, should a mark be missed, the cover (his opening lines naming the college), *Linked to*, the colour key (*What
 you see | What it means*), a Bloom's table (*Bloom's level | …*), an AO table (*AO | …*), the key to his boxes (*Box |
-Use it for*) and *How to use these notes* with its list, before the first sub-topic; and his learning-outcome tables
+Use it for*), *How to use these notes* with its list, and the lines under his keys that say how his questions are marked (*Note: Questions marked ⚠ …*, *How the tags are assigned: …*, a key to multiple-completion answers), before the first sub-topic; and his learning-outcome tables
 (*LO* beside a Bloom's level) and *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines, wherever they sit: the
 sub-topic's page shows them.
 

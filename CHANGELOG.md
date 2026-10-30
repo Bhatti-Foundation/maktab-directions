@@ -1,5 +1,8 @@
 # Changes
 
+- **29 October 2026, keys.** *A teacher's own file*: the lines under his keys that say how his questions are marked
+  (*Note: Questions marked ⚠ …*, *How the tags are assigned: …*, a key to multiple-completion answers and the lines
+  over and under it) stay out with the keys, before the first sub-topic; they need no mark.
 - **29 October 2026, gaps.** *A teacher's own file*: every short question names an outcome of the sub-topic it sits
   in, never one of another sub-topic (Maktab files that under no outcome, in *Practise*). The code alone is enough:
   take it from the sub-topic's list in the export or on the course's page in *subjects/*, which has codes without
