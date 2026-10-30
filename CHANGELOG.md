@@ -1,5 +1,11 @@
 # Changes
 
+- **29 October 2026, gaps.** *A teacher's own file*: every short question names an outcome of the sub-topic it sits
+  in, never one of another sub-topic (Maktab files that under no outcome, in *Practise*). The code alone is enough:
+  take it from the sub-topic's list in the export or on the course's page in *subjects/*, which has codes without
+  their wording, and never leave the outcome off for want of its wording. A label line in his own style is kept
+  exactly as he wrote it, his words never moved between label and title. `Changes made by AI` goes last, after
+  `Summary` only where his file has one: never add an empty `Summary`.
 - **29 October 2026, unsure.** *A teacher's own file*: where you are truly unsure of something you made, end its
   paragraph, box line, heading, picture's caption or table cell with `[check: <one plain reason>]` (not a worked
   example or a short question: list those in your note). Maktab leaves the marker off every

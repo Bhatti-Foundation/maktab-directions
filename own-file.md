@@ -106,7 +106,10 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
 - His own style of label is read: `✎ DEFINITION – learn it word for word · Electronegativity` is a
   Definition, `⚠ COMMON MISCONCEPTION` a Common mistake, `☰ TEACHER'S CORNER` a Teacher's note, and
   `WORKED EXAMPLE - A ROCKET IN FLIGHT` a worked example titled *A rocket in flight*: his title after a
-  dash is read as after a middle dot. You may leave these as he wrote them.
+  dash is read as after a middle dot. **Keep such a label line exactly as he wrote it**: never move his words
+  from the label into the title or from the title into the label. `✎ DEFINITION – learn it word for word ·
+  Metallic bonding` stays that line; `Definition · learn it word for word` over a title `Metallic bonding` makes
+  his instruction a label and his title a line of its own.
 - **A small icon picture on a label line** is his label's mark: leave it; Maktab shows its own.
 - **A two-row table whose top row names no label** (a formula over its key, `F = ma` over `F = resultant force
   / N …`; a law over its note) **gets Maktab's label**: a key equation `Key idea · F = ma`, a law or definition
@@ -180,6 +183,14 @@ Answer: 4.0 kg m s⁻¹
   *Quick check*, filed under that outcome; one with none goes to *Practise*, filed under no outcome until
   *Clean up with AI* gives it one. The outcome may instead be a line of its own in the box, `Learning
   outcome 3.1.3`.
+- **The outcome is one of the sub-topic the question sits in**: a question under `3.3` names a `3.3.…` code,
+  never one of `3.2`, even when it tests something taught there. Maktab files a code of another sub-topic under
+  no outcome, and the question goes to *Practise*.
+- **The code alone is enough.** Take it from the sub-topic's own list, in the export (its Heading 3 lines) or
+  on the course's page in [subjects/](subjects/), which lists each code without its wording. Where you have no
+  wording, choose the code by the sub-topic's name, the section the question sits in and the syllabus the page
+  links to; if you still cannot tell, name the sub-topic's code you think likeliest and list the question in
+  your note. Never leave the outcome off for want of its wording.
 - His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
   then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
   `Answer:` line is the answer, else its last step.
@@ -266,7 +277,8 @@ presses *Looks right* or edits it. Never mark what you are sure of: each one is 
 
 ### Say what you changed: Changes made by AI
 
-**End the copy with a Heading 1 `Changes made by AI`**, after `Summary`, and under it a bulleted list of what you
+**End the copy with a Heading 1 `Changes made by AI`**, last of all (after `Summary` where his file has a glossary or
+chapter summary; never add an empty `Summary` to put it after), and under it a bulleted list of what you
 could not keep as he had it, one change a line (not the headings, labels and lists you set, which are the shape):
 
 ```
