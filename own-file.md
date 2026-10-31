@@ -209,10 +209,13 @@ Answer: 4.0 kg m s⁻¹
    after it, `Answer: B`. **A question whose key has no row brings nothing in**, and a booklet whose
    every key row is missing brings nothing at all.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
-   number.
-4. **Each question is in one sub-topic only**: the one it mainly tests. If the same question (the same
-   paper and number) is in two, keep it in one and list the other in your note.
-5. **A picture of the printed question or mark scheme stays where it is, and you add its words under it**: a
+   number. Without it the question comes in with no answer, an error on its sub-topic's page until its mark
+   scheme is added there or in this file.
+4. **Each question is in one sub-topic only**: the one it mainly tests. They go to that sub-topic's **Past
+   papers tab**. If the same question (the same paper and number) is in two, keep it in one and list the other
+   in your note.
+5. **A picture of the printed question or of its mark scheme stays where it is, and you add its words under it**,
+   for both: a
    paragraph starting **`Words:`** with what the picture says, as a student would type it (sub- and superscripts
    set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
    picture, and the words may point to it (*Figure 2.1 shows …*).
@@ -255,7 +258,7 @@ Use it for*), *How to use these notes* with its list, and the lines under his ke
 (*LO* beside a Bloom's level) and *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines, wherever they sit: the
 sub-topic's page shows them. The heading and notes over a sub-topic's past-paper questions (*Exam practice 2.1 · real Cambridge past-paper
 questions*, *Paper 1 · Multiple choice (6 questions)*, *All 6 Paper 1 questions … are included.*), wherever they sit:
-its Past papers card lists the papers, and the questions under them go to Past papers.
+the questions under them go to its Past papers tab.
 
 Anything else before the first sub-topic comes in, to the topic's Introduction: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
 by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and

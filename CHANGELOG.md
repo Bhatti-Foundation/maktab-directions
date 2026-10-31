@@ -1,5 +1,9 @@
 # Changes
 
+- **31 October 2026, the Past papers tab.** *A teacher's own file*: a sub-topic's past-paper questions go to its
+  **Past papers tab**, the last of its page's tabs, where students answer them and check them. A structured question
+  needs its mark scheme, and a picture of the question or of its mark scheme its `Words:` under it, for both. The
+  heading and notes over them stay out of the lesson text, as before: the questions under them are on the tab.
 - **31 October 2026, books.** *A teacher's own file*: delete every line that only points to a printed book
   (`Coursebook: …`, `Read: …`, `Textbook reading: …`, `Compare: coursebook …`, a table of each sub-topic's pages), and
   list them in your note. The `Read:` line asked for on 28 October is withdrawn: Maktab shows the class's books beside
