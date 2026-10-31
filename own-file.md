@@ -217,13 +217,16 @@ Answer: 4.0 kg m s⁻¹
    set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
    picture, and the words may point to it (*Figure 2.1 shows …*).
 
-### Coursebook pages
+### Lines pointing to a book: leave them out
 
-A line pointing to a book, `Compare: coursebook Figures 3.3 and 3.5 (pp. 64–66), Ryan & Norris 3e`, is
-kept only when the book is the one approved for the course. **Give each sub-topic one line, at its start, where
-the student reads it**: `Read: Coursebook Section 2.4, p. 46`. A table of every sub-topic's pages at the chapter's
-start becomes those lines, one under each sub-topic's heading, and the table goes. **List every such line in your
-note**, so he can check the pages match the edition his students hold.
+**Delete every line that only points to a printed book**: `Coursebook: Ryan & Norris, Chemistry Coursebook 3e, Section 4.2
+Ionic bonding (p. 111)`, `Read: Coursebook Section 2.4, p. 46`, `Textbook reading: …`, `Compare: coursebook Figures 4.4 –
+4.6 (pp. 112 – 113)`, and a table of every sub-topic's pages at the chapter's start. **A sub-topic's opening line that
+names its syllabus page and its coursebook pages** (`Syllabus: 9701 Syllabus 2025–2027, p. 19   Coursebook: …`) **is
+deleted whole**, the syllabus half too: only his heading under it comes forward. Maktab shows the class's books beside
+each sub-topic and opens each at that sub-topic's page by itself, so a page number in the lesson is not needed and may not
+match the copy a student holds. A sentence of his teaching that mentions the book stays. **List what you deleted in your
+note**, in one line.
 
 ### Maktab is a website, not a handout: mark what only paper needs
 
@@ -334,8 +337,8 @@ Tell him in your note when his file does any of these; never change his words fo
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
    picture is a pasted picture.
 8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
-   shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; each sub-topic has its one
-   `Read:` line; the last heading is `Changes made by AI`, when you changed anything.
+   shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; no line only points to a
+   printed book; the last heading is `Changes made by AI`, when you changed anything.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. Each `[check: why]` is where you are truly unsure, with one plain reason.
 11. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
@@ -346,9 +349,10 @@ Tell him in your note when his file does any of these; never change his words fo
 Short and plain, in this order:
 
 1. **Check these**: each heading you could not place, each box whose label you chose or could not
-   choose, each coursebook line, each question in two sub-topics, each missing answer, and anything that
+   choose, each question in two sub-topics, each missing answer, and anything that
    looks wrong.
-2. **Left out**: anything that is not his own material, with where it came from.
+2. **Left out**: anything that is not his own material, with where it came from, and the lines pointing to a printed
+   book you deleted.
 
 What you changed is in the file itself, under `Changes made by AI`, not in the note.
 

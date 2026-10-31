@@ -1,5 +1,9 @@
 # Changes
 
+- **31 October 2026, books.** *A teacher's own file*: delete every line that only points to a printed book
+  (`Coursebook: …`, `Read: …`, `Textbook reading: …`, `Compare: coursebook …`, a table of each sub-topic's pages), and
+  list them in your note. The `Read:` line asked for on 28 October is withdrawn: Maktab shows the class's books beside
+  each sub-topic and opens each at its page. Maktab also leaves such lines out of a file prepared before.
 - **29 October 2026, past papers.** *A teacher's own file*: the heading and notes over a sub-topic's past-paper
   questions (*Exam practice 2.1 · …*, *Paper 1 · Multiple choice (6 questions)*, *All 6 … are included.*) stay out
   of its lesson text: its Past papers card lists the papers. They need no mark.
