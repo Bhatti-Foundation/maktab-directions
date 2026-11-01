@@ -219,6 +219,8 @@ Answer: 4.0 kg m s⁻¹
    paragraph starting **`Words:`** with what the picture says, as a student would type it (sub- and superscripts
    set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
    picture, and the words may point to it (*Figure 2.1 shows …*).
+   **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
+   shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
 
 ### Lines pointing to a book: leave them out
 
