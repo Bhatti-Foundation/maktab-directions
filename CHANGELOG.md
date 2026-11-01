@@ -81,24 +81,19 @@
 - **28 October 2026.** *A teacher's own file*: a numbered list keeps the numbers he typed; only a bulleted
   list is made Word's own list. A number Word draws can be lost (the blind test's 21 step numbers), and a letter or
   roman numeral always is.
-
 - **28 October 2026.** Every course's skeleton, in [subjects/](subjects/): a page per course with each topic,
   each sub-topic's number and name and each learning outcome's code, as Maktab holds them, and the same list as
   an empty Word file in [own-file.md](own-file.md)'s shape. Ten courses: 9231, 9609, 9618, 9700, 9701, 9702,
   9706, 9708, 9709 and Digital literacy (#4424).
-
 - **28 October 2026.** A new task, *A teacher's own file, made ready for Maktab* ([own-file.md](own-file.md)),
   with a sample file to copy ([sample-lecture.docx](sample-lecture.docx)): what three teachers' lecture notes,
   worked solutions and past-paper booklets taught us on 27 October 2026, as one set of directions (#4421).
-
 - **26 October 2026.** *Common misconception* is now *Common mistake*, a wrong idea or a slip in
   working; a first line saying either comes in as *Common mistake*. A new label, *Derivation*, for where
   a result comes from (#4209). Applies to every export.
-
 - **26 October 2026.** A file in the topic file's shape without the grey first line imports too (M-421):
   it adds and rewords and never removes, and each sub-topic it covers offers to replace the starter
   text nobody has edited. An export still removes what you take out.
-
 - **26 October 2026.** A sub-topic's worked examples are a place of their own, *Worked examples*, each a
   box headed *Worked example 7*; the *Text* shows one with a box whose only line is *Worked example 7*
   (M-419). Applies to every export.
