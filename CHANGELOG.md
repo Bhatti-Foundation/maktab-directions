@@ -1,5 +1,13 @@
 # Changes
 
+- **2 November 2026, mark schemes word for word.** *A teacher's own file*: a mark scheme's `Words:` are its words
+  exactly as Cambridge printed them: keep each `;` and `/`, its notes (`R`, `A`, `I`,
+  `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it underlines. Maktab reads them into
+  points (the Mark Schemes Spec); a word changed or an underline lost changes how an answer is marked.
+- **1 November 2026, tables in pictures.** *A teacher's own file*: never type a table drawn in a question's picture
+  into its `Words:`, neither as rows nor with `|` between its cells: the picture shows it, so write only its title,
+  *Table 1.1*, where it stands, and go on with the words after it. Maktab now leaves out a number or part label at the
+  start of a question's words that repeats its header's (*2 The high blood pressure…* under *Question 2(b)*).
 - **31 October 2026, the Past papers tab.** *A teacher's own file*: a sub-topic's past-paper questions go to its
   **Past papers tab**, the last of its page's tabs, where students answer them and check them. A structured question
   needs its mark scheme, and a picture of the question or of its mark scheme its `Words:` under it, for both. The
