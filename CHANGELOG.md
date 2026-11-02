@@ -1,5 +1,8 @@
 # Changes
 
+- **2 November 2026, a newer version replaces.** *A teacher's own file*: Maktab takes his newer file as the new
+  version of what his last one brought in (M-488), so a part missing from the copy is taken out of his class. Keep
+  all of his file, every time he sends it again.
 - **2 November 2026, mark schemes word for word.** *A teacher's own file*: a mark scheme's `Words:` are its words
   exactly as Cambridge printed them: keep each `;` and `/`, its notes (`R`, `A`, `I`,
   `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it underlines. Maktab reads them into

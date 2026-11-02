@@ -40,6 +40,9 @@ shapes.
 - **His answers and marks.**
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
   (below).
+- **All of his file, every time he sends it again.** Maktab takes his newer file as the new version of what his last
+  one brought in: a part he changed is changed in his class, and a part missing from your copy is taken out of it.
+  What he changed on Maktab's page himself stays as he left it.
 
 ## The shape
 
