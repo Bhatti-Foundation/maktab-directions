@@ -1,5 +1,9 @@
 # Changes
 
+- **2 November 2026, the Past paper questions tab.** A sub-topic's last tab is now named **Past paper questions**, as
+  each entry on it is one question (M-500). *A teacher's own file*: the questions under his past-paper heading go to
+  its Past paper questions tab. *A topic file*: its *Past papers* heading stays as it is; *Past paper questions* reads
+  the same. No file needs changing.
 - **2 November 2026, a multiple-choice question's pictures.** *A teacher's own file*, *Past-paper questions*, 5: a
   multiple-choice question needs no `Words:` under its pictures. Maktab shows the picture and leaves its words out, so a
   student never reads its statements or options twice; its own lines and its typed options (`A⇥1 and 2`) come in as

@@ -111,6 +111,9 @@ Downloaded on … · stamp …                      grey first line
 Tables whose first row is the header: *Title · Link · Opens at*, *Title · Link · From*,
 *Paper · Questions · Link*.
 
+The *Past papers* heading may also be *Past paper questions*, the name of the tab its questions are on; Maktab reads
+both the same.
+
 **Today a file changes a row that is there, but cannot add a row.** A new past paper goes in your
 note to the teacher, with its questions and link, to add on the sub-topic's page; a new video or
 reading goes in the *Text* as a *Video* or *Reading* box (above).

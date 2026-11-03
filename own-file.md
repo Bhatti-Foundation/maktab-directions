@@ -291,7 +291,7 @@ Use it for*), *How to use these notes* with its list, and the lines under his ke
 (*LO* beside a Bloom's level) and *Covers learning outcomes 2.1.1 L1 REMEMBER …* lines, wherever they sit: the
 sub-topic's page shows them. The heading and notes over a sub-topic's past-paper questions (*Exam practice 2.1 · real Cambridge past-paper
 questions*, *Paper 1 · Multiple choice (6 questions)*, *All 6 Paper 1 questions … are included.*), wherever they sit:
-the questions under them go to its Past papers tab.
+the questions under them go to its Past paper questions tab.
 
 Anything else before the first sub-topic comes in, to the topic's Introduction: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
 by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and
