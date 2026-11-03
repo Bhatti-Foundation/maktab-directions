@@ -41,8 +41,11 @@ shapes.
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
   (below).
 - **All of his file, every time he sends it again.** Maktab takes his newer file as the new version of what his last
-  one brought in: a part he changed is changed in his class, and a part missing from your copy is taken out of it.
+  file of the same name brought in: a part he changed is changed in his class, and a part missing from your copy is taken out of it.
   What he changed on Maktab's page himself stays as he left it.
+- **His file's name.** Give your copy the name of the file he gave you: Maktab takes it as the newer version only
+  of the file he sent before under that name. A file of another name only adds to what his class has, so two files
+  for one sub-topic keep both.
 
 ## The shape
 

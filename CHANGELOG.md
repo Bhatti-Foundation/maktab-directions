@@ -1,5 +1,8 @@
 # Changes
 
+- **3 November 2026, the same file name.** *A teacher's own file*: Maktab takes a file as the newer version only of
+  the file he sent before under the same name; a file of another name only adds, so two files for one sub-topic keep
+  both. Keep his file's name on your copy.
 - **3 November 2026, how far you have got.** *A teacher's own file*, *Say how far you have got*: your AI names each
   chapter as it starts it, *Chapter 3 of 7: Chemical bonding*, and ends each document with a short summary: what it
   made, what it removed, what it wrote itself and what it could not do, a count on each line. Both show where you
