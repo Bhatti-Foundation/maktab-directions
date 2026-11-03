@@ -239,7 +239,9 @@ Answer: 4.0 kg m s⁻¹
   term polysaccharide.`, and it goes to the *Quick check*; with none, to *Practise*.
 - **Every question needs its answer.** Where he gave none, write the one you think right on a line starting
   **`Suggested answer:`** in place of `Answer:`. Never leave it empty, and never write your own answer as `Answer:`,
-  as if it were his. Maktab keeps it apart from his answer; until he gives the answer, students are not asked the
+  as if it were his. **Never write a placeholder**, an answer that is only words in brackets (`[see note]`, `[not
+  provided]`, `[answer not provided in source file]`): Maktab reads it as no answer. Where you cannot work the answer
+  out, leave the `Answer:` and `Suggested answer:` lines out entirely; Maktab then says the question has no answer. Maktab keeps it apart from his answer; until he gives the answer, students are not asked the
   question.
 
   ```
@@ -267,10 +269,12 @@ Answer: 4.0 kg m s⁻¹
    after it, `Answer: B`. **A question whose key has no row takes Cambridge's published key's answer** where
    Maktab holds that paper's key, shown beside it as *From Cambridge's published key*; his own key row, or his
    change to the answer on its page, replaces it. Where Maktab does not hold the paper's key, the question brings
-   nothing in, and a booklet whose every key row is missing brings nothing at all.
+   nothing in, and a booklet whose every key row is missing brings nothing at all. Where he gives no key, leave
+   the `Answer:` line out; never write a placeholder such as `Answer: [see note]`.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
    number. Without it the question comes in with no answer, an error on its sub-topic's page until its mark
-   scheme is added there or in this file.
+   scheme is added there or in this file, unless Maktab holds Cambridge's scheme for it. Where he gives no mark
+   scheme, leave the `Mark scheme:` line out; never write a placeholder such as `[mark scheme not provided]`.
 4. **Each question is in one sub-topic only**: the one it mainly tests. They go to that sub-topic's **Past
    papers tab**. If the same question (the same paper and number) is in two, keep it in one and list the other
    in your note.
@@ -461,7 +465,8 @@ The lists are in my note and under "Changes made by AI".
    the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`.
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
    above, or `Box · ` and his title.
-5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote.
+5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote, and no answer or
+   mark scheme anywhere is only words in brackets.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every

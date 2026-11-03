@@ -1,5 +1,9 @@
 # Changes
 
+- **3 November 2026, no placeholder answers.** *A teacher's own file*, *Short questions* and *Past-paper questions*:
+  never write an answer or mark scheme that is only words in brackets (`[see note]`, `[answer not provided in source
+  file]`); where there is no key, leave the `Answer:`, `Suggested answer:` and `Mark scheme:` lines out. Maktab reads a
+  bracket-only answer as no answer (M-523).
 - **3 November 2026, old Word drawings as PNG.** *A teacher's own file*, *Lists, pictures, tables*: save every old
   Word drawing (EMF or WMF) as a PNG picture where it stands, its size and caption kept; no browser shows one. Maktab
   now converts any that still arrive to PNG instead of leaving them out (M-512).
