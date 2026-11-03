@@ -245,6 +245,8 @@ Answer: 4.0 kg m s⁻¹
    picture, and the words may point to it (*Figure 2.1 shows …*).
    **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
    shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
+   **A multiple-choice question needs no `Words:`**: Maktab shows its pictures and leaves their words out, so a
+   student never reads its statements or options twice. Keep its own lines and its options as the file types them.
    **A mark scheme's `Words:` are its words exactly as printed**: keep each `;` and `/`,
    its notes (`R`, `A`, `I`, `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it
    underlines. Maktab reads them into points, so a word changed or an underline lost changes how an answer is marked.

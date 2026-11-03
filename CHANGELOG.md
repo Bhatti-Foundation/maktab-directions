@@ -1,5 +1,9 @@
 # Changes
 
+- **2 November 2026, a multiple-choice question's pictures.** *A teacher's own file*, *Past-paper questions*, 5: a
+  multiple-choice question needs no `Words:` under its pictures. Maktab shows the picture and leaves its words out, so a
+  student never reads its statements or options twice; its own lines and its typed options (`A⇥1 and 2`) come in as
+  before. A structured question's and a mark scheme's `Words:` are unchanged.
 - **2 November 2026, part titles, suggested answers and what could mislead.** *A teacher's own file*: each Heading 2
   is a real title of 3 to 8 words saying what its part teaches, his heading where it says so, else yours, marked
   `[check: title written by AI; his heading was "…"]`. A question with no answer gets a `Suggested answer:` line,
