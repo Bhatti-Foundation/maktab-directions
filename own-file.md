@@ -255,8 +255,10 @@ Answer: 4.0 kg m s⁻¹
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
    `O/N`, `F/M`) and year, and the question number.
 2. **A multiple-choice question has its answer**: in the answer key, one row per question, or on a line
-   after it, `Answer: B`. **A question whose key has no row brings nothing in**, and a booklet whose
-   every key row is missing brings nothing at all.
+   after it, `Answer: B`. **A question whose key has no row takes Cambridge's published key's answer** where
+   Maktab holds that paper's key, shown beside it as *From Cambridge's published key*; his own key row, or his
+   change to the answer on its page, replaces it. Where Maktab does not hold the paper's key, the question brings
+   nothing in, and a booklet whose every key row is missing brings nothing at all.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
    number. Without it the question comes in with no answer, an error on its sub-topic's page until its mark
    scheme is added there or in this file.

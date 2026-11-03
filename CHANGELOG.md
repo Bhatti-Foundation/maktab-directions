@@ -1,5 +1,9 @@
 # Changes
 
+- **3 November 2026, Cambridge's published key.** *Past-paper questions*, 2: a multiple-choice question whose key has
+  no row takes the answer from Cambridge's published key where Maktab holds that paper's key, marked *From
+  Cambridge's published key*; his own key row or his change on the page replaces it. Elsewhere it still brings
+  nothing in.
 - **3 November 2026, the same file name.** *A teacher's own file*: Maktab takes a file as the newer version only of
   the file he sent before under the same name; a file of another name only adds, so two files for one sub-topic keep
   both. Keep his file's name on your copy.
