@@ -285,6 +285,12 @@ Answer: 4.0 kg m s⁻¹
    replaces it. Where Maktab does not hold it, the question comes in with no answer, an error on its sub-topic's
    page until its mark scheme is added there or in this file. Never type a scheme he did not give: where he gives
    none, leave the `Mark scheme:` line out, never a placeholder such as `[mark scheme not provided]`.
+   **A case study, or any question whose parts share a passage, figure or insert**: keep each part's own header,
+   `Q1(a)   9708/23/M/J/23 Q1(a)   [2 marks]` to `Q1(f) … [6 marks]`, one after another, and put the shared passage
+   and figure **right after the first header**, then start the part's own words with its letter, `(a) Using the data in
+   Fig. 1.1, calculate …`. Never put the passage before the first header or under a heading of its own. Maktab joins
+   the parts into one question, the passage first, each part with its own answer box and marks; a file that brought
+   the parts in one by one before, imported again, has the joined question take their place.
 4. **Each question is in one sub-topic only**: the one it mainly tests. They go to that sub-topic's **Past
    papers tab**. If the same question (the same paper and number) is in two, keep it in one and list the other
    in your note.

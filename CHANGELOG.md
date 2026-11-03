@@ -4,6 +4,12 @@
   never write an answer or mark scheme that is only words in brackets (`[see note]`, `[answer not provided in source
   file]`); where there is no key, leave the `Answer:`, `Suggested answer:` and `Mark scheme:` lines out. Maktab reads a
   bracket-only answer as no answer (M-523).
+- **3 November 2026, a case study's passage after its first header.** *A teacher's own file*, *Past-paper questions*,
+  3: a question whose parts share a passage or figure keeps each part's header; the passage and figure go right after
+  the first header, and each part's words start with its letter, `(a)`. Maktab joins the parts into one question, the
+  passage first, each part with its own answer box and marks, and words before the first header under a past-paper
+  heading are that question's opening, never notes; imported again, it takes the place of the parts a file brought in
+  one by one (M-519).
 - **3 November 2026, a question number the file does not give is left off.** *A teacher's own file*, *Past-paper
   questions*, 1: where his worksheet numbers a question (`Q2.`) and gives only its paper under it (`M/J-15-11`), write
   the reference without a question number, `9701/11/M/J/15`, alone on the line under the question where he put it,
