@@ -193,6 +193,11 @@ solution, move it to a line of its own just after the box.
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
 - **A table of data stays a table**, as he set it.
+- **On a phone, Maktab draws a wide table whose rows each describe one thing in words as a card per row** (the row's
+  first cell its title, each other cell under its column's header); every other wide table scrolls sideways. Maktab
+  decides this from the cells, so leave tables unmarked. Only where a table of words must be read across, its rows
+  compared column by column, put the line `[keep as table]` on its own just above the table (under its heading, if
+  it has one): Maktab then keeps it a table that scrolls on a phone, and the line is never shown to students.
 
 ### Short questions: Check your understanding, self-assessment
 
@@ -438,7 +443,8 @@ A long chapter takes a while. Never go quiet.
    changed anything.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. Each `[check: why]` is where you are truly unsure, with one plain reason; each `[could mislead: why]` is what you
-    are confident could teach a student something wrong; in a table, both sit inside a cell.
+    are confident could teach a student something wrong; in a table, both sit inside a cell. A `[keep as table]` line
+    sits on its own just above a table of words that must be read across, and nowhere else.
 11. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
 12. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 

@@ -1,5 +1,11 @@
 # Changes
 
+- **2 November 2026, wide tables on a phone.** *A teacher's own file*, *Lists, pictures, tables*: on a phone, Maktab
+  draws a wide table whose rows each describe one thing in words as a card per row, and every other wide table scrolls
+  sideways; it decides from the cells, so tables stay unmarked. Only a table of words that must be read across gets
+  the line `[keep as table]` on its own just above it, which keeps it a table and is never shown to students.
+  *A Maktab topic file*: the export writes that line above a table so marked; delete it to let a phone show a table of words as
+  cards.
 - **2 November 2026, Start here and Wrap up.** *A teacher's own file*, *The shape* and *Start here and Wrap up*: a
   sub-topic may open with a Heading 2 *Start here* (what it is about, what to know first) and close with a Heading 2
   *Wrap up* (his summary and key points), each left out where he has nothing for it. Students read a sub-topic one

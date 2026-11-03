@@ -90,6 +90,9 @@ Downloaded on … · stamp …                      grey first line
   is a heading that starts with one (`WORKED EXAMPLE - A ROCKET IN FLIGHT`), as a box of that kind;
   otherwise its words come in as text where it stands, a row of several cells one line. Write boxes
   rather than relying on this.
+- **A line `[keep as table]` just above a table** keeps that table a table on a phone, scrolling sideways, where
+  Maktab would otherwise show a table of words as a card per row. Leave it where the export put it; delete the line to
+  let a phone show a table of words as cards, or add it above a table that must be read across.
 - **A video or a reading** is a *Video* or *Reading* box under the heading it belongs to. A box with
   no link is refused. A figure, video or reading that is already in the file stays as it is: never
   paste a picture into a *Figure* box that was there.
