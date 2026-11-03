@@ -1,5 +1,10 @@
 # Changes
 
+- **3 November 2026, a question headed with its paper and no number comes in.** *A teacher's own file*, *Past-paper
+  questions*, 1: a question his AI heads itself, where his file gives no number on the paper, is headed with the paper
+  in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`; Maktab brings it in under its paper with no
+  question number when its mark scheme follows it, a `Mark scheme:` paragraph or a box whose first line is `Mark
+  scheme` (M-520; row #5054).
 - **3 November 2026, no placeholder answers.** *A teacher's own file*, *Short questions* and *Past-paper questions*:
   never write an answer or mark scheme that is only words in brackets (`[see note]`, `[answer not provided in source
   file]`); where there is no key, leave the `Answer:`, `Suggested answer:` and `Mark scheme:` lines out. Maktab reads a

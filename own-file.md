@@ -266,10 +266,12 @@ Answer: 4.0 kg m s⁻¹
    **Leave the question number off when his file does not give it**: under a question he numbered for his worksheet,
    `Q2.`, with only `M/J-15-11` under it, the reference is `9701/11/M/J/15`, never `9701/11/M/J/15 Q2`. His
    worksheet's number is not the paper's, and Maktab never guesses it. Such a question keeps his worksheet's number
-   at its start and its paper alone on the line under it, written in full (`9701/11/M/J/15`, not at its start), and
-   Maktab brings it in under its paper with no question number, when the file has its
+   at its start and its paper alone on the line under it, written in full (`9701/11/M/J/15`, not at its start); a
+   question you head yourself has the paper in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`. Maktab
+   brings it in under its paper with no question number, when the file has its
    answer: a row of his answer key or a line after it, `Answer: B`, for a multiple-choice question; his answer sheet's
-   entry of the same number, `2.`, or a `Mark scheme:` paragraph after it, for a structured one. One with no answer in
+   entry of the same number, `2.`, or a `Mark scheme:` paragraph after it (or a box whose first line is `Mark scheme`),
+   for a structured one. One with no answer in
    the file stays in the sub-topic's notes.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
