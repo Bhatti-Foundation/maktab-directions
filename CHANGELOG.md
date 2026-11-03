@@ -1,5 +1,11 @@
 # Changes
 
+- **2 November 2026, Start here and Wrap up.** *A teacher's own file*, *The shape* and *Start here and Wrap up*: a
+  sub-topic may open with a Heading 2 *Start here* (what it is about, what to know first) and close with a Heading 2
+  *Wrap up* (his summary and key points), each left out where he has nothing for it. Students read a sub-topic one
+  part at a time, and Maktab shows these two as its first and last screens. Common mistakes under *Wrap up* are copied
+  word for word only from his misconception boxes, never from *Examiner's advice* or *Top tip*, which often hold the
+  right answer.
 - **2 November 2026, the Past paper questions tab.** A sub-topic's last tab is now named **Past paper questions**, as
   each entry on it is one question (M-500). *A teacher's own file*: the questions under his past-paper heading go to
   its Past paper questions tab. *A topic file*: its *Past papers* heading stays as it is; *Past paper questions* reads

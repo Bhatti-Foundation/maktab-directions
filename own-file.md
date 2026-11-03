@@ -51,9 +51,11 @@ shapes.
 Introduction                                       Heading 1: what comes before the first sub-topic
   …his introduction, chapter at a glance…
 3.1 Momentum and Newton's laws of motion           Heading 1: the sub-topic, as Maktab names it
+  Start here                                       Heading 2: what comes before its first part, if any
   Mass and inertia                                 Heading 2: each part, his own title, no number
     paragraphs, lists, boxes, pictures
     Check your understanding · 3.1.3               a box: one short question, its outcome, its answer
+  Wrap up                                          Heading 2: its summary and key points, if any
   Past-paper questions                             Heading 2
 3.2 Non-uniform motion                             Heading 1
   …
@@ -93,6 +95,21 @@ Summary                                            Heading 1: what comes after t
    all they see of where they are. **Where his heading already says it, it is the title**, word for word. Where it
    does not, write one and end it with `[check: title written by AI; his heading was "Part A"]`, so his words are
    kept and he sees what you wrote; list it in your note.
+
+### Start here and Wrap up
+
+**A sub-topic opens with a Heading 2 *Start here* and closes with a Heading 2 *Wrap up*, when he has them.** Put what
+comes before its first part (what the sub-topic is about, what to know first) under *Start here*, and his summary,
+key points or *now you can…* under *Wrap up*, his words as he wrote them. Leave out either he has nothing for. Name
+them exactly *Start here* and *Wrap up*: students read each sub-topic one part at a time, and Maktab shows these two
+as its first and last screens. They are the sub-topic's own: the topic's *Introduction* and *Summary* (above) stay the
+whole topic's, at its start and end.
+
+**Common mistakes come only from his misconception boxes** (his *Common mistake*, `⚠ COMMON MISCONCEPTION`). A
+*Common mistake* box under *Wrap up* copies one of them word for word, and you write none yourself. His *Examiner's
+advice* and *Top tip* boxes are tips, never common mistakes, even when they name a mistake: they often hold the
+right answer (*Insoluble, so it does not affect water potential.*), and a student reading it as a common mistake
+learns that it is wrong.
 
 ### Boxes
 
