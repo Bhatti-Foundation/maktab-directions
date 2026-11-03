@@ -280,7 +280,8 @@ Answer: 4.0 kg m s⁻¹
    Maktab holds that paper's key, shown beside it as *From Cambridge's published key*; his own key row, or his
    change to the answer on its page, replaces it. Where Maktab does not hold the paper's key, the question brings
    nothing in, and a booklet whose every key row is missing brings nothing at all. Where he gives no key, leave
-   the `Answer:` line out; never write a placeholder such as `Answer: [see note]`.
+   the `Answer:` line out; never write a placeholder such as `Answer: [see note]`. **Never write a `Suggested answer:` under a
+   past-paper question**, a letter you worked out included: Maktab never takes it as the key and leaves it out.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
    number. **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
    holds it, shown as *From Cambridge's mark scheme*; his own scheme, in this file or changed on its page,

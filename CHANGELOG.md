@@ -1,5 +1,9 @@
 # Changes
 
+- **3 November 2026, no suggested answer under a past-paper question.** *A teacher's own file*, *Past-paper
+  questions*, 2: never write a `Suggested answer:` under a past-paper question, a letter worked out included. Maktab
+  never takes it as the question's key and leaves it out; her key row, her `Answer:` line or Cambridge's published key
+  gives the key (M-485, 3; T-542).
 - **3 November 2026, a question headed with its paper and no number comes in.** *A teacher's own file*, *Past-paper
   questions*, 1: a question his AI heads itself, where his file gives no number on the paper, is headed with the paper
   in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`; Maktab brings it in under its paper with no
