@@ -1,5 +1,8 @@
 # Changes
 
+- **3 November 2026, copy a question exactly.** *A teacher's own file*, *Past-paper questions*, 5: copy a question's
+  words exactly as his file has them. Where Maktab holds that Cambridge paper it uses Cambridge's own words, so nothing
+  depends on the copy being perfect (M-531, M-532; #5086).
 - **3 November 2026, no suggested answer under a past-paper question.** *A teacher's own file*, *Past-paper
   questions*, 2: never write a `Suggested answer:` under a past-paper question, a letter worked out included. Maktab
   never takes it as the question's key and leaves it out; her key row, her `Answer:` line or Cambridge's published key

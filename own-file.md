@@ -306,6 +306,8 @@ Answer: 4.0 kg m s⁻¹
    shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
    **A multiple-choice question needs no `Words:`**: Maktab shows its pictures and leaves their words out, so a
    student never reads its statements or options twice. Keep its own lines and its options as the file types them.
+   **Copy a question's words exactly as his file has them**, a slip included, and do not retype one from memory.
+   Where Maktab holds that Cambridge paper it uses Cambridge's own words, so nothing depends on your copy being perfect.
    **A mark scheme's `Words:` are its words exactly as printed**: keep each `;` and `/`,
    its notes (`R`, `A`, `I`, `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it
    underlines. Maktab reads them into points, so a word changed or an underline lost changes how an answer is marked.
