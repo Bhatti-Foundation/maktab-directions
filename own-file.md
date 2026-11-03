@@ -257,7 +257,12 @@ Answer: 4.0 kg m s⁻¹
 
 1. **Each question starts with its paper reference, and its marks**:
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
-   `O/N`, `F/M`) and year, and the question number.
+   `O/N`, `F/M`) and year, and the question number. **Write every reference in full**, `9701/11/M/J/15 Q5`, a
+   multiple-choice question's too: where he wrote a short one, `M/J-15-11` (the series, the year, the paper and its
+   variant), write it out with his subject's code, the paper and variant after the code. Maktab reads a short one
+   too, but only the full one says the subject.
+   **Questions left as plain numbered lines are not read as questions**: they come into the sub-topic's notes, and
+   Maktab warns him there. Give each its reference, or put a short one in a box (above).
 2. **A multiple-choice question has its answer**: in the answer key, one row per question, or on a line
    after it, `Answer: B`. **A question whose key has no row takes Cambridge's published key's answer** where
    Maktab holds that paper's key, shown beside it as *From Cambridge's published key*; his own key row, or his

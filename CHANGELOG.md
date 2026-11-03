@@ -3,6 +3,9 @@
 - **3 November 2026, old Word drawings as PNG.** *A teacher's own file*, *Lists, pictures, tables*: save every old
   Word drawing (EMF or WMF) as a PNG picture where it stands, its size and caption kept; no browser shows one. Maktab
   now converts any that still arrive to PNG instead of leaving them out (M-512).
+- **3 November 2026, full paper references.** *A teacher's own file*: write every past-paper question's reference in
+  full, `9701/11/M/J/15 Q5`, never short (`M/J-15-11`); Maktab reads a short one with the class's subject code, and warns
+  him when a sub-topic's notes read as a list of questions, which a reference or a box brings in as questions.
 - **3 November 2026, Cambridge's published key.** *Past-paper questions*, 2: a multiple-choice question whose key has
   no row takes the answer from Cambridge's published key where Maktab holds that paper's key, marked *From
   Cambridge's published key*; his own key row or his change on the page replaces it. Elsewhere it still brings
