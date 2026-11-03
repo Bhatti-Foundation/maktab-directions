@@ -407,8 +407,11 @@ Tell him in your note when his file does any of these; never change his words fo
 
 ## Say how far you have got
 
-A long chapter takes a while. Never go quiet.
+A long chapter takes a while. Never go quiet. Say all of this where he watches you work, in the terminal or the chat,
+not only in the file.
 
+- **Name each chapter as you start it**: its number among the documents he gave you, how many there are, and its
+  title as his file has it, *Chapter 3 of 7: Chemical bonding*.
 - **Name each document when you begin it**, *Starting ch02-processed.docx*, and when you finish it, *Finished
   ch02-processed.docx*.
 - **Write a start or end time only if your chat app gives you the current time.** Otherwise leave times out. Never
@@ -422,6 +425,18 @@ A long chapter takes a while. Never go quiet.
 - **Say each problem plainly, with where it is in his file**: *The section that begins "Part B · Ionic bonding…"
   (about page 4): its table could not be read.* Then what he can do: try again, send that section on its own, or ask
   Maktab for help. Never show him a raw error such as *chunk 5: Expecting "," delimiter*.
+- **End each document with a short summary**, straight after its *Finished* line: a count on each line, with at most
+  one short reason, and *none* where there is nothing to count. The lists stay in your note and under `Changes made
+  by AI`.
+
+```
+Finished ch03-processed.docx. Prepared by Claude Opus 5.5.
+Made: 7 sub-topics, 31 parts, 12 worked examples, 48 past-paper questions (20 multiple choice), 64 diagrams, 9 tables.
+Removed: 14 lines that point to the printed book.
+Wrote myself: 31 part titles and 22 suggested answers, each marked for you to check.
+Could not do: none.
+The lists are in my note and under "Changes made by AI".
+```
 
 ## Check your file before you hand it back
 

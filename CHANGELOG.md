@@ -1,5 +1,9 @@
 # Changes
 
+- **3 November 2026, how far you have got.** *A teacher's own file*, *Say how far you have got*: your AI names each
+  chapter as it starts it, *Chapter 3 of 7: Chemical bonding*, and ends each document with a short summary: what it
+  made, what it removed, what it wrote itself and what it could not do, a count on each line. Both show where you
+  watch it work, in the terminal or the chat; the lists stay in its note and under *Changes made by AI*.
 - **2 November 2026, wide tables on a phone.** *A teacher's own file*, *Lists, pictures, tables*: on a phone, Maktab
   draws a wide table whose rows each describe one thing in words as a card per row, and every other wide table scrolls
   sideways; it decides from the cells, so tables stay unmarked. Only a table of words that must be read across gets
