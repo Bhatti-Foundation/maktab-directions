@@ -280,9 +280,11 @@ Answer: 4.0 kg m s⁻¹
    nothing in, and a booklet whose every key row is missing brings nothing at all. Where he gives no key, leave
    the `Answer:` line out; never write a placeholder such as `Answer: [see note]`.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
-   number. Without it the question comes in with no answer, an error on its sub-topic's page until its mark
-   scheme is added there or in this file, unless Maktab holds Cambridge's scheme for it. Where he gives no mark
-   scheme, leave the `Mark scheme:` line out; never write a placeholder such as `[mark scheme not provided]`.
+   number. **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
+   holds it, shown as *From Cambridge's mark scheme*; his own scheme, in this file or changed on its page,
+   replaces it. Where Maktab does not hold it, the question comes in with no answer, an error on its sub-topic's
+   page until its mark scheme is added there or in this file. Never type a scheme he did not give: where he gives
+   none, leave the `Mark scheme:` line out, never a placeholder such as `[mark scheme not provided]`.
 4. **Each question is in one sub-topic only**: the one it mainly tests. They go to that sub-topic's **Past
    papers tab**. If the same question (the same paper and number) is in two, keep it in one and list the other
    in your note.

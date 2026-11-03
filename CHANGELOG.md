@@ -9,6 +9,10 @@
   the reference without a question number, `9701/11/M/J/15`, alone on the line under the question where he put it,
   never the worksheet's number as the paper's. Maktab now brings such a question in under its paper with no question
   number when the file has its answer; one without stays in the notes (M-520).
+- **3 November 2026, Cambridge's published mark scheme.** *Past-paper questions*, 3: a structured question with no
+  mark scheme takes Cambridge's published mark scheme for its question and part where Maktab holds it, shown as *From
+  Cambridge's mark scheme*; his own scheme, in his file or changed on the page, replaces it. Elsewhere it still comes
+  in with no answer.
 - **3 November 2026, old Word drawings as PNG.** *A teacher's own file*, *Lists, pictures, tables*: save every old
   Word drawing (EMF or WMF) as a PNG picture where it stands, its size and caption kept; no browser shows one. Maktab
   now converts any that still arrive to PNG instead of leaving them out (M-512).
