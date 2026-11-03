@@ -34,8 +34,8 @@ shapes.
 
 ## Never change
 
-- **His words**: spelling, wording, order. Correct nothing. If something looks wrong, leave it and say so
-  in your note.
+- **His words**: spelling, wording, order. Correct nothing. If something looks wrong, leave it, mark it as
+  below (*Point out what could mislead a student*) and say so in your note.
 - **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set.
 - **His answers and marks.**
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
@@ -51,7 +51,7 @@ shapes.
 Introduction                                       Heading 1: what comes before the first sub-topic
   …his introduction, chapter at a glance…
 3.1 Momentum and Newton's laws of motion           Heading 1: the sub-topic, as Maktab names it
-  Mass and inertia                                 Heading 2: each of his sections, in his own words, no number
+  Mass and inertia                                 Heading 2: each part, his own title, no number
     paragraphs, lists, boxes, pictures
     Check your understanding · 3.1.3               a box: one short question, its outcome, its answer
   Past-paper questions                             Heading 2
@@ -88,6 +88,11 @@ Summary                                            Heading 1: what comes after t
    key terms) under a Heading 1 *Summary*. Maktab puts them on the topic's own first and last pages.
 6. **If you cannot tell which sub-topic a section teaches, do not guess.** Leave its heading as it is
    and list it in your note.
+7. **Every part of a sub-topic has a real title**: each Heading 2 says in 3 to 8 words what its part teaches,
+   *Testing for reducing sugars*, never *Part A* or *Section 2*. Students see one part at a time, and its title is
+   all they see of where they are. **Where his heading already says it, it is the title**, word for word. Where it
+   does not, write one and end it with `[check: title written by AI; his heading was "Part A"]`, so his words are
+   kept and he sees what you wrote; list it in your note.
 
 ### Boxes
 
@@ -122,7 +127,9 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
   title, `Derivation · GAP FILLED – WHERE DOES THIS LAW COME FROM?`. When you cannot tell which label
   fits, use `Box · ` and his words: Maktab asks him to check its type.
 - **A box with no label line**, which Maktab types by its shading alone, and a `Box · ` box with his title, each
-  come in with a warning for him to check its type. A box you labelled comes in with none.
+  come in as a *Please check* for him to confirm its type. A box you labelled comes in with none.
+- **An *Examiner's advice* or *Top tip* box keeps its label**: never make it a *Common mistake*, even when it warns
+  of one, since it often gives the right answer.
 - A *Teacher's note* is for teachers; students never see it.
 - Leave an empty paragraph after each box, so two boxes stay two.
 
@@ -192,8 +199,8 @@ Answer: 4.0 kg m s⁻¹
 - **The code alone is enough.** Take it from the sub-topic's own list, in the export (its Heading 3 lines) or
   on the course's page in [subjects/](subjects/), which lists each code without its wording. Where you have no
   wording, choose the code by the sub-topic's name, the section the question sits in and the syllabus the page
-  links to; if you still cannot tell, name the sub-topic's code you think likeliest and list the question in
-  your note. Never leave the outcome off for want of its wording.
+  links to; if you still cannot tell, name the sub-topic's code you think likeliest. **Your choice stands**: do
+  not mark it and do not list it in your note. Never leave the outcome off for want of its wording.
 - His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
   then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
   `Answer:` line is the answer, else its last step.
@@ -201,7 +208,21 @@ Answer: 4.0 kg m s⁻¹
   end of the file whose rows start with the same `SAQ 2.4`, may stay as he wrote them: Maktab reads them.
   Each follows the same rule: give its outcome after its number and a middle dot, `SAQ 2.4 · 2.2.1 Define the
   term polysaccharide.`, and it goes to the *Quick check*; with none, to *Practise*.
-- Every question needs its answer.
+- **Every question needs its answer.** Where he gave none, write the one you think right on a line starting
+  **`Suggested answer:`** in place of `Answer:`. Never leave it empty, and never write your own answer as `Answer:`,
+  as if it were his. Maktab keeps it apart from his answer; until he gives the answer, students are not asked the
+  question.
+
+  ```
+  Check your understanding · 3.1.3
+  A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
+  Suggested answer: 4.0 kg m s⁻¹
+  ```
+
+- **A word in an answer you cannot read** (a blurred scan, a cut-off line): write your best guess and put `[?]`
+  straight after it, `Answer: the enzyme is denatured [?]`, and list it in your note. Maktab does not mark students
+  against that answer until he checks the word.
+- A past-paper question is not a short question: never write its mark scheme yourself (below).
 
 ### Past-paper questions
 
@@ -228,7 +249,7 @@ Answer: 4.0 kg m s⁻¹
    its notes (`R`, `A`, `I`, `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it
    underlines. Maktab reads them into points, so a word changed or an underline lost changes how an answer is marked.
 
-### Lines pointing to a book: leave them out
+### Lines pointing to a book or a question bank: leave them out
 
 **Delete every line that only points to a printed book**: `Coursebook: Ryan & Norris, Chemistry Coursebook 3e, Section 4.2
 Ionic bonding (p. 111)`, `Read: Coursebook Section 2.4, p. 46`, `Textbook reading: …`, `Compare: coursebook Figures 4.4 –
@@ -236,7 +257,9 @@ Ionic bonding (p. 111)`, `Read: Coursebook Section 2.4, p. 46`, `Textbook readin
 names its syllabus page and its coursebook pages** (`Syllabus: 9701 Syllabus 2025–2027, p. 19   Coursebook: …`) **is
 deleted whole**, the syllabus half too: only his heading under it comes forward. Maktab shows the class's books beside
 each sub-topic and opens each at that sub-topic's page by itself, so a page number in the lesson is not needed and may not
-match the copy a student holds. A sentence of his teaching that mentions the book stays. **List what you deleted in your
+match the copy a student holds. A sentence of his teaching that mentions the book stays. **Delete too every reference
+to a question bank or a set of questions students do not have**, `(Application: 3.3 bank Q112.)`, `See bank Q40–45.`:
+the line when it is only that, else just the reference, his sentence around it kept. **List what you deleted in your
 note**, in one line.
 
 ### Maktab is a website, not a handout: mark what only paper needs
@@ -290,8 +313,33 @@ it is not read, so list those in your note:
 The bond angle in water is 104.5°. [check: the scan cut off its last digit]
 ```
 
-Maktab takes the marker out of what students read and shows him the reason as a warning on what came in, until he
-presses *Looks right* or edits it. Never mark what you are sure of: each one is something he must check.
+**In a table, the marker goes inside the cell it is about**, never on a line after the table's last row: there it is
+a paragraph of its own, away from what it is about.
+
+Maktab takes the marker out of what students read and shows him the reason as **Please check**: a nod he gives with
+*Looks right*, or an edit. Use `[check: why]` only for what you think is **probably right**. Anything you think is
+**likely wrong**, or could not do, goes in your note under *Check these*, not as a marker. A `[check]` on a heading
+is counted too. Never mark what you are sure of: each one is something he must check.
+
+### Point out what could mislead a student: [could mislead: why]
+
+Some things could teach a student something wrong. Point each one out; **never change his words to fix it**. Put
+`[could mislead: ` and **one plain reason** `]` at the end of the paragraph, caption, table cell or question (in a
+table, inside the cell, as above), and list it in your note under *Check these*, quoting the exact sentence:
+
+- **A diagram or picture whose explanation may not match it**: *[could mislead: the text says the left graph rises,
+  but in the picture it falls]*.
+- **A question that depended on a picture but is now only text**, so it may not make sense without it: *[could
+  mislead: the question asks about "the graph above", which is not in the file]*.
+- **A sentence that may be factually wrong.** Flag only what you are **confident** is wrong by standard AS & A Level
+  science, from your own knowledge: a wrong formula, swapped units, a label that contradicts the text, *mitochondria
+  make glucose*. Give a one-line reason: *[could mislead: glucose is made in photosynthesis, not by mitochondria]*. It
+  is a suggestion only: **never claim a source** (no *according to the syllabus*, *the textbook says*), and never flag
+  style, emphasis or a matter of judgement. Keep the bar high: a wrong flag insults a subject expert and teaches him
+  to ignore the rest. If you find nothing, flag nothing.
+
+Do not check his file against the syllabus or a coursebook. `[check: why]` is for what *you* made and are unsure of;
+`[could mislead: why]` is for what could teach a student something wrong.
 
 ### Say what you changed: Changes made by AI
 
@@ -333,25 +381,45 @@ Tell him in your note when his file does any of these; never change his words fo
 - **His own material only.** A page copied from a book or another teacher, or a past paper of another
   course or level (an IGCSE paper in an A Level file), stays out: list it ([provenance.md](provenance.md)).
 
+## Say how far you have got
+
+A long chapter takes a while. Never go quiet.
+
+- **Name each document when you begin it**, *Starting ch02-processed.docx*, and when you finish it, *Finished
+  ch02-processed.docx*.
+- **Write a start or end time only if your chat app gives you the current time.** Otherwise leave times out. Never
+  guess a time or a date.
+- **Report in small batches**, naming the item each time, not only a count: every 3 items when there are up to 20,
+  every 5 up to 60, every 10 above that. *Part 1 of 6: Testing for reducing sugars*; *Diagram 12 of 160: Flowchart
+  2.1*.
+- **When something fails, keep going.** Finish the rest, then list each failure at the end. **Never stop the run**
+  for a missing answer, an unreadable word, a picture-based question or anything else you notice: do what you can,
+  mark it as above, and list it in your note.
+- **Say each problem plainly, with where it is in his file**: *The section that begins "Part B · Ionic bonding…"
+  (about page 4): its table could not be read.* Then what he can do: try again, send that section on its own, or ask
+  Maktab for help. Never show him a raw error such as *chunk 5: Expecting "," delimiter*.
+
 ## Check your file before you hand it back
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
    *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
-   the sub-topic it sits under.
+   the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`.
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
    above, or `Box · ` and his title.
-5. Every short question names its outcomes and has its answer.
+5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
    picture is a pasted picture.
 8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
    shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; no line only points to a
-   printed book; the last heading is `Changes made by AI`, when you changed anything.
+   printed book, and no reference to a question bank is left; the last heading is `Changes made by AI`, when you
+   changed anything.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
-10. Each `[check: why]` is where you are truly unsure, with one plain reason.
+10. Each `[check: why]` is where you are truly unsure, with one plain reason; each `[could mislead: why]` is what you
+    are confident could teach a student something wrong; in a table, both sit inside a cell.
 11. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
 12. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 
@@ -359,11 +427,13 @@ Tell him in your note when his file does any of these; never change his words fo
 
 Short and plain, in this order:
 
-1. **Check these**: each heading you could not place, each box whose label you chose or could not
-   choose, each question in two sub-topics, each missing answer, and anything that
-   looks wrong.
+1. **Check these**: everything he should look at, so he can fix it while he has his file open: each heading you
+   could not place, each box whose label you chose or could not choose, each question in two sub-topics, each part
+   title you wrote yourself, each suggested answer, each word marked `[?]`, each `[could mislead: …]` with the
+   sentence quoted and your reason, each question that depended on a picture, each piece that failed with where it
+   is, and anything else that looks wrong. The learning outcomes you chose are not listed.
 2. **Left out**: anything that is not his own material, with where it came from, and the lines pointing to a printed
-   book you deleted.
+   book and the question-bank references you deleted.
 
 What you changed is in the file itself, under `Changes made by AI`, not in the note.
 

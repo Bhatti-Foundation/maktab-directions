@@ -1,5 +1,15 @@
 # Changes
 
+- **2 November 2026, part titles, suggested answers and what could mislead.** *A teacher's own file*: each Heading 2
+  is a real title of 3 to 8 words saying what its part teaches, his heading where it says so, else yours, marked
+  `[check: title written by AI; his heading was "…"]`. A question with no answer gets a `Suggested answer:` line,
+  never an `Answer:`, and students are not asked it until he uses it; an unreadable word in an answer is marked `[?]`.
+  What could teach a student something wrong (a diagram explained differently from the picture, a question that
+  needed a missing picture, a sentence confidently wrong by standard AS & A Level science) is marked
+  `[could mislead: why]`, a suggestion only, his words unchanged. In a table, a marker goes inside its cell. Maktab
+  shows each marker to him as *Please check*. References to a question bank (`(Application: 3.3 bank Q112.)`) are
+  deleted and listed, as book-only lines are. An outcome you chose stands, unmarked and unlisted. Say how far you
+  have got, in small named batches, and never stop the run for one failure.
 - **2 November 2026, a newer version replaces.** *A teacher's own file*: Maktab takes his newer file as the new
   version of what his last one brought in (M-488), so a part missing from the copy is taken out of his class. Keep
   all of his file, every time he sends it again.
