@@ -195,6 +195,10 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+- **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
+  browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
+  older Word file often holds most of its diagrams so, a chemistry booklet above all. Maktab converts any that still
+  arrive, so a missed one still comes in.
 - **A table of data stays a table**, as he set it.
 - **On a phone, Maktab draws a wide table whose rows each describe one thing in words as a card per row** (the row's
   first cell its title, each other cell under its column's header); every other wide table scrolls sideways. Maktab

@@ -82,8 +82,9 @@ Downloaded on … · stamp …                      grey first line
   box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,
   and set the shading above. Leave an empty paragraph after each box, so two boxes stay two.
 - **A picture** comes in where it stands in a sub-topic's *Text*: on a line of its own between
-  paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); a
-  chart, a shape or a linked picture does not come in. A *Figure* box with no picture is refused. A
+  paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); an
+  old Word drawing (EMF or WMF) is made a PNG as it comes in; a chart, a shape or a linked picture
+  does not come in. A *Figure* box with no picture is refused. A
   picture anywhere else (before the first sub-topic, in a table, in a question) stays out. A picture
   in a *Worked example*, *Lab* or *Teacher's note* box comes in as a figure just after the box.
 - **A table in the *Text*** that is not a box is read anyway: when its first line names a kind, or
