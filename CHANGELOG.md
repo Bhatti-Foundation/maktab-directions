@@ -4,6 +4,11 @@
   never write an answer or mark scheme that is only words in brackets (`[see note]`, `[answer not provided in source
   file]`); where there is no key, leave the `Answer:`, `Suggested answer:` and `Mark scheme:` lines out. Maktab reads a
   bracket-only answer as no answer (M-523).
+- **3 November 2026, a question number the file does not give is left off.** *A teacher's own file*, *Past-paper
+  questions*, 1: where his worksheet numbers a question (`Q2.`) and gives only its paper under it (`M/J-15-11`), write
+  the reference without a question number, `9701/11/M/J/15`, alone on the line under the question where he put it,
+  never the worksheet's number as the paper's. Maktab now brings such a question in under its paper with no question
+  number when the file has its answer; one without stays in the notes (M-520).
 - **3 November 2026, old Word drawings as PNG.** *A teacher's own file*, *Lists, pictures, tables*: save every old
   Word drawing (EMF or WMF) as a PNG picture where it stands, its size and caption kept; no browser shows one. Maktab
   now converts any that still arrive to PNG instead of leaving them out (M-512).
