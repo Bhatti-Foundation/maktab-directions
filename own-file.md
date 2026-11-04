@@ -260,7 +260,7 @@ Answer: 4.0 kg m s⁻¹
 1. **Each question starts with its paper reference, and its marks**:
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
    `O/N`, `F/M`) and year, and the question number where his file gives it. **Marks are a number**: add its parts' `[2]`s
-   up; never `[marks as printed]` or `[marks]`. Maktab adds them up where you do not. **Write every reference in full**,
+   up, once, so the heading and the words print the same total; keep every part's `[2]` in its words; never `[marks as printed]` or `[marks]`. Maktab adds them up where you do not, and Cambridge's paper settles the mark where Maktab holds it; where nothing can, it takes the words and asks the teacher to check. **Write every reference in full**,
    `9701/11/M/J/15 Q5`, a multiple-choice question's too: where he wrote a short one, `M/J-15-11` (the series, the year, the paper and its
    variant), write it out with his subject's code, the paper and variant after the code. Maktab reads a short one
    too, but only the full one says the subject.

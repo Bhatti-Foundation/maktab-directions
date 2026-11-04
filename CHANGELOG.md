@@ -1,5 +1,6 @@
 # Changes
 
+- **3 November 2026, a heading and its words print one total.** *A teacher's own file*, *Past-paper questions*, 1: add a question's parts' marks up once, so its heading and its words print the same total, and keep every part's `[2]` in its words. Cambridge's paper settles the mark where Maktab holds it; where nothing can, it takes the words and asks the teacher to check (rows #5146, #5150; T-576).
 - **3 November 2026, marks are a number, and a question's answers never stay in the notes.** *A teacher's own file*,
   *Past-paper questions*, 1: marks are a number, never `[marks as printed]` or `[marks]`, which Maktab now adds up from the
   parts; a whole question whose heading names no paper that can be read comes in under *Paper unknown*; a mark scheme, an answer sheet, an `Answer:`
