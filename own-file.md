@@ -367,6 +367,8 @@ Answer: 4.0 kg m s⁻¹
 6. **Type every multiple-choice option with its letter at its start**, `A`, `B`, `C`, `D`, and every numbered
    statement with its number, `1`, `2`, `3`, as the paper has them. Where his options are a lettered Word list, the
    letters are Word's numbering, not text: type them, so no option loses its letter.
+   A Word table of its options may stay as it is, with the letters down its side or across its top: Maktab reads either.
+   A question typing its own four options has no such table: leave out a box of responses printed among its words.
 7. **One mark scheme per question, under its question.** Where his answers come as a separate section (*Answers*,
    *Mark scheme*, *Solutions*), move each question's lines to just after that question as its own `Mark scheme:`
    paragraph, holding only the lines under its own number: never the whole section, another question's lines, or a
