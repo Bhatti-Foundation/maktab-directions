@@ -1,5 +1,10 @@
 # Changes
 
+- **3 November 2026, marks are a number, and a question's answers never stay in the notes.** *A teacher's own file*,
+  *Past-paper questions*, 1: marks are a number, never `[marks as printed]` or `[marks]`, which Maktab now adds up from the
+  parts; a whole question whose heading names no paper that can be read comes in under *Paper unknown*; a mark scheme, an answer sheet, an `Answer:`
+  under a question or a `Suggested answer:` left in the notes is left out and warned, and an answer sheet goes under a
+  heading of its own, `Answers`. 2: `Answer: B (his reason)` keeps his reason as his solution. 5: `Words:` holds the words, never a note such as `[diagram for Q3]` (row #5140; T-575).
 - **3 November 2026, copy a question exactly.** *A teacher's own file*, *Past-paper questions*, 5: copy a question's
   words exactly as his file has them. Where Maktab holds that Cambridge paper it uses Cambridge's own words, so nothing
   depends on the copy being perfect (M-531, M-532; #5086).

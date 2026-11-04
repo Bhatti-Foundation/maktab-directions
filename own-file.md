@@ -259,7 +259,8 @@ Answer: 4.0 kg m s⁻¹
 
 1. **Each question starts with its paper reference, and its marks**:
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
-   `O/N`, `F/M`) and year, and the question number where his file gives it. **Write every reference in full**,
+   `O/N`, `F/M`) and year, and the question number where his file gives it. **Marks are a number**: add its parts' `[2]`s
+   up; never `[marks as printed]` or `[marks]`. Maktab adds them up where you do not. **Write every reference in full**,
    `9701/11/M/J/15 Q5`, a multiple-choice question's too: where he wrote a short one, `M/J-15-11` (the series, the year, the paper and its
    variant), write it out with his subject's code, the paper and variant after the code. Maktab reads a short one
    too, but only the full one says the subject.
@@ -272,11 +273,17 @@ Answer: 4.0 kg m s⁻¹
    answer: a row of his answer key or a line after it, `Answer: B`, for a multiple-choice question; his answer sheet's
    entry of the same number, `2.`, or a `Mark scheme:` paragraph after it (or a box whose first line is `Mark scheme`),
    for a structured one. One with no answer in
-   the file stays in the sub-topic's notes.
+   the file stays in the sub-topic's notes. **A heading whose paper cannot be read** (`9702/SP/2016`, `[series]/[year]`, no
+   paper at all): find the paper in his file and write it; where his file does not say, head it `Q19   [check: paper not in
+   his file]   [5 marks]`, never a guess. With its answer it comes in under *Paper unknown*.
+   **A question's answers never stay in the notes**: Maktab leaves out of a sub-topic's text any mark scheme, answer sheet,
+   `Answer:` line under a question or `Suggested answer:` it finds there, and warns him. An answer sheet goes under a
+   heading of its own, `Answers`, never a plain line. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
 2. **A multiple-choice question has its answer**: in the answer key, one row per question, or on a line
-   after it, `Answer: B`. **A question whose key has no row takes Cambridge's published key's answer** where
+   after it, `Answer: B`, with his own reason where he gives one, `Answer: B (ionic bonds need two elements)`, which students
+   read as his solution once they have tried it. **A question whose key has no row takes Cambridge's published key's answer** where
    Maktab holds that paper's key, shown beside it as *From Cambridge's published key*; his own key row, or his
    change to the answer on its page, replaces it. Where Maktab does not hold the paper's key, the question brings
    nothing in, and a booklet whose every key row is missing brings nothing at all. Where he gives no key, leave
@@ -302,6 +309,8 @@ Answer: 4.0 kg m s⁻¹
    paragraph starting **`Words:`** with what the picture says, as a student would type it (sub- and superscripts
    set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
    picture, and the words may point to it (*Figure 2.1 shows …*).
+   **`Words:` holds the words**, never a note: no `[diagram for Q3]`, `[see picture above]` or *see the original PDF*. Where you
+   have none, write `Words: [check: why]`.
    **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
    shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
    **A multiple-choice question needs no `Words:`**: Maktab shows its pictures and leaves their words out, so a
