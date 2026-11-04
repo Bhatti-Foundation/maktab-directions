@@ -229,6 +229,7 @@ solution, move it to a line of its own just after the box.
 
   ```
   Every figure in my file must be in your copy, including a figure drawn as lines rather than pasted as a picture. Crop each such figure from my page as one picture, with its axis labels and numbers inside it, and paste it where my caption stands. Leave none of its labels behind as loose text. Where you cannot carry a figure, write [check: figure not carried] at the end of its caption's line and say so in your summary.
+  ```
 - **A row of dots or dashes a paper prints for writing on is paper, not a picture: leave it out, never paste it, and never
   count it.** A printed paper may draw each writing line as about 137 separate pictures of 1 to 13 pixels: one file's 57
   lines were 8,139 of them, and pasted they made 325 pages of his 18. **A row of pictures, each under about 10 points across and
