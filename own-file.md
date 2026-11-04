@@ -229,6 +229,20 @@ solution, move it to a line of its own just after the box.
 
   ```
   Every figure in my file must be in your copy, including a figure drawn as lines rather than pasted as a picture. Crop each such figure from my page as one picture, with its axis labels and numbers inside it, and paste it where my caption stands. Leave none of its labels behind as loose text. Where you cannot carry a figure, write [check: figure not carried] at the end of its caption's line and say so in your summary.
+- **A row of dots or dashes a paper prints for writing on is paper, not a picture: leave it out, never paste it, and never
+  count it.** A printed paper may draw each writing line as about 137 separate pictures of 1 to 13 pixels: one file's 57
+  lines were 8,139 of them, and pasted they made 325 pages of his 18. **A row of pictures, each under about 10 points across and
+  tall, with no words beside it, is one writing line**: leave them out of your count of his pictures, and say nothing of them. Keep a
+  small picture that stands in his sentence, a symbol, an arrow or a fraction (*the particles are represented by ●*), on a line of its own just above his words. **Maktab leaves such rows out by itself**, so a
+  missed one does not reach a student; a figure is never one of them. A line of dots typed as text in a question, `speed =
+  ............ m s⁻¹`, is not a picture: leave it, Maktab makes it her answer box.
+- **A line cleaner never touches punctuation inside a line.** If your script cleans dots from his lines, it drops only a line
+  that is nothing but dots and spaces. `re.sub(r'\s*\.[\. ]*', ' ', line)` strips every full stop in a line, so `$0.40`
+  becomes `$0 40` and `2.5%` becomes `2 5%`, and a student cannot work the sum. **Hold every number of your copy against his
+  file before you hand it back**: a figure that has lost its decimal point is a failed copy. A teacher whose copy has either fault pastes this to his AI:
+
+  ```
+  Leave out every row of dots or dashes my paper prints for writing on, and never paste them as pictures: a row of small pictures, each under about 10 points across and under about 10 points tall, with no words beside it, is one writing line. Leave them out of your picture count. Keep any small picture that stands in my sentence, such as a symbol, an arrow or a fraction. Clean only a line that is nothing but dots and spaces, and never change a full stop, comma or percent sign inside a line: $0.40 stays $0.40 and 2.5% stays 2.5%. Check every number in your copy against my file before you hand it back.
   ```
 - **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
   browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
@@ -562,7 +576,7 @@ Prepared for Maktab by Claude Opus 5.5, 29 October 2026, following the direction
 ```
 
 Your name and model, the day you made it, and the directions' version: the one line in their
-[VERSION](VERSION) file, written each time they are published. Leave his own header and footer as they are,
+[VERSION](VERSION) file, written each time they are published. It stays in the header, on one line, and never runs into the first paragraph of his body. Leave his own header and footer as they are,
 beside it. Maktab keeps the stamp with the import and never shows it on a lesson page.
 
 ## What Maktab asks of the content
@@ -612,7 +626,7 @@ The lists are in my note and under "Changes made by AI".
 ## Check your file before you hand it back
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order: as many
-   pictures as his file has, each figure he drew in lines counted. From a PDF: no sentence broken across lines, every superscript set, no page header or
+   pictures as his file has, each figure he drew in lines counted, a row of dots for writing on not counted, and every number with its decimal point. From a PDF: no sentence broken across lines, every superscript set, no page header or
    footer in the text.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
