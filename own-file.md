@@ -19,6 +19,10 @@ teacher's notes, a paper of another course).
    from. If there is none, make a Word file from the PDF, and check against the PDF what a conversion gets wrong:
    equations, subscripts and superscripts, tables, and any page that is a scan, read off a picture. List each part
    you rebuilt under `Changes made by AI` at the end of the copy (below), not in your note.
+   **From a PDF, also:** join a sentence the PDF broke across lines back into one paragraph; set every superscript
+   and subscript as Word's (`m s⁻²`, `10³`, `dm⁻³`, `10 °C`), never `m s-2`; and leave out the page header, footer
+   and page number printed on every page (*7. Waves · Basic properties*, a name, *Page 3*). They are the PDF's, not his
+   teaching, and must never come into a heading, a question or a mark scheme.
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
    Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
@@ -36,7 +40,8 @@ shapes.
 
 - **His words**: spelling, wording, order. Correct nothing. If something looks wrong, leave it, mark it as
   below (*Point out what could mislead a student*) and say so in your note.
-- **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set.
+- **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set. **Never drop
+  a picture**: every picture in his file is in your copy, where it stood (below).
 - **His answers and marks.**
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
   (below).
@@ -98,6 +103,13 @@ Summary                                            Heading 1: what comes after t
    all they see of where they are. **Where his heading already says it, it is the title**, word for word. Where it
    does not, write one and end it with `[check: title written by AI; his heading was "Part A"]`, so his words are
    kept and he sees what you wrote; list it in your note.
+8. **A long part that covers more than one idea is split into parts, one idea each**, every new part a Heading 2
+   with a 3-to-8-word title. **Where his own heading, sub-heading or run-in label already names the idea** (a bold
+   or full-stopped label at a paragraph's start, *Market research.*), **it is the title, word for word, with no
+   `[check: …]` and not in your note**: it is his, so there is nothing to check; it moves up to be the heading and is
+   not repeated in the body. Only a title you write yourself ends `[check: title written by AI; …]` and goes in your
+   note. **Never change his words in the body**: only add headings and paragraph breaks where the idea changes.
+   Keep each paragraph to one idea.
 
 ### Start here and Wrap up
 
@@ -107,6 +119,11 @@ key points or *now you can…* under *Wrap up*, his words as he wrote them. Leav
 them exactly *Start here* and *Wrap up*: students read each sub-topic one part at a time, and Maktab shows these two
 as its first and last screens. They are the sub-topic's own: the topic's *Introduction* and *Summary* (above) stay the
 whole topic's, at its start and end.
+
+**A *Start here* is about the whole sub-topic, never only the part his file teaches.** Where his file covers one part
+of a sub-topic (*Irrecoverable debts*, in *1.4 Reconciliation and verification*), his opening lines go under *Start
+here* as he wrote them, and you never write that the sub-topic covers only that part. A line you write yourself names
+what the whole sub-topic covers, from its Cambridge title and outcomes, and ends `[check: Start here written by AI]`.
 
 **Common mistakes come only from his misconception boxes** (his *Common mistake*, `⚠ COMMON MISCONCEPTION`). A
 *Common mistake* box under *Wrap up* copies one of them word for word, and you write none yourself. His *Examiner's
@@ -195,6 +212,10 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+- **Never drop a picture.** Every picture in his file comes into your copy, where it stood. One that sits on a line
+  with his words (a picture in the middle of a question's first sentence) goes on a line of its own just above them;
+  a picture that holds a question's options or graphs stays with that question. Count his pictures and yours before
+  you hand it back, and list any you could not keep under *Check these* in your note, with where it was.
 - **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
   browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
   older Word file often holds most of its diagrams so, a chemistry booklet above all. Maktab converts any that still
@@ -250,6 +271,9 @@ Answer: 4.0 kg m s⁻¹
   Suggested answer: 4.0 kg m s⁻¹
   ```
 
+- **Keep his working and his mark points with his answer.** For a calculation, his steps are its working, under
+  its `Answer:`; for a written answer, his mark points or his model answer; and his mark scheme where he has one,
+  under the same question. Maktab needs them to quiz students on his questions and to mark them, across its pages.
 - **A word in an answer you cannot read** (a blurred scan, a cut-off line): write your best guess and put `[?]`
   straight after it, `Answer: the enzyme is denatured [?]`, and list it in your note. Maktab does not mark students
   against that answer until he checks the word.
@@ -271,8 +295,8 @@ Answer: 4.0 kg m s⁻¹
    question you head yourself has the paper in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`. Maktab
    brings it in under its paper with no question number, when the file has its
    answer: a row of his answer key or a line after it, `Answer: B`, for a multiple-choice question; his answer sheet's
-   entry of the same number, `2.`, or a `Mark scheme:` paragraph after it (or a box whose first line is `Mark scheme`),
-   for a structured one. One with no answer in
+   entry of the same number, `2.`, moved under it as a `Mark scheme:` paragraph (7), or a box whose first line is
+   `Mark scheme`, for a structured one. One with no answer in
    the file stays in the sub-topic's notes. **A heading whose paper cannot be read** (`9702/SP/2016`, `[series]/[year]`, no
    paper at all): find the paper in his file and write it; where his file does not say, head it `Q19   [check: paper not in
    his file]   [5 marks]`, never a guess. With its answer it comes in under *Paper unknown*.
@@ -281,6 +305,9 @@ Answer: 4.0 kg m s⁻¹
    heading of its own, `Answers`, never a plain line. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
+   **The full reference is all Maktab needs to take Cambridge's answer**: the paper, series, year and the
+   question's number on that paper (`9701/11/M/J/15 Q5`). Maktab fetches Cambridge's key or mark scheme itself;
+   his own answer, where he gives one, comes first.
 2. **A multiple-choice question has its answer**: in the answer key, one row per question, or on a line
    after it, `Answer: B`, with his own reason where he gives one, `Answer: B (ionic bonds need two elements)`, which students
    read as his solution once they have tried it. **A question whose key has no row takes Cambridge's published key's answer** where
@@ -290,11 +317,19 @@ Answer: 4.0 kg m s⁻¹
    the `Answer:` line out; never write a placeholder such as `Answer: [see note]`. **Never write a `Suggested answer:` under a
    past-paper question**, a letter you worked out included: Maktab never takes it as the key and leaves it out.
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
-   number. **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
+   number, moved under the question as its own `Mark scheme:` paragraph (7) where it came in his answer section.
+   **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
    holds it, shown as *From Cambridge's mark scheme*; his own scheme, in this file or changed on its page,
-   replaces it. Where Maktab does not hold it, the question comes in with no answer, an error on its sub-topic's
+   replaces it. Maktab finds the question on its paper by its words where it holds the paper, whatever number the
+   heading gives. Where Maktab does not hold the scheme, the question comes in with no answer, an error on its sub-topic's
    page until its mark scheme is added there or in this file. Never type a scheme he did not give: where he gives
    none, leave the `Mark scheme:` line out, never a placeholder such as `[mark scheme not provided]`.
+   **Where the report says a question is not found on its paper**, change its heading to its paper and number on Cambridge's
+   paper, `9702/23/M/J/13 Q3`, the number as Cambridge's paper prints it, never guessed; **where it says its marks differ from the
+   paper's**, give it the parts and marks the paper prints, or head it with only the part it holds. Never type out Cambridge's
+   scheme for either. **Where it says Cambridge's mark scheme cannot be read in full**, leave it as it is: it comes in with no answer
+   until he adds his own on its page. **Where it says a multiple-choice question's words are not found on its paper**, add the answer
+   he gives, `Answer: B`, and its options if they are missing; with no answer from him, leave it.
    **A case study, or any question whose parts share a passage, figure or insert**: keep each part's own header,
    `Q1(a)   9708/23/M/J/23 Q1(a)   [2 marks]` to `Q1(f) … [6 marks]`, one after another, and put the shared passage
    and figure **right after the first header**, then start the part's own words with its letter, `(a) Using the data in
@@ -320,6 +355,59 @@ Answer: 4.0 kg m s⁻¹
    **A mark scheme's `Words:` are its words exactly as printed**: keep each `;` and `/`,
    its notes (`R`, `A`, `I`, `AW`, `ecf`, `max`), its brackets and its marks, and underline every word it
    underlines. Maktab reads them into points, so a word changed or an underline lost changes how an answer is marked.
+6. **Type every multiple-choice option with its letter at its start**, `A`, `B`, `C`, `D`, and every numbered
+   statement with its number, `1`, `2`, `3`, as the paper has them. Where his options are a lettered Word list, the
+   letters are Word's numbering, not text: type them, so no option loses its letter.
+7. **One mark scheme per question, under its question.** Where his answers come as a separate section (*Answers*,
+   *Mark scheme*, *Solutions*), move each question's lines to just after that question as its own `Mark scheme:`
+   paragraph, holding only the lines under its own number: never the whole section, another question's lines, or a
+   page header or footer. **Never leave a shared answers block**: once every question has its own, his answers
+   heading goes too, and nothing is left under it. Where you cannot tell where one question's lines end, put them
+   under the question whose number they follow, end that `Mark scheme:` with `[check: where question 2's answers
+   end]`, and list it under *Check these*. A multiple-choice answer key, one row per question, may stay as his key (2).
+8. **Never write a placeholder reference**, `9708/12/[series]/[year] Q[n]` or any reference with words in brackets.
+   Where his file names no paper for a question, write no reference: the question stays as he wrote it (1, above),
+   and you list it under *Check these*.
+9. **Each question starts exactly where its marker stands, and keeps every part, in his order.** Every question
+   marker in his file, `Q2`, `Q2 (O/N/12/22)`, `Question 2`, with or without its paper, starts a new question there
+   and nowhere else. Every part, `(a)`, `(b)`, `(c)` …, with its figure, table and marks, stays under its own
+   question in his order, **even across a page break**: a `(c)` at the top of the next page belongs to the question
+   above it, not to the next marker. **Never move a question's heading** above or below any of its parts, **never
+   reorder parts**, and never start a question at `(b)` or `(c)` unless his file does (an excerpt he chose).
+   **Never copy a running page header or footer** (the chapter or section line printed on every page, a page
+   number) into a question, and **never split one line of a question into paragraphs mid-sentence**: a sentence a
+   PDF broke across lines is one paragraph. Where you cannot tell which question a part belongs to, leave it
+   under the question it follows, add `[check: which question this part belongs to]` and list it under *Check
+   these*. For example, his PDF has, on page 1, `Q1 (M/J/15/22)` with its `(a)`, then `Q2 (O/N/12/22)` with
+   `(a)` and `(b)`, and on page 2, under the running header `4. Dynamics  Newton's second law`, that question's
+   `(c)`. **Wrong** (each line a paragraph):
+
+   ```
+   Q1   9702/22/M/J/15   [2 marks]
+   4. Dynamics  Newton's second law
+   (a) A ball of mass 0.20 kg is thrown vertically upwards. Calculate its weight. [2]
+   (a) Define linear momentum. [1]
+   (b) A trolley of mass 1.5 kg moves at 2.0 m s⁻¹. Calculate its
+   momentum. [3]
+   Q2   9702/22/O/N/12   [2 marks]
+   4. Dynamics  Newton's second law
+   (c) Explain why the trolley slows down. [2]
+   ```
+
+   **Right:**
+
+   ```
+   Q1   9702/22/M/J/15   [2 marks]
+   (a) A ball of mass 0.20 kg is thrown vertically upwards. Calculate its weight. [2]
+   Q2   9702/22/O/N/12   [6 marks]
+   (a) Define linear momentum. [1]
+   (b) A trolley of mass 1.5 kg moves at 2.0 m s⁻¹. Calculate its momentum. [3]
+   (c) Explain why the trolley slows down. [2]
+   ```
+
+   Each mark scheme still goes under its own question (7). Maktab does not check this for you: a question that
+   starts in the wrong place comes in as the wrong question, so check each one against his file before you hand
+   it back.
 
 ### Lines pointing to a book or a question bank: leave them out
 
@@ -367,10 +455,16 @@ Anything else before the first sub-topic comes in, to the topic's Introduction: 
 by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and
 footer.
 
+**Never make an *Introduction* or *Summary* out of leftovers.** Lines that only describe his file (`Reference:`, `From
+year 2023 till 2026`, `End of chapter`, `Best of luck!`) are not teaching: put them in a `Print only · ` box where they
+stand, never under a Heading 1 *Introduction* or *Summary*, and make neither heading for them alone. In a file that is
+one sub-topic's notes, his opening lines go under that sub-topic's *Start here*, not the topic's *Introduction*.
+
 - **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
   wherever he had them: Maktab shows them on the topic's last page.
-- **Leave his answers section where it is** (*ANSWERS – Chapter 3*, his SAQ answers, answer key and mark schemes),
-  under its own heading, and do not move it under `Summary`: Maktab gives each answer to its question.
+- **His answers section is never a block of its own**: each question's answers or mark scheme go under that
+  question (*Past-paper questions*, 7); only a multiple-choice answer key may stay as his key. Never move answers
+  under `Summary`.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
@@ -392,6 +486,10 @@ Maktab takes the marker out of what students read and shows him the reason as **
 *Looks right*, or an edit. Use `[check: why]` only for what you think is **probably right**. Anything you think is
 **likely wrong**, or could not do, goes in your note under *Check these*, not as a marker. A `[check]` on a heading
 is counted too. Never mark what you are sure of: each one is something he must check.
+
+**Never write a working note into a heading, a caption or his words**: no `(read from the chart, approximate;
+check)`, `(continued)`, `(see note)` or `please fill in` of your own. A doubt is one `[check: why]` at the end, which
+Maktab shows him as *Please check*; anything more goes in your note.
 
 ### Point out what could mislead a student: [could mislead: why]
 
@@ -488,27 +586,34 @@ The lists are in my note and under "Changes made by AI".
 
 ## Check your file before you hand it back
 
-1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order.
+1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order: as many
+   pictures as his file has. From a PDF: no sentence broken across lines, every superscript set, no page header or
+   footer in the text.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
    *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
-   the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`.
+   the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`. A long part covering
+   more than one idea is split, one idea per part, his words unchanged.
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
    above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote, and no answer or
    mark scheme anywhere is only words in brackets.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
-   sub-topic.
-7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, and every
-   picture is a pasted picture.
+   sub-topic; no reference has words in brackets, and each mark scheme holds only its own question's answers,
+   under that question, with no shared answers block left. Each question starts at its own marker, with every
+   part under it in his order, across page breaks, and no page header, footer or mid-sentence break inside it.
+7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, every multiple-choice option
+   starts with its typed letter, and every picture is a pasted picture.
 8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
    shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; no line only points to a
    printed book, and no reference to a question bank is left; the last heading is `Changes made by AI`, when you
-   changed anything.
+   changed anything. No *Introduction* or *Summary* holds only lines about his file, and each *Start here* is about
+   its whole sub-topic.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. Each `[check: why]` is where you are truly unsure, with one plain reason; each `[could mislead: why]` is what you
     are confident could teach a student something wrong; in a table, both sit inside a cell. A `[keep as table]` line
-    sits on its own just above a table of words that must be read across, and nowhere else.
+    sits on its own just above a table of words that must be read across, and nowhere else. No heading or caption
+    carries a working note of yours.
 11. The page header has your stamp, `Prepared for Maktab by …, …, following the directions …`.
 12. Save it as a Word file named as his was, with ` (for Maktab)` before `.docx`.
 

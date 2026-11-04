@@ -1,5 +1,6 @@
 # Changes
 
+- **4 November 2026, a question found by its words, and why one has no scheme.** *A teacher's own file*, *Past-paper questions*, 3: Maktab finds a typed question on its paper by its words, whatever number its heading gives, and takes Cambridge's scheme there. Where the report says a question is not found on its paper, change its heading to its paper and number there; where it says its marks differ from the paper's, give it the parts and marks the paper prints or head it with only the part it holds, never typing out Cambridge's scheme. Where Cambridge's mark scheme cannot be read in full, leave it: it comes in with no answer until he adds his own on its page. Where a multiple-choice question's words are not found on its paper, add the answer he gives, `Answer: B`, and its options if they are missing (row #5169; T-581).
 - **3 November 2026, a heading and its words print one total.** *A teacher's own file*, *Past-paper questions*, 1: add a question's parts' marks up once, so its heading and its words print the same total, and keep every part's `[2]` in its words. Cambridge's paper settles the mark where Maktab holds it; where nothing can, it takes the words and asks the teacher to check (rows #5146, #5150; T-576).
 - **3 November 2026, marks are a number, and a question's answers never stay in the notes.** *A teacher's own file*,
   *Past-paper questions*, 1: marks are a number, never `[marks as printed]` or `[marks]`, which Maktab now adds up from the
@@ -9,6 +10,15 @@
 - **3 November 2026, copy a question exactly.** *A teacher's own file*, *Past-paper questions*, 5: copy a question's
   words exactly as his file has them. Where Maktab holds that Cambridge paper it uses Cambridge's own words, so nothing
   depends on the copy being perfect (M-531, M-532; #5086).
+- **3 November 2026, every picture kept, every option lettered, one mark scheme per question.** *A teacher's own
+  file*: never drop a picture, even one on a line with his words; type each multiple-choice option's letter and each
+  statement's number, never leave them to Word's numbering; give each question only its own answers as its mark
+  scheme, moved under it, with no shared answers block left; never write a paper reference with words in brackets; from a PDF, join broken lines, set superscripts and
+  leave out the page header and footer; make no *Introduction* or *Summary* from lines about the file; write no
+  working note into a heading or caption; a *Start here* is about the whole sub-topic; a long part covering more than one idea is split
+  into parts, one idea each, his words unchanged, his own heading or label used
+  word for word without a check tag; each question starts exactly at its marker, with every part under it in
+  his order, across page breaks, never a heading moved or a part reordered (M-528).
 - **3 November 2026, no suggested answer under a past-paper question.** *A teacher's own file*, *Past-paper
   questions*, 2: never write a `Suggested answer:` under a past-paper question, a letter worked out included. Maktab
   never takes it as the question's key and leaves it out; her key row, her `Answer:` line or Cambridge's published key
