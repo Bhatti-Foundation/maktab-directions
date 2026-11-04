@@ -348,6 +348,8 @@ Answer: 4.0 kg m s⁻¹
    paragraph starting **`Words:`** with what the picture says, as a student would type it (sub- and superscripts
    set as Word's, `[2 marks]` kept). Never replace the picture; a diagram, graph or table drawn in it stays the
    picture, and the words may point to it (*Figure 2.1 shows …*).
+   **Under a question stand only its own pictures**: the figures its words name, *Fig. 7.1* being question 7's on Cambridge's paper. A picture on a
+   page two questions share goes under the one it belongs to, once. A band or mask a PDF prints on every page is no picture of his: leave it out.
    **`Words:` holds the words**, never a note: no `[diagram for Q3]`, `[see picture above]` or *see the original PDF*. Where you
    have none, write `Words: [check: why]`.
    **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
