@@ -216,6 +216,20 @@ solution, move it to a line of its own just after the box.
   with his words (a picture in the middle of a question's first sentence) goes on a line of its own just above them;
   a picture that holds a question's options or graphs stays with that question. Count his pictures and yours before
   you hand it back, and list any you could not keep under *Check these* in your note, with where it was.
+- **Every figure of his is in your copy, a figure drawn in lines as much as one pasted as a picture.** A PDF, and a Word
+  file saved as one, often holds a graph, axes, a circuit, a scale drawing or a geometry diagram as lines: `page.get_images()`
+  finds nothing on its page and `page.get_drawings()` finds its strokes, while its axis numbers and labels come out as
+  loose words. **Copy such a figure across whole**: crop it from his page at 200 dpi or more, with its axis labels and
+  numbers inside the picture, and paste it where his caption stands, the caption on the line under it. None of its labels
+  stays behind as a line of text (`p / 10⁴ N s`, `0 0`, `2 4 6 8 10 t / s`). **Count each drawn figure with his pictures.**
+  Where you cannot carry one, write `[check: figure not carried]` at the end of its caption's line, leave its loose labels out,
+  list it under *Check these* in your note and on the *Could not do* line of your summary. Maktab holds back a question that
+  names more figures than it has pictures, and tells him of a caption with no picture over it and of a drawing made of
+  shapes. A teacher whose copy lost a figure pastes this to his AI:
+
+  ```
+  Every figure in my file must be in your copy, including a figure drawn as lines rather than pasted as a picture. Crop each such figure from my page as one picture, with its axis labels and numbers inside it, and paste it where my caption stands. Leave none of its labels behind as loose text. Where you cannot carry a figure, write [check: figure not carried] at the end of its caption's line and say so in your summary.
+  ```
 - **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
   browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
   older Word file often holds most of its diagrams so, a chemistry booklet above all. Maktab converts any that still
@@ -598,7 +612,7 @@ The lists are in my note and under "Changes made by AI".
 ## Check your file before you hand it back
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order: as many
-   pictures as his file has. From a PDF: no sentence broken across lines, every superscript set, no page header or
+   pictures as his file has, each figure he drew in lines counted. From a PDF: no sentence broken across lines, every superscript set, no page header or
    footer in the text.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
