@@ -507,6 +507,14 @@ Answer: 4.0 kg m s⁻¹
    left when his copy stopped there. It is no line of his scheme (3), and with its words missing nothing can be
    marked against it.
 
+11. **A formula is set, never left as Word's mathematical letters in plain text.** A PDF's or an old Word file's equation can
+   copy as `𝐸𝑘= 𝑝2` with `2𝑚` on the next line, or a nuclide as `𝑈` with its numbers lost: the subscript, the power, the fraction's
+   line and the numbers are gone, and a student reads that. Set it on one line, as the paper prints it, with Word's subscripts and
+   superscripts: `Eₖ = p²/2m`, a fraction `a/b` with brackets where it needs them, a nuclide with its nucleon number as a superscript and its proton
+   number as a subscript before its letter, and its equation on one line. Read each off the paper or his PDF, never working it
+   out; where you cannot read it, write what you can see and add `[check: why]`, listed under *Check these*. Maktab reads these
+   letters as they stand and warns him at the import, naming the line: it never guesses the formula.
+
 ### Lines pointing to a book or a question bank: leave them out
 
 **Delete every line that only points to a printed book**: `Coursebook: Ryan & Norris, Chemistry Coursebook 3e, Section 4.2
