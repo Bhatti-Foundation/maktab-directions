@@ -23,6 +23,10 @@ teacher's notes, a paper of another course).
    and subscript as Word's (`m s⁻²`, `10³`, `dm⁻³`, `10 °C`), never `m s-2`; and leave out the page header, footer
    and page number printed on every page (*7. Waves · Basic properties*, a name, *Page 3*). They are the PDF's, not his
    teaching, and must never come into a heading, a question or a mark scheme.
+   **A block that is only header lines is a header, in any number of lines** (`4.Dynamics` over `Newton's 2nd Law`): take it
+   out line by line, and never join it to the line after it, so the `Q1` under it still starts its question.
+   **Clean by what you cannot read, never by a symbol.** `×`, `÷`, `±`, `°`, `Δ`, `Ω`, `µ`, `√`, `≤`, `≥` and `→` are his content: a line
+   holding one is never a fault, and never dropped. Only a run of garbled characters is, and a line you cannot read stays, marked `[check: why]`.
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
    Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
@@ -270,6 +274,9 @@ solution, move it to a line of its own just after the box.
   ```
   Drop every line that is nothing but dots and spaces, and if it ends in my marks, such as [2], put the mark at the end of the last line of words above it. Keep every line with a word of mine on it exactly as I typed it, such as amount = ……… mol. Keep the dots under a past-paper question that names its paper: Maktab makes them answer boxes.
   ```
+  **Never delete a paragraph by its number.** Moving anything changes every number after it: a copy that moved each picture
+  to a new paragraph, then deleted paragraphs by the numbers they had, lost all four. Delete a paragraph by what it says, or
+  keep it. Maktab says so where a file packs pictures and none stands on a line.
 - **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
   browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
   older Word file often holds most of its diagrams so, a chemistry booklet above all. Maktab converts any that still
@@ -450,7 +457,9 @@ Answer: 4.0 kg m s⁻¹
    number) into a question, and **never split one line of a question into paragraphs mid-sentence**: a sentence a
    PDF broke across lines is one paragraph. Where you cannot tell which question a part belongs to, leave it
    under the question it follows, add `[check: which question this part belongs to]` and list it under *Check
-   these*. For example, his PDF has, on page 1, `Q1 (M/J/15/22)` with its `(a)`, then `Q2 (O/N/12/22)` with
+   these*. **A part standing after a later question's marker or its `[Total: 11]` is the earlier question's**, where a PDF's
+   pages ran so (*velocity = … at … ° to the vertical* under a car question): move it back under the question whose parts and marks it
+   completes. Where you cannot tell, leave it with that marker: Maktab moves it where the question straight above is short of just its marks, and otherwise says so and leaves it out. For example, his PDF has, on page 1, `Q1 (M/J/15/22)` with its `(a)`, then `Q2 (O/N/12/22)` with
    `(a)` and `(b)`, and on page 2, under the running header `4. Dynamics  Newton's second law`, that question's
    `(c)`. **Wrong** (each line a paragraph):
 
@@ -679,8 +688,8 @@ The lists are in my note and under "Changes made by AI".
 ## Check your file before you hand it back
 
 1. His words, pictures, tables of data, equations and answers are all there, unchanged, in his order: as many
-   pictures as his file has, each figure he drew in lines counted, a row of dots for writing on not counted, and every number with its decimal point. From a PDF: no sentence broken across lines, every superscript set, no page header or
-   footer in the text.
+   pictures as his file has, each on a line, each figure he drew in lines counted, a row of dots for writing on not counted, and every number with its decimal point; no paragraph deleted by its number. From a PDF: no sentence broken across lines, every superscript set, no page header or
+   footer in the text, and every line holding `×`, `÷` or another symbol kept.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
    *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
