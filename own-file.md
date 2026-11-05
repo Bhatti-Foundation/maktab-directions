@@ -250,6 +250,16 @@ solution, move it to a line of its own just after the box.
   ```
   Leave out every blank page of my file, and any picture that is one colour all over, such as a white page, a black band or a black square. Never render a blank page as a picture. Lay each picture on white and count its colours to tell. Keep every figure with anything drawn in it, and do not count what you leave out.
   ```
+- **Each picture stands above the caption the book prints beside it, and no other.** A PDF hands out a page's images in any
+  order, a page's ornament among them (an arrow, a dot, a rule), so never give captions to pictures in order: look at the page
+  and see which is which. Leave ornament out and do not count it. **Maktab does not draw a picture too small to read, and when
+  one sits over a caption it leaves out every captioned picture in the file**, since the captions may be on the wrong ones: a
+  wrong caption is worse than a missing picture. Copy each caption whole from its first word, and read a word a PDF split back
+  together (*Figur e*, *Entr epreneur*). A teacher whose pictures are under the wrong captions pastes this to his AI:
+
+  ```
+  Check every picture in your copy against my book's page. Each picture must stand just above the caption printed beside it in the book, never given a caption by its order in the file. Leave out arrows, dots and rules that are the page's ornament. Copy each caption whole, from its first word, and join any word the PDF split. Where you cannot tell which picture is which, leave the picture out and write [check: figure not carried] at the end of its caption's line.
+  ```
 - **Every figure of his is in your copy, a figure drawn in lines as much as one pasted as a picture.** A PDF, and a Word
   file saved as one, often holds a graph, axes, a circuit, a scale drawing or a geometry diagram as lines: `page.get_images()`
   finds nothing on its page and `page.get_drawings()` finds its strokes, while its axis numbers and labels come out as
