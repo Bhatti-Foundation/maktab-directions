@@ -247,6 +247,28 @@ solution, move it to a line of its own just after the box.
   with his words (a picture in the middle of a question's first sentence) goes on a line of its own just above them;
   a picture that holds a question's options or graphs stays with that question. Count his pictures and yours before
   you hand it back, and list any you could not keep under *Check these* in your note, with where it was.
+- **A picture from a PDF is cropped from his page, never lifted out with `extract_image`**, whatever it looks like. Lifted out on its own, a picture can come out on black, because its transparent ground is kept apart from it; a crop stands on the ground his page gives it. Read his words first, then crop each picture on a fresh copy of its page:
+
+  ```python
+  def crop(path, n, xref):   # n: the page's index; xref: the picture's, from page.get_images()
+      page = pymupdf.open(path)[n]
+      rect = page.get_image_rects(xref)[0]
+      labels = []
+      for b in page.get_text("blocks"):
+          if b[6]: continue
+          r, words = pymupdf.Rect(b[:4]), b[4].strip()
+          if rect.y0 <= (r.y0 + r.y1) / 2 <= rect.y1 and 0 < len(words.split()) <= 3 and words[0].isalnum():
+              rect |= r; labels.append(words)
+          else:
+              page.add_redact_annot(r, fill=False)
+      page.apply_redactions(images=0, graphics=0)
+      return page.get_pixmap(clip=rect & page.rect, dpi=200), labels
+  ```
+
+  Look at a corner of each before you paste it: where his page is white and the corner is black, it is wrong.
+- **Words he set on a picture are the picture's.** A line of up to three words on it or beside it, such as *Input* beside *Coil* and *Output* beside *Load*, is a label: `crop` keeps it in the picture and hands it back in `labels`, and it is never a line of text of its own, so leave it out of your words. A sentence is not a label, even where it stands on the picture: `crop` takes it out of the picture, and it is a paragraph where it stands.
+- **A short line over one picture, with no other words on its slide or page, is that picture's caption**: *Parts of a transformer* alone over its drawing becomes the line under it, `Diagram 3  Parts of a transformer`, numbered in the order of such captions in the sub-topic. Nothing else is: a heading with lines or bullets under it stays a heading, its bullets stay Word's list, and the picture follows them with no caption. A caption is never made of a heading and its bullets. **A picture with no title of his takes no caption**: never write `Diagram 3` alone.
+- **A line of his about the course, not the subject, is his to decide**: *Derivation is not in syllabus, just the final result.* Leave it a paragraph where it stands, every word his, ended with `[check: this is about the course; should students read it?]`. Never move it, box it or leave it out.
 - **A blank page or a picture of one colour is no picture: leave it out, and count it nowhere.** Never render a blank page of his PDF as a picture, even
   in a file you treat as a scan. Before you paste any picture, lay it on white and count its colours: where it has one, all white, all black, a band or a square, leave it out and say nothing of it. A figure on a white background with a few lines in it has more than one colour and stays.
 
