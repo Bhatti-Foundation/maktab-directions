@@ -405,6 +405,13 @@ Answer: 4.0 kg m s⁻¹
    heading goes too, and nothing is left under it. Where you cannot tell where one question's lines end, put them
    under the question whose number they follow, end that `Mark scheme:` with `[check: where question 2's answers
    end]`, and list it under *Check these*. A multiple-choice answer key, one row per question, may stay as his key (2).
+   **His scheme pages need no `Mark scheme` label.** A run of numbered blocks matching his question numbers (`1.` to `10.`, each with
+   its parts and mark points, `C1`, `M1`, `A1 [2]`), under any heading that is not his question's words (`Answers Newton's second
+   Law`, `Solutions`, a running page header, or none), **is his scheme**: move each number's lines under the question of that number.
+   Count his mark points (`B1`, `C1`, `M1`, `A1`) in his file and in your copy; they must agree. Keep a line where you cannot tell whose it is, by the rule above.
+   **Never write a note in a scheme's place** (`His mark scheme at the back of the file answers this question`): Maktab reads it as
+   no scheme, and it says nothing a student can use. **Never claim stand-in answers for a question his own scheme answers, and
+   never print a note about invented lines on a question where nothing was invented.**
 8. **Never write a placeholder reference**, `9708/12/[series]/[year] Q[n]` or any reference with words in brackets.
    Where his file names no paper for a question, write no reference: the question stays as he wrote it (1, above),
    and you list it under *Check these*.
@@ -620,9 +627,12 @@ Finished ch03-processed.docx. Prepared by Claude Opus 5.5.
 Made: 7 sub-topics, 31 parts, 12 worked examples, 48 past-paper questions (20 multiple choice), 64 diagrams, 9 tables.
 Removed: 14 lines that point to the printed book.
 Wrote myself: 31 part titles and 22 suggested answers, each marked for you to check.
+Answers: Q1 to Q40 his mark scheme, 86 mark points in his file and 86 here; Q41 and Q42 none in his file, so Maktab takes Cambridge's.
 Could not do: none.
 The lists are in my note and under "Changes made by AI".
 ```
+
+**The `Answers:` line says of each past-paper question whose answer it is**, his scheme or none in his file, in runs of its number where they read alike, and his mark points counted in his file and in your copy. A copy that has lost his scheme then says so.
 
 ## Check your file before you hand it back
 
@@ -640,7 +650,7 @@ The lists are in my note and under "Changes made by AI".
    mark scheme anywhere is only words in brackets.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic; no reference has words in brackets, and each mark scheme holds only its own question's answers,
-   under that question, with no shared answers block left. Each question starts at its own marker, with every
+   under that question, with no shared answers block left; his numbered answer pages are in it, under any heading, as many mark points as his file has. Each question starts at its own marker, with every
    part under it in his order, across page breaks, and no page header, footer or mid-sentence break inside it.
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, every multiple-choice option
    starts with its typed letter, and every picture is a pasted picture.
