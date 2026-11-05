@@ -638,7 +638,7 @@ one sub-topic's notes, his opening lines go under that sub-topic's *Start here*,
 **Only where you are truly unsure** of something you made (a value you read from a blurred scan, a table you rebuilt
 from a picture, a label you chose between two), put `[check: ` and **one plain reason** `]` at the end of its
 paragraph, box line, heading, picture's caption or table cell; not in a worked example or a short question, where
-it is not read, so list those in your note:
+it is not read, so name those under `Changes made by AI` (below):
 
 ```
 The bond angle in water is 104.5°. [check: the scan cut off its last digit]
@@ -648,9 +648,10 @@ The bond angle in water is 104.5°. [check: the scan cut off its last digit]
 a paragraph of its own, away from what it is about.
 
 Maktab takes the marker out of what students read and shows him the reason as **Please check**: a nod he gives with
-*Looks right*, or an edit. Use `[check: why]` only for what you think is **probably right**. Anything you think is
-**likely wrong**, or could not do, goes in your note under *Check these*, not as a marker. A `[check]` on a heading
-is counted too. Never mark what you are sure of: each one is something he must check.
+*Looks right*, or an edit. **Anything about one place in his file that you ask him to check is marked there**, what you
+think is likely wrong or could not do too, its reason saying so: `[check: I think this is wrong: …]`, `[check: I could not
+read this]`. Your note reaches no page. A `[check]` on a heading is counted too. Never mark what you are sure of: each one is
+something he must check.
 
 **Never write a working note into a heading, a caption or his words**: no `(read from the chart, approximate;
 check)`, `(continued)`, `(see note)` or `please fill in` of your own. A doubt is one `[check: why]` at the end, which
@@ -691,6 +692,14 @@ Changes made by AI
 
 Maktab keeps the list with the import, shows it to the teacher before his
 file, and leaves it out of every lesson page. If you changed nothing, leave the heading out.
+
+**What you ask him to check about the file as a whole is a line here too**, since this list is where he reads it: what you
+did, then what to check, in one line, with no `[check: …]` marker. This is also the place for a worked example or a short
+question you are unsure of.
+
+```
+• Put 6.2 at "The universal genetic code", where the file gives no heading. Check that 6.2 starts there.
+```
 
 ### Stamp the copy
 
@@ -789,7 +798,9 @@ The lists are in my note and under "Changes made by AI".
 
 Short and plain, in this order:
 
-1. **Check these**: everything he should look at, so he can fix it while he has his file open: each heading you
+1. **Check these**: everything he should look at, so he can fix it while he has his file open. **Each is in the file as well:**
+   one about a place as `[check: why]` or `[could mislead: why]` on that line, one about the file as a whole as a line under
+   `Changes made by AI`. Say nothing here that the file does not hold, and nothing about how you made the copy. It covers each heading you
    could not place, each box whose label you chose or could not choose, each question in two sub-topics, each part
    title you wrote yourself, each suggested answer, each word marked `[?]`, each `[could mislead: …]` with the
    sentence quoted and your reason, each question that depended on a picture, each piece that failed with where it
