@@ -480,6 +480,23 @@ Answer: 4.0 kg m s⁻¹
    Each mark scheme still goes under its own question (7). Maktab does not check this for you: a question that
    starts in the wrong place comes in as the wrong question, so check each one against his file before you hand
    it back.
+10. **A part is one line: its letter, its words and its marks**, as the paper prints it, however his file or a PDF
+   broke it: `(a) State Newton's second law. [1]`, never `(a)`, `State Newton's second law.` and `[1]` as three
+   paragraphs. **A part with sub-parts starts on the same line**, `(c) (i) For the collision in (b), state how the
+   following apply:`, then `1. Newton's third law, [2]`, `2. the law of conservation of momentum. [1]` and
+   `(ii) State, with a reason, whether the collision is elastic or inelastic. [1]`. A printed answer line takes the
+   part's marks at its end: `change in momentum = ................ N s [2]`. A student reads this on a phone, and
+   Maktab draws each part's marks at its line's right.
+   **A mark scheme is typed the same way: each point keeps its code on its line**, `(a) (p =) mv C1`, then
+   `Δp = 1.66 × 10⁻²³ N s A1 [2]`, and `(ii) kinetic energy (of ball and wall) is reduced so inelastic B1 [1]`. A
+   line Cambridge gives no mark, `A0`, keeps it too: `Eₖ = p²/2m A0 [3]`. Where his file has its codes in a run apart
+   from their lines (`M1`, `M1`, `A1` under three lines), put the first on the first line, the next on the next, in
+   the order they stand. Where the lines and codes do not pair up, leave them where they stand: Maktab reads them in
+   their order. This changes where a code stands, never which code it is. His worksheet's number over a scheme, `4.`,
+   stays on a line of its own.
+   **A part's letter with nothing under it is left out**: the `(b)` ending a scheme whose question holds only `(a)`,
+   left when his copy stopped there. It is no line of his scheme (3), and with its words missing nothing can be
+   marked against it.
 
 ### Lines pointing to a book or a question bank: leave them out
 
