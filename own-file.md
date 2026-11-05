@@ -245,6 +245,13 @@ solution, move it to a line of its own just after the box.
   ```
   Leave out every row of dots or dashes my paper prints for writing on, and never paste them as pictures: a row of small pictures, each under about 10 points across and under about 10 points tall, with no words beside it, is one writing line. Leave them out of your picture count. Keep any small picture that stands in my sentence, such as a symbol, an arrow or a fraction. Clean only a line that is nothing but dots and spaces, and never change a full stop, comma or percent sign inside a line: $0.40 stays $0.40 and 2.5% stays 2.5%. Check every number in your copy against my file before you hand it back.
   ```
+- **A typed line of nothing but dots is paper too: leave it out of your copy.** The answer is typed in Maktab, so `..........` under a
+  question only makes the page look like paper. Drop a line that is nothing but dots and spaces. Where it ends in his marks, `.......... [2]`,
+  put `[2]` at the end of the last line of words above it, so his mark stays and the dots go. **Keep every line with a word of his on it exactly as he typed it**: `amount = ……… mol` stays. **A past-paper question that names its paper keeps its dots**, whole lines too: Maktab makes each one her answer box. Say nothing of the lines you drop, and count them nowhere. Maktab leaves out a line of nothing but dots by itself; his marks need you. A teacher whose copy has such lines pastes this to his AI:
+
+  ```
+  Drop every line that is nothing but dots and spaces, and if it ends in my marks, such as [2], put the mark at the end of the last line of words above it. Keep every line with a word of mine on it exactly as I typed it, such as amount = ……… mol. Keep the dots under a past-paper question that names its paper: Maktab makes them answer boxes.
+  ```
 - **Save every old Word drawing (EMF or WMF) as a PNG picture**, where it stands, its size and caption kept: no
   browser shows an EMF or WMF. In the file they are the pictures under `word/media/` ending `.emf` or `.wmf`; an
   older Word file often holds most of its diagrams so, a chemistry booklet above all. Maktab converts any that still
