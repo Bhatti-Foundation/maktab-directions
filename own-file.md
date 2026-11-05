@@ -486,7 +486,7 @@ Answer: 4.0 kg m s⁻¹
    under the question it follows, add `[check: which question this part belongs to]` and list it under *Check
    these*. **A part standing after a later question's marker or its `[Total: 11]` is the earlier question's**, where a PDF's
    pages ran so (*velocity = … at … ° to the vertical* under a car question): move it back under the question whose parts and marks it
-   completes. Where you cannot tell, leave it with that marker: Maktab moves it where the question straight above is short of just its marks, and otherwise says so and leaves it out. For example, his PDF has, on page 1, `Q1 (M/J/15/22)` with its `(a)`, then `Q2 (O/N/12/22)` with
+   completes, **a short line with it too** (`The mass of the magnet is 130 g.` above its `(a)`). Where you cannot tell, leave it with that marker: Maktab moves it where the question straight above is short of just its marks, and otherwise says so and leaves it out. For example, his PDF has, on page 1, `Q1 (M/J/15/22)` with its `(a)`, then `Q2 (O/N/12/22)` with
    `(a)` and `(b)`, and on page 2, under the running header `4. Dynamics  Newton's second law`, that question's
    `(c)`. **Wrong** (each line a paragraph):
 

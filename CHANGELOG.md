@@ -1,5 +1,6 @@
 # Changes
 
+- **4 November 2026, a short line goes with its part.** *A teacher's own file*, *Past-paper questions*: a short line standing with a part his AI moves back under its question moves with it.
 - **4 November 2026, a page's own line run into his words.** *A teacher's own file*, *What you need*, 1: a page's header or foot the PDF's text runs into a line of his comes off it, his words kept. Maktab reads none of it: it takes off only Cambridge's *For Examiner's Use* on a line of its own.
 - **4 November 2026, a question's reference is a paragraph of its own.** *A teacher's own file*, *Past-paper questions*, 1: his question's first words and any picture start the next paragraph, never a line break under the reference in theirs. Maktab reads either.
 - **4 November 2026, a formula is set.** *A teacher's own file*, *Past-paper questions*, 11: Word's mathematical letters as plain text, a fraction broken across two paragraphs (`𝐸𝑘= 𝑝2` over `2𝑚`), a power or subscript lost, a nuclide's numbers lost: his AI sets each on one line with Word's subscripts and superscripts, `Eₖ = p²/2m`, read off the paper. Maktab warns on the question at the import, naming the line, and never guesses the formula.
