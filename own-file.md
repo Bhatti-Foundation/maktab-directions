@@ -23,7 +23,7 @@ teacher's notes, a paper of another course).
    it, and keep a list one line per item with its mark on that line (`a. hotel`, never `a` and `hotel` on two lines); set every superscript
    and subscript as Word's (`m s⁻²`, `10³`, `dm⁻³`, `10 °C`), never `m s-2`; and leave out the page header, footer
    and page number printed on every page (*7. Waves · Basic properties*, a name, *Page 3*). They are the PDF's, not his
-   teaching, and must never come into a heading, a question or a mark scheme.
+   teaching, and must never come into a heading, a question or a mark scheme. **One the PDF's text runs into his words comes off them too, his words kept**: `… [2]  A2 Physics Circular Motion`, `… [3]  9702/42/O/N/23 [Turn over  (ii) Determine …`.
    **A block that is only header lines is a header, in any number of lines** (`4.Dynamics` over `Newton's 2nd Law`): take it
    out line by line, and never join it to the line after it, so the `Q1` under it still starts its question.
    **Clean by what you cannot read, never by a symbol.** `×`, `÷`, `±`, `°`, `Δ`, `Ω`, `µ`, `√`, `≤`, `≥` and `→` are his content: a line
