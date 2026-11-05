@@ -122,6 +122,13 @@ Summary                                            Heading 1: what comes after t
    not repeated in the body. Only a title you write yourself ends `[check: title written by AI; …]` and goes in your
    note. **Never change his words in the body**: only add headings and paragraph breaks where the idea changes.
    Keep each paragraph to one idea.
+   **A part of over 1,500 words is long**: students read one part at a time, and that is about nineteen screens on a
+   phone. Maktab keeps a part whole, so its import names one that long, once for its sub-topic, under that
+   sub-topic's name in the summary. A teacher whose import names a long part pastes this to his AI, then imports its copy:
+
+   ```
+   Split every part of over 1,500 words into parts, one idea each, each new part a Heading 2 with a title of 3 to 8 words. Where my own heading or label already names the idea, it is the title. Never change my words.
+   ```
 
 ### Start here and Wrap up
 
