@@ -212,10 +212,23 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
-- **Never drop a picture.** Every picture in his file comes into your copy, where it stood. One that sits on a line
+- **Never drop a picture** (but for a blank page or a picture of one colour, below). Every other picture in his file comes into your copy, where it stood. One that sits on a line
   with his words (a picture in the middle of a question's first sentence) goes on a line of its own just above them;
   a picture that holds a question's options or graphs stays with that question. Count his pictures and yours before
   you hand it back, and list any you could not keep under *Check these* in your note, with where it was.
+- **A blank page or a picture of one colour is no picture: leave it out, and count it nowhere.** Never render a blank page of his PDF as a picture, even
+  in a file you treat as a scan. Before you paste any picture, lay it on white and count its colours: where it has one, all white, all black, a band or a square, leave it out and say nothing of it. A figure on a white background with a few lines in it has more than one colour and stays.
+
+  ```python
+  page = Image.new("RGBA", im.size, "white"); page.alpha_composite(im.convert("RGBA"))
+  one_colour = page.convert("RGB").getcolors(1) is not None
+  ```
+
+  A teacher whose copy shows a blank gap or a black band pastes this to his AI:
+
+  ```
+  Leave out every blank page of my file, and any picture that is one colour all over, such as a white page, a black band or a black square. Never render a blank page as a picture. Lay each picture on white and count its colours to tell. Keep every figure with anything drawn in it, and do not count what you leave out.
+  ```
 - **Every figure of his is in your copy, a figure drawn in lines as much as one pasted as a picture.** A PDF, and a Word
   file saved as one, often holds a graph, axes, a circuit, a scale drawing or a geometry diagram as lines: `page.get_images()`
   finds nothing on its page and `page.get_drawings()` finds its strokes, while its axis numbers and labels come out as
