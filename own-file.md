@@ -173,6 +173,15 @@ is none of these starts **`Box · `** and his own title, so it stays a box with 
   of one, since it often gives the right answer.
 - A *Teacher's note* is for teachers; students never see it.
 - Leave an empty paragraph after each box, so two boxes stay two.
+- **A box holds one whole box of his, and nothing else.** A box the book runs over a page is one table: all of it in one
+  cell, its questions and its last sentence included, however long, never a second table or plain paragraphs under the first.
+  What comes after the box's last line, a heading of his lesson above all, goes outside it. Maktab brings one line that plainly
+  finishes a box's last sentence into the box, and can tell no more. A teacher whose box stops mid-sentence, or holds his
+  lesson, pastes this to his AI:
+
+  ```
+  Each box in my book must be one table in your copy, holding all of that box and nothing else. Where a box runs over a page, keep every line of it in one cell, its questions too. Move any heading or lesson text that is not part of the box out of the table, to just after it. Change no words, and say in your summary which boxes you changed.
+  ```
 
 ### Worked examples
 
