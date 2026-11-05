@@ -369,7 +369,7 @@ Answer: 4.0 kg m s⁻¹
 
 ### Past-paper questions
 
-1. **Each question starts with its paper reference, and its marks**:
+1. **Each question starts with its paper reference, and its marks**, a paragraph of its own: his first words and any picture start the next paragraph, never a line break under the reference in theirs:
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
    `O/N`, `F/M`) and year, and the question number where his file gives it. **Marks are a number**: add its parts' `[2]`s
    up, once, so the heading and the words print the same total; keep every part's `[2]` in its words; never `[marks as printed]` or `[marks]`. Maktab adds them up where you do not, and Cambridge's paper settles the mark where Maktab holds it; where nothing can, it takes the words and asks the teacher to check. **Write every reference in full**,
