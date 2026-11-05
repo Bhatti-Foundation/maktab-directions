@@ -381,7 +381,7 @@ Answer: 4.0 kg m s⁻¹
 
 1. **Each question starts with its paper reference, and its marks**, a paragraph of its own: his first words and any picture start the next paragraph, never a line break under the reference in theirs:
    `Q1(b)   9701/22/M/J/20 Q1(b)   [2 marks]`. The reference is the paper code, the series (`M/J`,
-   `O/N`, `F/M`) and year, and the question number where his file gives it. **Marks are a number**: add its parts' `[2]`s
+   `O/N`, `F/M`) and year in two figures (`08`, not `2008`; Maktab reads either), and the question number where his file gives it. **Marks are a number**: add its parts' `[2]`s
    up, once, so the heading and the words print the same total; keep every part's `[2]` in its words; never `[marks as printed]` or `[marks]`. Maktab adds them up where you do not, and Cambridge's paper settles the mark where Maktab holds it; where nothing can, it takes the words and asks the teacher to check. **Write every reference in full**,
    `9701/11/M/J/15 Q5`, a multiple-choice question's too: where he wrote a short one, `M/J-15-11` (the series, the year, the paper and its
    variant), write it out with his subject's code, the paper and variant after the code. Maktab reads a short one
@@ -456,7 +456,7 @@ Answer: 4.0 kg m s⁻¹
    **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
    shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
    **A multiple-choice question needs no `Words:`**: Maktab shows its pictures and leaves their words out, so a
-   student never reads its statements or options twice. Keep its own lines and its options as the file types them.
+   student never reads its statements or options twice. Keep its own lines and its options as the file types them. Type a statement's number, `1  The reaction is endothermic.`, where a Word list numbered it: Maktab adds it from Cambridge's paper only where it can read it there.
    **Copy a question's words exactly as his file has them**, a slip included, and do not retype one from memory.
    Where Maktab holds that Cambridge paper it uses Cambridge's own words, so nothing depends on your copy being perfect.
    **A mark scheme's `Words:` are its words exactly as printed**: keep each `;` and `/`,
