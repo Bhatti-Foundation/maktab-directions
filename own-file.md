@@ -420,7 +420,7 @@ Answer: 4.0 kg m s⁻¹
    **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
    holds it, shown as *From Cambridge's mark scheme*; his own scheme, in this file or changed on its page,
    replaces it. **Type the scheme he gives as he gives it, each line, its mark and its part's letter as his file has them:
-   never change a mark, drop a line or add one so its points add up to the question's marks, and never re-letter a part.** A scheme in this file whose points add up to more or less
+   never change a mark, drop a line or add one so its points add up to the question's marks, and never re-letter a part.** **A scheme holds only its question's rows:** where his answer pages run on, each row goes under the question whose number it names, `6(b)` under question 6 and never under 7, and a row of a question this file does not hold goes nowhere. Maktab leaves out a line labelled with another question where it finds the question on its paper. A scheme in this file whose points add up to more or less
    than the question's marks gives way at the import to Cambridge's for the parts Maktab holds, which the page shows as *From Cambridge's mark scheme: (a)(i), (c)*.
    Nothing needs doing about that, and nothing is said of it. Maktab finds the question on its paper by its words where it holds the paper, whatever number the
    heading gives. Where Maktab does not hold the scheme, the question comes in with no answer, an error on its sub-topic's
