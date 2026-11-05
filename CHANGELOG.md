@@ -1,5 +1,6 @@
 # Changes
 
+- **4 November 2026, a Word equation is written out.** *A teacher's own file*, *Never change*: an equation made with Word's Equation tool is written out on its line, in the same characters, since Maktab does not read Word's Equation tool.
 - **4 November 2026, no handwriting reaches a student.** *A teacher's own file*, *Lists, pictures, tables*: a pen note his AI cannot read, or a drawing words cannot say, is left out and marked `[check: handwritten note, type it]`, never pasted as a picture; he types it or draws it properly.
 - **4 November 2026, a pen note is typed.** *A teacher's own file*, *Lists, pictures, tables*: a pen note with words is typed under its paragraph; only a little drawing, or a note his AI cannot read, stays a picture.
 - **4 November 2026, a list of solutions stays whole.** *The shape*, 8: a list of worked solutions, each under its paper, has no idea to split it by, so it is left as it is, and its import does not name it as long.

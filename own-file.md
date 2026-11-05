@@ -53,7 +53,9 @@ shapes.
 - **His words**: spelling, wording, order. Correct nothing. If something looks wrong, leave it, mark it as
   below (*Point out what could mislead a student*) and say so in your note.
 - **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set. **Never drop
-  a picture**: every picture in his file is in your copy, where it stood (below).
+  a picture**: every picture in his file is in your copy, where it stood (below). **An equation made with Word's Equation tool is
+  written out on its line**, in the same characters, with Word's subscripts and superscripts and a fraction on one line, `a/b`:
+  Maktab does not read Word's Equation tool, and the line would come in without it.
 - **His answers and marks.**
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
   (below).
