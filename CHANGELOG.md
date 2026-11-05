@@ -2,6 +2,7 @@
 
 - **4 November 2026, no handwriting reaches a student.** *A teacher's own file*, *Lists, pictures, tables*: a pen note his AI cannot read, or a drawing words cannot say, is left out and marked `[check: handwritten note, type it]`, never pasted as a picture; he types it or draws it properly.
 - **4 November 2026, a pen note is typed.** *A teacher's own file*, *Lists, pictures, tables*: a pen note with words is typed under its paragraph; only a little drawing, or a note his AI cannot read, stays a picture.
+- **4 November 2026, a list of solutions stays whole.** *The shape*, 8: a list of worked solutions, each under its paper, has no idea to split it by, so it is left as it is, and its import does not name it as long.
 - **4 November 2026, a short line goes with its part.** *A teacher's own file*, *Past-paper questions*: a short line standing with a part his AI moves back under its question moves with it.
 - **4 November 2026, a page's own line run into his words.** *A teacher's own file*, *What you need*, 1: a page's header or foot the PDF's text runs into a line of his comes off it, his words kept. Maktab reads none of it: it takes off only Cambridge's *For Examiner's Use* on a line of its own.
 - **4 November 2026, a scheme holds only its question's rows.** *A teacher's own file*, *Past-paper questions*, 3: where his answer pages run on, each row goes under the question whose number it names, `6(b)` under question 6 and never under 7; Maktab leaves out a line labelled with another question where it finds the question on its paper (T-642).

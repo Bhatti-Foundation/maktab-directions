@@ -124,7 +124,8 @@ Summary                                            Heading 1: what comes after t
    Keep each paragraph to one idea.
    **A part of over 1,500 words is long**: students read one part at a time, and that is about nineteen screens on a
    phone. Maktab keeps a part whole, so its import names one that long, once for its sub-topic, under that
-   sub-topic's name in the summary. A teacher whose import names a long part pastes this to his AI, then imports its copy:
+   sub-topic's name in the summary. **A list of worked solutions, each under its paper, is no long part**: no idea runs
+   through it, so leave it as it is. A teacher whose import names a long part pastes this to his AI, then imports its copy:
 
    ```
    Split every part of over 1,500 words into parts, one idea each, each new part a Heading 2 with a title of 3 to 8 words. Where my own heading or label already names the idea, it is the title. Never change my words.
