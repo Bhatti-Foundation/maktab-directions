@@ -19,7 +19,8 @@ teacher's notes, a paper of another course).
    from. If there is none, make a Word file from the PDF, and check against the PDF what a conversion gets wrong:
    equations, subscripts and superscripts, tables, and any page that is a scan, read off a picture. List each part
    you rebuilt under `Changes made by AI` at the end of the copy (below), not in your note.
-   **From a PDF, also:** join a sentence the PDF broke across lines back into one paragraph; set every superscript
+   **From a PDF, also:** join a sentence the PDF broke across lines back into one paragraph, inside a box as much as outside
+   it, and keep a list one line per item with its mark on that line (`a. hotel`, never `a` and `hotel` on two lines); set every superscript
    and subscript as Word's (`m s⁻²`, `10³`, `dm⁻³`, `10 °C`), never `m s-2`; and leave out the page header, footer
    and page number printed on every page (*7. Waves · Basic properties*, a name, *Page 3*). They are the PDF's, not his
    teaching, and must never come into a heading, a question or a mark scheme.
@@ -27,6 +28,13 @@ teacher's notes, a paper of another course).
    out line by line, and never join it to the line after it, so the `Q1` under it still starts its question.
    **Clean by what you cannot read, never by a symbol.** `×`, `÷`, `±`, `°`, `Δ`, `Ω`, `µ`, `√`, `≤`, `≥` and `→` are his content: a line
    holding one is never a fault, and never dropped. Only a run of garbled characters is, and a line you cannot read stays, marked `[check: why]`.
+   Maktab joins a long line that plainly goes on in
+   the next; a short one, and a question's or a mark scheme's lines, it leaves as they are. A teacher whose lesson reads as
+   fragments pastes this to his AI:
+
+   ```
+   In your copy each paragraph must be one paragraph, not one line per line of the PDF, in the lesson and inside boxes alike. Where a sentence goes on across lines, join them. Keep each list one line per item, its mark on that line. Join nothing else: keep a list's items, a table's cells and a question's options as they are, and change no words.
+   ```
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
    Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
