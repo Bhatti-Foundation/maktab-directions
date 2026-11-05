@@ -1,5 +1,6 @@
 # Changes
 
+- **4 November 2026, no handwriting reaches a student.** *A teacher's own file*, *Lists, pictures, tables*: a pen note his AI cannot read, or a drawing words cannot say, is left out and marked `[check: handwritten note, type it]`, never pasted as a picture; he types it or draws it properly.
 - **4 November 2026, a pen note is typed.** *A teacher's own file*, *Lists, pictures, tables*: a pen note with words is typed under its paragraph; only a little drawing, or a note his AI cannot read, stays a picture.
 - **4 November 2026, a short line goes with its part.** *A teacher's own file*, *Past-paper questions*: a short line standing with a part his AI moves back under its question moves with it.
 - **4 November 2026, a page's own line run into his words.** *A teacher's own file*, *What you need*, 1: a page's header or foot the PDF's text runs into a line of his comes off it, his words kept. Maktab reads none of it: it takes off only Cambridge's *For Examiner's Use* on a line of its own.
