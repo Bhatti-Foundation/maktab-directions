@@ -56,9 +56,9 @@ shapes.
   a picture**: every picture in his file is in your copy, where it stood (below). **An equation made with Word's Equation tool is
   written out on its line**, in the same characters, with Word's subscripts and superscripts and a fraction on one line, `a/b`:
   Maktab does not read Word's Equation tool, and the line would come in without it.
-  **A drawing made of characters** (a network of `[Computer A]───┬───[Computer B]`, boxes and lines typed on the keyboard) stays
-  in Word's *HTML Preformatted* style, each line as he spaced it: Maktab shows it as one block in fixed-width type. Never respace it,
-  never turn it into a picture, and leave out of that style any line that is only words, such as its title.
+  **A drawing made of characters** (a network of `[Computer A]───┬───[Computer B]`, boxes and lines typed on the keyboard) is
+  not good enough for a student: it needs a picture. Keep his drawing as he spaced it, in Word's *HTML Preformatted* style,
+  and end its last line with `[check: replace this drawing with a picture]`. He replaces it; never draw one for him.
 - **His answers and marks.**
 - **His teaching, and every heading over it: never delete them.** A part only paper needs is marked, never deleted
   (below).
