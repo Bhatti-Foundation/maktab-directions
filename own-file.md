@@ -167,11 +167,37 @@ Definition · Momentum
 The momentum of a body is the product of its mass and its velocity.
 ```
 
-The labels Maktab has: **Key idea, Definition, Derivation, Top tip, Examiner's advice, Common mistake,
-Real-world link, Think about it, Memory trick, Practical skills link, Syllabus link, Teacher's note**,
-and **Worked example**; and **Check your understanding**, for a short question (below). A box of his that
+The labels Maktab has, and what each is for:
+
+| Label | Use it for |
+|---|---|
+| **Key idea** | The one thing to take away |
+| **Definition** | A definition to learn word for word |
+| **Derivation** | Where a result comes from, step by step |
+| **Top tip** | A quick way to get something right: a method, a shortcut, a check |
+| **Examiner's advice** | How marks are won and lost: what to write, and how to word it. His *Exam tip* is this |
+| **Common mistake** | A wrong idea or a slip in working, and how to avoid it |
+| **Real-world link** | Where the idea appears outside the classroom |
+| **Think about it** | A question to stop and think about |
+| **Memory trick** | A way to remember it |
+| **Practical skills link** | How it connects to practical work |
+| **Syllabus link** | Where the idea is used later in the course |
+| **Teacher's note** | For teachers only |
+
+There is also **Worked example**; and **Check your understanding**, for a short question (below). A box of his that
 is none of these starts **`Box · `** and his own title, so it stays a box with his title:
 `Box · GRAPH CHECK`; a box with no title starts with `Box` alone.
+
+**A heading or line that only names a box's kind is that box, with no title.** `2.1 Exam Tip` with two paragraphs under
+it, or `Exam tip:` starting a paragraph, becomes a box whose first line is `Examiner's advice` alone and whose body is
+his words, never `Top tip · Exam Tip`, which names the same thing twice. **A title is words that say something
+the label does not.**
+
+**A line that says `Definition` or `Definition:` over his words is a Definition box**, its title the heading it stands
+under: under `2.1 Thick Client`, `Definition:` and his sentence become `Definition · Thick Client` over that sentence, and his
+heading stays as it is, `2.1 Thick Client`, its number on it. Where
+the line itself begins his sentence, `Definition: Compression reduces…`, the label comes off it and the sentence is the
+box's body. Do this for every such line in his file. **Nothing else about his words changes.**
 
 - His own style of label is read: `✎ DEFINITION – learn it word for word · Electronegativity` is a
   Definition, `⚠ COMMON MISCONCEPTION` a Common mistake, `☰ TEACHER'S CORNER` a Teacher's note, and
