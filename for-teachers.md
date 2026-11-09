@@ -33,7 +33,7 @@ Your own file stays as it is. Your AI gives you a copy for Maktab. Anything true
 
 - **Pictures:** paste each picture (PNG or JPEG) on a line of its own. A chart, or a drawing made of Word's shapes, doesn't come in, so paste a picture of it.
 - **Captions:** put the caption on the line just under the picture, starting with its name and number: `Figure 2.1 A mass spectrum`. It must start that way to be read as the caption; `Figure: A mass spectrum` comes in as an ordinary paragraph. For a table, put its title on the line above it: `Table 2.1 Reacting masses`.
-- **Attribution:** where a figure, table or picture comes from someone else's work, end its caption with where it came from: `Figure 2.1 A mass spectrum. Source: Chemistry Coursebook, Cambridge University Press`.
+- **Attribution, if you give one:** to say where a figure, table or picture came from, add it to the end of its caption: `Figure 2.1 A mass spectrum. Source: Chemistry Coursebook, Cambridge University Press`. Your AI keeps any attribution your file already has, and moves it there for you.
 - **Tables:** a table of data stays a table, and a picture in a table cell comes in where it stands.
 - **Lists:** use Word's bullets and numbering (Home › Bullets), up to three levels.
 - **Links:** a link inside a sentence comes in as a link. A YouTube or Vimeo link on a line of its own comes in as a video, playing where it stands. A picture is pasted into the file, not linked to.

@@ -272,6 +272,12 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+- **Keep any attribution his file gives a picture, table or figure, at the end of its caption.** Where he wrote where it
+  came from (*Source: …*, *Reproduced from …*, *© …*, *Courtesy of …*) on a line near it, move his words to the end of
+  its caption, after a full stop: `Diagram 2.1  A mass spectrum. Source: Chemistry Coursebook, Cambridge University
+  Press`. A table's caption is the line above it, `Table 2.1 …`. On its own line it comes in as a paragraph apart from
+  the picture. **Never write an attribution he did not give**, and leave a past paper question's `© UCLES` lines as they
+  are.
 - **Never drop a picture** (but for a blank page or a picture of one colour, below). Every other picture in his file comes into your copy, where it stood. One that sits on a line
   with his words (a picture in the middle of a question's first sentence) goes on a line of its own just above them;
   a picture that holds a question's options or graphs stays with that question. Count his pictures and yours before

@@ -1,5 +1,6 @@
 # Changes
 
+- **9 November 2026, an attribution ends its caption.** Where his file says where a picture, table or figure came from, his AI keeps his words at the end of its caption, never on a line of their own, and writes none he did not give (M-557). The teachers' directions say how he gives one, if he wants to.
 - **9 November 2026, directions for teachers.** [for-teachers.md](for-teachers.md) tells a teacher, in plain words, the shape Maktab reads and why: a website, not a handout; headings; pictures, tables, links and formulas; boxes; worked examples; quick checks; practice and past paper questions; question codes; answers; importing; the file and the editor; videos. Written for the builds taken up that afternoon (D-77, D-79). The AI's directions are unchanged.
 - **7 November 2026, a drawing made of characters needs a picture.** It stays as he spaced it, marked `[check: replace this drawing with a picture]`, so Maktab asks him to replace it; his AI never draws one. Replaces the line of 6 November that kept it as it was.
 - **6 November 2026, a drawing made of characters.** It stays in Word's *HTML Preformatted* style, each line as spaced; Maktab shows it as one block in fixed-width type. Never respaced, never turned into a picture; a line of words alone is left out of that style.
