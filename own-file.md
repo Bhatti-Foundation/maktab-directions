@@ -319,9 +319,9 @@ solution, move it to a line of its own just after the box.
   ```
 - **Each picture stands above the caption the book prints beside it, and no other.** A PDF hands out a page's images in any
   order, a page's ornament among them (an arrow, a dot, a rule), so never give captions to pictures in order: look at the page
-  and see which is which. Leave ornament out and do not count it. **Maktab does not draw a picture too small to read, and when
-  one sits over a caption it leaves out every captioned picture in the file**, since the captions may be on the wrong ones: a
-  wrong caption is worse than a missing picture. Copy each caption whole from its first word, and read a word a PDF split back
+  and see which is which. Leave ornament out and do not count it. **Maktab does not draw a picture too small to read, and it shows
+  every other picture just as the file has it, with the caption under it**: it cannot see which picture is which, so a picture
+  under the wrong caption reaches his students so until the file is mended. Copy each caption whole from its first word, and read a word a PDF split back
   together (*Figur e*, *Entr epreneur*). A teacher whose pictures are under the wrong captions pastes this to his AI:
 
   ```
