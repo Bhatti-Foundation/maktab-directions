@@ -19,6 +19,8 @@ given always wins**: where it and these directions differ, follow the file and t
 
 ## For the teacher
 
+**[for-teachers.md](for-teachers.md) is yours**: the shape Maktab reads, and why, in plain words.
+
 Export the topic on the class materials page (**Export or import**), put the file in your folder,
 and tell your AI agent:
 
