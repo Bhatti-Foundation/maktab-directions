@@ -13,7 +13,7 @@ Your students read Maktab on a phone, one short part at a time, with the class's
 | "See the coursebook, p. 46" | The class's book opens beside each sub-topic at the right page, so book references are left out |
 | A cover, *How to use this booklet*, a colour key | Maktab has its own pages for these, so they are left out |
 | A drawing made of typed characters, a handwritten note | A picture, and typed words. Handwriting never reaches a student |
-| A long section, split into pages | Short parts of one idea each, read one screen after another. A part over about 1,500 words (around 19 phone screens) is split |
+| A long section, split into pages | Short parts of one idea each, read one screen after another. Your AI splits a part over about 1,500 words (around 19 phone screens) |
 | Questions you check by hand | Questions Maktab asks, checks and marks, so each one needs its answer |
 
 Your lesson adds to the book: your explanations, your examples, the mistakes you see, what earns marks. Where it would only repeat the book, leave it out.
@@ -79,10 +79,9 @@ A worked example is your teaching: you solve a problem in front of the student. 
 
 The **Quick check** tab in each sub-topic has short questions that make sure students have picked up the idea they've just read: one idea at a time, tried until they get it right.
 
-Where you don't give quick check questions, Maktab writes its own, but it's happy to take yours. **To add yours, use a *Check your understanding* box:** a one-by-one table whose first line is `Check your understanding`, then the learning outcome it tests, then the question and its answer. Put one at the end of each section.
+Where you don't give quick check questions, Maktab writes its own, but it's happy to take yours. **To add yours, use a *Check your understanding* box:** a one-by-one table whose first line is `Check your understanding`, then the question, then its answer. Put one at the end of each section.
 
 > **Check your understanding**
-> Learning outcome 3.1.3
 > A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 > Answer: 4.0 kg m s⁻¹
 
@@ -106,13 +105,15 @@ The **Past paper questions** tab has Cambridge's questions, which students answe
 
 **The reference alone is enough.** A line such as `9618/12/M/J/21 Q5` brings in the question, its pictures, its options if it is multiple choice, its marks and Cambridge's answer. You don't type any of them.
 
+That needs Cambridge's question number. Where you have only the paper, write it and type the question under it: `9618/12/M/J/21`, then the question. Maktab finds it on the paper by its words.
+
 Add your step-by-step solution under it and the question also goes to Practise, where students can work through it with hints.
 
 ## Question codes
 
-- **A learning outcome**, such as `3.1.3`, goes in a *Check your understanding* box. It must belong to the sub-topic the question sits in. [Your subject's page](subjects/) lists the codes.
 - **A past paper reference** is written out in full: the subject and paper, the series (`M/J`, `O/N`, `F/M`), the year in two figures, then the question number. For example `9701/11/M/J/15 Q5`, not `M/J-15-11`.
-- **Use Cambridge's question number, never your own.** If your worksheet calls it *Question 2* but it was question 5 on Cambridge's paper, write `Q5`. If you don't know Cambridge's number, leave the number off and write only the paper: `9701/11/M/J/15`. A wrong number brings in a different question, with the wrong answer and mark scheme.
+- **Use Cambridge's question number, never your own.** If your worksheet calls it *Question 2* but it was question 5 on Cambridge's paper, write `Q5`. A wrong number brings in a different question, with the wrong answer and mark scheme.
+- **If you don't know Cambridge's number, leave it off**, write only the paper, `9701/11/M/J/15`, and type the question under it.
 
 ## How you give answers
 
@@ -135,7 +136,7 @@ Your answer always wins over Cambridge's. If your file has an answer sheet at th
 
 ## Learning outcomes
 
-You don't need to tag your lesson with learning outcomes. Maktab's **Clean up with AI** tags each part for you, and you can change them in the editor. The only learning outcome you write is the one in a *Check your understanding* box.
+You don't write learning outcomes. On a sub-topic, press **Edit**, then **Clean up with AI**: it tags each part of your lesson and each of your questions with the learning outcomes it teaches. You can change any of them in the editor.
 
 ## Importing your files
 
@@ -144,7 +145,7 @@ On **Class materials**, press **Export or import** and choose your files. You ca
 **Organise your files however suits you.** Each file brings its pieces to the sub-topics its headings name, so one sub-topic can be fed by several files: your notes on 3.1 in one, your past paper questions on 3.1 in another.
 
 **A file's name is how Maktab knows it:**
-- **A new version of the same file keeps the same name.** Importing it replaces what the last version brought in.
+- **A new version of the same file keeps the same name.** Importing it replaces what the last version brought in. A past paper question you take out of your file stays on the page: delete it there.
 - **Different material gets a different name.** It's added alongside. So if the same notes are imported under two names, students read them twice.
 
 **If you don't like how something came in,** change your file, save it, and press **Read again** on the import screen. Maktab reads the file again before anything is added.
