@@ -262,6 +262,10 @@ solution, move it to a line of its own just after the box.
 
 ### Lists, pictures, tables
 
+- **His fixed-width words keep their font** (Courier New, Consolas or another typewriter font): an address, a
+  binary number, a web address or a line of code he set that way inside a sentence or a table cell stays in it,
+  as he set it. Never change it to italics or to the font around it. Maktab draws it fixed-width, so a student
+  copies it as it is.
 - **A bulleted list is a Word bulleted list** (Home › Bullets), never typed dashes or `•` at the start of
   a paragraph.
 - **A numbered list keeps its numbers as he has them** (`1.`, `(a)`, `iv.`, `Step 1`), typed or Word's own
