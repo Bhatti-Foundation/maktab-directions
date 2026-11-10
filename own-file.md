@@ -266,6 +266,11 @@ solution, move it to a line of its own just after the box.
   binary number, a web address or a line of code he set that way inside a sentence or a table cell stays in it,
   as he set it. Never change it to italics or to the font around it. Maktab draws it fixed-width, so a student
   copies it as it is.
+- **His links stay his links.** A YouTube or Vimeo link meant to play goes on a line of its own, where it belongs
+  in his lesson, outside any box or sentence: Maktab brings it in as a video there, the link's words, if it has
+  any, its title. Never write a *Video* box for it. A link inside a sentence stays as he has it, a Word hyperlink on
+  his words or his typed address: Maktab keeps its words and its address, and a student opens it. A link to a
+  picture stays a link and is never drawn: paste the picture itself (below).
 - **A bulleted list is a Word bulleted list** (Home › Bullets), never typed dashes or `•` at the start of
   a paragraph.
 - **A numbered list keeps its numbers as he has them** (`1.`, `(a)`, `iv.`, `Step 1`), typed or Word's own
