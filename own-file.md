@@ -517,11 +517,17 @@ Answer: 4.0 kg m s⁻¹
    `9701/11/M/J/15 Q5`, a multiple-choice question's too: where he wrote a short one, `M/J-15-11` (the series, the year, the paper and its
    variant), write it out with his subject's code, the paper and variant after the code. Maktab reads a short one
    too, but only the full one says the subject.
+   **Where his file gives the question's number on its paper, that number stands after the paper, every time**, even
+   when the same number heads the line: pages that say `800. 9700_m20_qp_12` over `Q: 22` give the paper
+   `9700/12/F/M/20` and its question 22, so the heading is `Q22   9700/12/F/M/20 Q22   [1 mark]`, never
+   `Q22   9700/12/F/M/20   [1 mark]`. The `Q22` at the start heads the line; the `Q22` after the paper is the number
+   Maktab finds Cambridge's question and key by. Without it a booklet of 134 such questions comes in as 134 lines of
+   lesson text, and Maktab says so under *Didn't come in*. `800.` is the book's count of its questions, never the question's number.
    **Leave the question number off when his file does not give it**: under a question he numbered for his worksheet,
    `Q2.`, with only `M/J-15-11` under it, the reference is `9701/11/M/J/15`, never `9701/11/M/J/15 Q2`. His
    worksheet's number is not the paper's, and Maktab never guesses it. Such a question keeps his worksheet's number
    at its start and its paper alone on the line under it, written in full (`9701/11/M/J/15`, not at its start); a
-   question you head yourself has the paper in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`. Maktab
+   question you head yourself, his file giving no number on its paper, has the paper in full and no number after it, `Q1   9702/22/M/J/15   [2 marks]`. Maktab
    brings it in under its paper with no question number, when the file has its
    answer: a row of his answer key or a line after it, `Answer: B`, for a multiple-choice question; his answer sheet's
    entry of the same number, `2.`, moved under it as a `Mark scheme:` paragraph (7), or a box whose first line is
