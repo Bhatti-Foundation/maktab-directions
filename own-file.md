@@ -283,6 +283,10 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+- **A picture in a table's cell stays in its cell**, pasted as a picture (PNG or JPEG), one to a cell: a column of
+  diagrams, each beside its name, comes in as he made it, each diagram above any words in its cell. Never move it out
+  of the table, and never give it a caption line: the words in its row name it. A second picture in one cell does not
+  come in: give it a cell of its own.
 - **Crop a picture's plain white margin, and nothing else.** Where a figure stands on a wide band of white (a graph
   with a fifth of its width blank at the right, a drawing in one corner of a white page, 81% of it white), cut from its
   edges the rows and columns that are white all along, leaving a thin border: the figure then fills more of a phone's

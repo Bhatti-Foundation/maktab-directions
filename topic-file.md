@@ -82,8 +82,10 @@ Downloaded on … · stamp …                      grey first line
 - **A picture** comes in where it stands in a sub-topic's *Text*: on a line of its own between
   paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); an
   old Word drawing (EMF or WMF) is made a PNG as it comes in; a chart, a shape or a linked picture
-  does not come in. A *Figure* box with no picture is refused. A
-  picture anywhere else (before the first sub-topic, in a table, in a question) stays out. A picture
+  does not come in. A *Figure* box with no picture is refused. **A picture in a table's cell** in the
+  *Text* comes in in its cell, above the cell's words, one to a cell; a picture the file already shows in
+  a cell is kept as it is, so leave it there. A picture anywhere else (before the first sub-topic, in a
+  question, a second in one cell) stays out. A picture
   in a *Worked example*, *Lab* or *Teacher's note* box comes in as a figure just after the box.
 - **A table in the *Text*** that is not a box is read anyway: when its first line names a kind, or
   is a heading that starts with one (`WORKED EXAMPLE - A ROCKET IN FLIGHT`), as a box of that kind;
