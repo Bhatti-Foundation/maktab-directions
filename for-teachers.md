@@ -85,6 +85,9 @@ Where you don't give quick check questions, Maktab writes its own, but it's happ
 > A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 > Answer: 4.0 kg m s⁻¹
 
+- **`Answer:` is the final value alone.** Your working, if you give it, goes after the box: a line `SOLUTION`, then one numbered step to a line. Steps written after `Answer:` are taken as the answer, and students are marked against all of them.
+- **Each question stands alone.** Quick check is another tab from your lesson, so nothing is *above* or *below* it there. Instead of *In the worked example above…*, give the question the situation and values it needs. Your AI copies them in for you where you have not.
+
 ## Practice questions
 
 The **Practise** tab has whole problems that students work through with help. **Any question with your step-by-step working is a practice question:** a past paper question with your solution under it, or a question of your own. At any step, a student who needs help presses **Hint** and sees your solution, one step at a time. So write one step to a line.
@@ -121,7 +124,7 @@ In your file, put each answer straight under its question, never in a section at
 
 | Question | What you write |
 |---|---|
-| Quick check | `Answer:` on the last line of the box |
+| Quick check | `Answer:` and the final value alone, on the last line of the box; any working after the box, under `SOLUTION` |
 | Practice question | Your working, one step to a line, then `Answer:` |
 | Worked example | Your working, one step to a line, then `Answer:` |
 | Past paper, multiple choice | Nothing: Maktab uses Cambridge's key. To add your reason, write `Answer: B (ionic bonds need two elements)` |

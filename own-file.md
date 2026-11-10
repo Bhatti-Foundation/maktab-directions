@@ -51,7 +51,9 @@ shapes.
 ## Never change
 
 - **His words**: spelling, wording, order. Correct nothing. If something looks wrong, leave it, mark it as
-  below (*Point out what could mislead a student*) and say so in your note.
+  below (*Point out what could mislead a student*) and say so in your note. The one exception: a short question, or a
+  step of its working, that points to a worked example elsewhere gets what it needs copied into it (*Short questions*,
+  below).
 - **His pictures, tables of data, equations and symbols.** A subscript or superscript he set stays set. **Never drop
   a picture**: every picture in his file is in your copy, where it stood (below). **An equation made with Word's Equation tool is
   written out on its line**, in the same characters, with Word's subscripts and superscripts and a fraction on one line, `a/b`:
@@ -127,6 +129,11 @@ Summary                                            Heading 1: what comes after t
    not repeated in the body. Only a title you write yourself ends `[check: title written by AI; …]` and goes in your
    note. **Never change his words in the body**: only add headings and paragraph breaks where the idea changes.
    Keep each paragraph to one idea.
+   **A new part's title is never a worked example's own title again.** Where you split just above a worked example,
+   the part takes a short title of its own for the idea it teaches, ending `[check: title written by AI; …]`: a Heading 2
+   *Sand entering and leaving a truck* over *Worked example · Sand entering and leaving a truck* has the student read
+   the same title twice, one above the other (a physics file, 9 November 2026). Where the part is that example alone,
+   split it at the line before, or not at all.
    **A part of over 1,500 words is long**: students read one part at a time, and that is about nineteen screens on a
    phone. Maktab keeps a part whole, so its import names one that long, once for its sub-topic, under that
    sub-topic's name in the summary. **A list of worked solutions, each under its paper, is no long part**: no idea runs
@@ -272,6 +279,33 @@ solution, move it to a line of its own just after the box.
   abundance.` (*Figure*, *Fig.*, *Diagram*, *Graph*, *Chart*, *Photo* or *Picture*). Maktab brings the
   picture in as a figure where it stands, that line its caption; a line under it that starts any other way
   stays his text. A chart, a drawing made of shapes, or a linked picture does not come in: paste a picture of it.
+- **Crop a picture's plain white margin, and nothing else.** Where a figure stands on a wide band of white (a graph
+  with a fifth of its width blank at the right, a drawing in one corner of a white page, 81% of it white), cut from its
+  edges the rows and columns that are white all along, leaving a thin border: the figure then fills more of a phone's
+  width, its labels larger with it. That is the picture's pixels only. **Never redraw, retrace, re-letter or tidy a
+  figure, and never make it again with larger labels** (the owner, 9 November 2026: *"I don't want the AI redrawing
+  diagrams because it may get the physics wrong or the teacher's intentions wrong"*). **Set a graph to the column's
+  full width** in Word, the page's width between its margins, its proportions kept. Maktab shows a picture as the file
+  has it and crops nothing, so only you can. Say how many you cropped in one line under `Changes made by AI`.
+
+  ```python
+  from PIL import Image
+  def crop_white(im, border=12, near=245):   # near: how light a pixel may be and still count as white
+      page = Image.new("RGBA", im.size, "white"); page.alpha_composite(im.convert("RGBA"))
+      box = page.convert("L").point(lambda v: 255 if v < near else 0).getbbox()
+      if not box: return im                    # all white: a blank picture, left out above
+      x0, y0, x1, y1 = box
+      return im.crop((max(x0 - border, 0), max(y0 - border, 0), min(x1 + border, im.width), min(y1 + border, im.height)))
+
+  # in python-docx, a graph at the column's full width:
+  # doc.add_picture(path, width=section.page_width - section.left_margin - section.right_margin)
+  ```
+
+  A teacher whose figures sit small in a band of white pastes this to his AI:
+
+  ```
+  Crop the plain white margin from the edges of every picture in my file, keeping a thin border, and set each graph to the full width of the page between its margins. Crop white only: never redraw, retrace or re-letter a figure. Change no words.
+  ```
 - **Keep any attribution his file gives a picture, table or figure, at the end of its caption.** Where he wrote where it
   came from (*Source: …*, *Reproduced from …*, *© …*, *Courtesy of …*) on a line near it, move his words to the end of
   its caption, after a full stop: `Diagram 2.1  A mass spectrum. Source: Chemistry Coursebook, Cambridge University
@@ -406,9 +440,26 @@ Answer: 4.0 kg m s⁻¹
   wording, choose the code by the sub-topic's name, the section the question sits in and the syllabus the page
   links to; if you still cannot tell, name the sub-topic's code you think likeliest. **Your choice stands**: do
   not mark it and do not list it in your note. Never leave the outcome off for want of its wording.
-- His worked solution may follow the box, as he wrote it (*Work it out here:*, his empty table, *SOLUTION*,
-  then his numbered steps): Maktab leaves out the work space and reads the steps as its working; its
-  `Answer:` line is the answer, else its last step.
+- **`Answer:` is the final value alone, on its own line in the box**: `Answer: 8.0 m s⁻²`, never his steps.
+  **His steps stand after the box, under a line `SOLUTION`, each a numbered paragraph of its own** (`1.`, `2.`), a
+  run-on line indented under its step, as he wrote them; his *Work it out here:* and empty table may stay above
+  `SOLUTION`. Maktab leaves out the work space and reads the steps as the question's working. **Where his box gives
+  the steps on the `Answer:` line or under it, move them out of the box, under `SOLUTION`, and leave on the `Answer:`
+  line only the result his last step reaches, in his words and units.** Maktab marks a student against the whole
+  `Answer:` line: steps left on it become the answer she is marked against, and the working is empty (a physics file,
+  9 November 2026, whose copy read `Answer: 1. Known: F1 = 20 N gives a1 = 4.0 m s-2 … 4. Substitute: a2 = 40 / 5.0
+  = 8.0 m s-2 …` on one line). A box with no `Answer:` line takes its last step as the answer.
+
+  ```
+  Check your understanding · 3.2.1                         the box
+  F = 20 N gives a body an acceleration of 4.0 m s⁻². What does 40 N give it?
+  Answer: 8.0 m s⁻²                                        the final value alone
+  SOLUTION                                                 after the box
+  1. Known: F₁ = 20 N gives a₁ = 4.0 m s⁻². F₂ = 40 N.     one step a paragraph, as he wrote it
+  2. First find the mass: m = F/a = 20/4.0 = 5.0 kg.
+  3. Substitute: a₂ = 40 / 5.0 = 8.0 m s⁻²
+  ```
+
 - **Numbered self-assessment questions** (`SAQ 2.4 …`) in one box, with their answers in a table at the
   end of the file whose rows start with the same `SAQ 2.4`, may stay as he wrote them: Maktab reads them.
   Each follows the same rule: give its outcome after its number and a middle dot, `SAQ 2.4 · 2.2.1 Define the
@@ -426,9 +477,28 @@ Answer: 4.0 kg m s⁻¹
   Suggested answer: 4.0 kg m s⁻¹
   ```
 
-- **Keep his working and his mark points with his answer.** For a calculation, his steps are its working, under
-  its `Answer:`; for a written answer, his mark points or his model answer; and his mark scheme where he has one,
+- **Keep his working and his mark points with his answer.** For a calculation, his steps are its working, after the
+  box under `SOLUTION` (above), never on its `Answer:` line; for a written answer, his mark points or his model answer; and his mark scheme where he has one,
   under the same question. Maktab needs them to quiz students on his questions and to mark them, across its pages.
+- **A short question stands alone, and so does each step of its working.** Maktab puts it on *Quick check* or
+  *Practise*, another tab from his lesson, where no worked example is above or below it. **Where a question or a step
+  points to a worked example or another passage of his** (*In the worked example above, …*, *the sand-entering-a-truck
+  example above*, *v₂ ≈ 2.9 m s⁻¹ (from above)*), **copy into it what it needs, word for word from his file**: the
+  situation, the values and the result it builds on, as the question's first sentence or inside the step. Then change
+  only his pointer (*above*, *below*, *earlier*) so it points to what is now there, and list each question under
+  `Changes made by AI`, quoting its first words. This is the one place you add to his words: the owner ruled it on 9
+  November 2026, for questions and working steps alike, after his own wording of the same day, *"We cannot have a Check
+  your understanding refer to a worked example above, because the worked example is on a different tab. Can the
+  teacher's AI, copy the content for this problem?"*. A question that points to a picture his file does not hold is
+  still marked `[could mislead: …]` (below).
+
+  ```
+  His:   In the worked example above, verify that kinetic energy is NOT conserved in this collision …, using the
+         values already found.
+  Yours: A puck of mass 2.0 kg moving at 6.0 m s⁻¹ hits a puck of mass 3.0 kg at rest. Afterwards the first moves
+         at 2.0 m s⁻¹ and the second at 2.9 m s⁻¹. In this collision, verify that kinetic energy is NOT conserved …,
+         using these values.
+  ```
 - **A word in an answer you cannot read** (a blurred scan, a cut-off line): write your best guess and put `[?]`
   straight after it, `Answer: the enzyme is denatured [?]`, and list it in your note. Maktab does not mark students
   against that answer until he checks the word.
@@ -637,7 +707,18 @@ Print only · Take a break
 Stand up, stretch, and drink some water before Part C.
 ```
 
-Use it for the cover, the colour key and its Bloom's and AO tables, *How to use these notes* or *How to read this
+**The cover goes in one first, always**: every line and picture before his first heading that only says what the
+booklet is, such as the college's logo, a course line (`AS LEVEL PHYSICS 9702`), *Prepared for* and his name, in one
+`Print only · Cover` box, the logo inside it. Maktab knows a cover by itself only when its opening lines name the college.
+In a physics file of 9 November 2026 the college's name was in the page header alone, so nothing marked the logo and
+`AS LEVEL PHYSICS 9702`, and both reached the topic's *Introduction* as lesson. A teacher whose cover came in as lesson
+pastes this to his AI:
+
+```
+Put my file's cover, every line and picture before my first heading that only says what the booklet is (the logo, the course line such as AS LEVEL PHYSICS 9702), in one box whose first line is Print only · Cover. Change no words.
+```
+
+Use it too for the colour key and its Bloom's and AO tables, *How to use these notes* or *How to read this
 booklet*, a form to fill in (*Learner's name: ____*), a *Take a break* box, a line that describes the printed booklet
 (*answers are at the end of the chapter*, *the last page is your checklist*), and anything else true only on paper.
 Maktab leaves each box out, *Marked for print only.*
@@ -687,6 +768,13 @@ Maktab takes the marker out of what students read and shows him the reason as **
 think is likely wrong or could not do too, its reason saying so: `[check: I think this is wrong: …]`, `[check: I could not
 read this]`. Your note reaches no page. A `[check]` on a heading is counted too. Never mark what you are sure of: each one is
 something he must check.
+
+**A paragraph that starts mid-sentence**, its start missing from his own file too (*forces that act along the same
+straight line…*, in lower case after a box, its first sentence nowhere in the file), stays where it is, every word his:
+end it with `[check: this paragraph starts mid-sentence; its start is missing in your file]` and list it under *Check
+these* in your note, quoting its first words. Maktab takes any paragraph as lesson text and cannot tell that its start is
+missing, so a student would read it as it stands. A sentence a PDF broke across lines is not this: join it (*What you
+need*).
 
 **Never write a working note into a heading, a caption or his words**: no `(read from the chart, approximate;
 check)`, `(continued)`, `(see note)` or `please fill in` of your own. A doubt is one `[check: why]` at the end, which
@@ -809,7 +897,8 @@ The lists are in my note and under "Changes made by AI".
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
    above, or `Box · ` and his title.
 5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote, and no answer or
-   mark scheme anywhere is only words in brackets.
+   mark scheme anywhere is only words in brackets. Each `Answer:` line is the final value alone, its steps after the box
+   under `SOLUTION`, and no question or step points to a worked example *above* or *below*.
 6. Every past-paper question has its reference, its marks and its answer or mark scheme, and is in one
    sub-topic; no reference has words in brackets, and each mark scheme holds only its own question's answers,
    under that question, with no shared answers block left; his numbered answer pages are in it, under any heading, as many mark points as his file has. Each question starts at its own marker, with every
@@ -817,7 +906,7 @@ The lists are in my note and under "Changes made by AI".
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, every multiple-choice option
    starts with its typed letter, and every picture is a pasted picture.
 8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
-   shape, or it is in a `Print only · ` box. His glossary and summary sit under `Summary`; no line only points to a
+   shape, or it is in a `Print only · ` box, his cover always. His glossary and summary sit under `Summary`; no line only points to a
    printed book, and no reference to a question bank is left; the last heading is `Changes made by AI`, when you
    changed anything. No *Introduction* or *Summary* holds only lines about his file, and each *Start here* is about
    its whole sub-topic.
@@ -837,7 +926,7 @@ Short and plain, in this order:
    one about a place as `[check: why]` or `[could mislead: why]` on that line, one about the file as a whole as a line under
    `Changes made by AI`. Say nothing here that the file does not hold, and nothing about how you made the copy. It covers each heading you
    could not place, each box whose label you chose or could not choose, each question in two sub-topics, each part
-   title you wrote yourself, each suggested answer, each word marked `[?]`, each `[could mislead: …]` with the
+   title you wrote yourself, each suggested answer, each paragraph that starts mid-sentence, each word marked `[?]`, each `[could mislead: …]` with the
    sentence quoted and your reason, each question that depended on a picture, each piece that failed with where it
    is, and anything else that looks wrong. The learning outcomes you chose are not listed.
 2. **Left out**: anything that is not his own material, with where it came from, and the lines pointing to a printed
