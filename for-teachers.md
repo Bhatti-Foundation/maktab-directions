@@ -85,7 +85,7 @@ Where you don't give quick check questions, Maktab writes its own, but it's happ
 > A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 > Answer: 4.0 kg m s⁻¹
 
-- **`Answer:` is the final value alone.** Your working, if you give it, goes after the box: a line `SOLUTION`, then one numbered step to a line. Steps written after `Answer:` are taken as the answer, and students are marked against all of them.
+- **`Answer:` is the final value alone.** Your working, if you give it, goes after the box: a line `SOLUTION`, then one numbered step to a line. Steps written after `Answer:` are taken as the answer, and students are marked against all of them. For a question in parts, put each part's name, `(a)(i)`, on a line of its own above that part's steps, so each part's steps show under that part.
 - **Each question stands alone.** Quick check is another tab from your lesson, so nothing is *above* or *below* it there. Instead of *In the worked example above…*, give the question the situation and values it needs. Your AI copies them in for you where you have not.
 
 ## Practice questions

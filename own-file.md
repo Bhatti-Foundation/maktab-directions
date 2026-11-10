@@ -443,7 +443,7 @@ Answer: 4.0 kg m s⁻¹
 - **`Answer:` is the final value alone, on its own line in the box**: `Answer: 8.0 m s⁻²`, never his steps.
   **His steps stand after the box, under a line `SOLUTION`, each a numbered paragraph of its own** (`1.`, `2.`), a
   run-on line indented under its step, as he wrote them; his *Work it out here:* and empty table may stay above
-  `SOLUTION`. Maktab leaves out the work space and reads the steps as the question's working. **Where his box gives
+  `SOLUTION`. Maktab leaves out the work space and reads the steps as the question's working. **A question in parts: put each part's name on a line of its own above that part's steps** (`(a)(i)`, then its steps, then `(a)(ii)` and its steps), as the question names it. Maktab shows each part's steps under that part; steps under no name show together, after the last part. **Where his box gives
   the steps on the `Answer:` line or under it, move them out of the box, under `SOLUTION`, and leave on the `Answer:`
   line only the result his last step reaches, in his words and units.** Maktab marks a student against the whole
   `Answer:` line: steps left on it become the answer she is marked against, and the working is empty (a physics file,
