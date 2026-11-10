@@ -111,7 +111,7 @@ The **Past paper questions** tab has Cambridge's questions, which students answe
 
 That needs Cambridge's question number. Where you have only the paper, write it and type the question under it: `9618/12/M/J/21`, then the question. Maktab finds it on the paper by its words.
 
-Add your step-by-step solution under it and the question also goes to Practise, where students can work through it with hints.
+Add your step-by-step solution under it, a line `SOLUTION` then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.
 
 ## Question codes
 

@@ -423,27 +423,20 @@ solution, move it to a line of its own just after the box.
 ### Short questions: Check your understanding, self-assessment
 
 **Each short question is a box of its own**, under its sub-topic: its first line `Check your
-understanding`, a middle dot and **the learning outcome it tests**; then the question; then its answer
-on a line of its own starting `Answer:`.
+understanding`; then the question; then its answer on a line of its own starting `Answer:`. It goes to the
+sub-topic's *Quick check*.
 
 ```
-Check your understanding · 3.1.3
+Check your understanding
 A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 Answer: 4.0 kg m s⁻¹
 ```
 
-- **Every short question names the outcome it tests.** A question with its outcome goes to the sub-topic's
-  *Quick check*, filed under that outcome; one with none goes to *Practise*, filed under no outcome until
-  *Clean up with AI* gives it one. The outcome may instead be a line of its own in the box, `Learning
-  outcome 3.1.3`.
-- **The outcome is one of the sub-topic the question sits in**: a question under `3.3` names a `3.3.…` code,
-  never one of `3.2`, even when it tests something taught there. Maktab files a code of another sub-topic under
-  no outcome, and the question goes to *Practise*.
-- **The code alone is enough.** Take it from the sub-topic's own list, in the export (its Heading 3 lines) or
-  on the course's page in [subjects/](subjects/), which lists each code without its wording. Where you have no
-  wording, choose the code by the sub-topic's name, the section the question sits in and the syllabus the page
-  links to; if you still cannot tell, name the sub-topic's code you think likeliest. **Your choice stands**: do
-  not mark it and do not list it in your note. Never leave the outcome off for want of its wording.
+- **The learning outcome is optional.** With or without one, the box goes to the *Quick check*. One with none
+  is filed under no outcome until *Clean up with AI* gives it one; never add one for its own sake. Where his
+  file names one, keep it after a middle dot, `Check your understanding · 3.1.3`, or as a line of its own in the
+  box, `Learning outcome 3.1.3`, and the question is filed under it. A code of another sub-topic than the one
+  the question sits in is filed under no outcome.
 - **`Answer:` is the final value alone, on its own line in the box**: `Answer: 8.0 m s⁻²`, never his steps.
   **His steps stand after the box, under a line `SOLUTION`, each a numbered paragraph of its own** (`1.`, `2.`), a
   run-on line indented under its step, as he wrote them; his *Work it out here:* and empty table may stay above
@@ -466,8 +459,8 @@ Answer: 4.0 kg m s⁻¹
 
 - **Numbered self-assessment questions** (`SAQ 2.4 …`) in one box, with their answers in a table at the
   end of the file whose rows start with the same `SAQ 2.4`, may stay as he wrote them: Maktab reads them.
-  Each follows the same rule: give its outcome after its number and a middle dot, `SAQ 2.4 · 2.2.1 Define the
-  term polysaccharide.`, and it goes to the *Quick check*; with none, to *Practise*.
+  One that names its outcome after its number and a middle dot, `SAQ 2.4 · 2.2.1 Define the term
+  polysaccharide.`, goes to the *Quick check*; one with none, to *Practise*. Leave them as he wrote them.
 - **Every question needs its answer.** Where he gave none, write the one you think right on a line starting
   **`Suggested answer:`** in place of `Answer:`. Never leave it empty, and never write your own answer as `Answer:`,
   as if it were his. **Never write a placeholder**, an answer that is only words in brackets (`[see note]`, `[not
@@ -507,6 +500,41 @@ Answer: 4.0 kg m s⁻¹
   straight after it, `Answer: the enzyme is denatured [?]`, and list it in your note. Maktab does not mark students
   against that answer until he checks the word.
 - A past-paper question is not a short question: never write its mark scheme yourself (below).
+
+### A question of his own, with its working: the `Question` box
+
+**A question he wrote that a student works through, with his step-by-step working, is a box whose first line is
+`Question`**: then the question; then his steps, one numbered step to a line (`1.`, `2.`), a `SOLUTION` line above
+them if you like; then its answer on a line starting `Answer:`. It goes to the sub-topic's *Practise*; once
+Practise has ***Show a hint***, it reveals his steps one at a time. A *Check your understanding* checks one idea and goes to the
+*Quick check*; a whole problem he works step by step is a `Question` box. Its learning outcome is optional, as a
+short question's is. The first line is `Question` alone: `Question 1` is not one.
+
+```
+Question
+A 0.80 kg trolley is pushed by a resultant force of 2.4 N. Find its acceleration.
+1. Use F = ma.
+2. a = F / m = 2.4 / 0.80
+3. a = 3.0 m s⁻²
+Answer: 3.0 m s⁻²
+```
+
+**A multiple-choice question of his own** is the same box, each option on its own line after its letter (`A`, `B`,
+`C`, `D`), then his steps, then `Answer:` and the letter:
+
+```
+Question
+Which quantity has the same SI base units as the moment of a force?
+A power
+B work
+C momentum
+D pressure
+1. A moment is a force times a distance, N m.
+2. Work is a force times a distance too.
+Answer: B
+```
+
+The rules for a short question's `Answer:` line, `Suggested answer:` and a question that stands alone hold for it too.
 
 ### Past-paper questions
 
@@ -688,6 +716,30 @@ Answer: 4.0 kg m s⁻¹
    number as a subscript before its letter, and its equation on one line. Read each off the paper or his PDF, never working it
    out; where you cannot read it, write what you can see and add `[check: why]`, listed under *Check these*. Maktab reads these
    letters as they stand and warns him at the import, naming the line: it never guesses the formula.
+
+12. **His step-by-step solution under a question is kept as its working.** Under the question (and under its
+    `Answer:` line or `Mark scheme:` paragraph, where it has one), put a line `SOLUTION`, then one numbered step to a
+    line (`1.`, `2.`), a run-on line under its step, as he wrote them. Maktab keeps them as the question's working: on
+    *Past paper questions* it is the solution a student reads after she answers, and once Practise has ***Show a
+    hint***, the question goes there too, its steps revealed one at a time. Where he gives none, write none: Maktab writes a worked
+    solution. A solution he wrote as a list of his own (`SOLUTION 1 | …` over each paper's reference) is turned into
+    this shape: each question's header, its words, then its `SOLUTION` and steps.
+
+    ```
+    Q15   9702/12/O/N/15 Q15   [1 mark]
+    Which diagram shows a couple acting on the disc?
+    A …
+    B …
+    C …
+    D …
+    Answer: A
+    SOLUTION
+    1. A couple is a pair of forces of equal size.
+    2. The two forces act in opposite directions.
+    3. Their lines of action are parallel and do not meet.
+    4. In B and C the forces are F and 2F; in D they are at right angles.
+    5. Only A meets all three conditions, so the answer is A.
+    ```
 
 ### Lines pointing to a book or a question bank: leave them out
 
