@@ -159,7 +159,7 @@ what the whole sub-topic covers, from its Cambridge title and outcomes, and ends
 
 **Common mistakes come only from his misconception boxes** (his *Common mistake*, `⚠ COMMON MISCONCEPTION`). A
 *Common mistake* box under *Wrap up* copies one of them word for word, and you write none yourself. His *Examiner's
-advice* and *Top tip* boxes are tips, never common mistakes, even when they name a mistake: they often hold the
+advice*, *Exam tip* and *Top tip* boxes are Tips, never common mistakes, even when they name a mistake: they often hold the
 right answer (*Insoluble, so it does not affect water potential.*), and a student reading it as a common mistake
 learns that it is wrong.
 
@@ -178,26 +178,26 @@ The labels Maktab has, and what each is for:
 
 | Label | Use it for |
 |---|---|
-| **Key idea** | The one thing to take away |
 | **Definition** | A definition to learn word for word |
+| **Key idea** | The one thing to take away |
 | **Derivation** | Where a result comes from, step by step |
-| **Top tip** | A quick way to get something right: a method, a shortcut, a check |
-| **Examiner's advice** | How marks are won and lost: what to write, and how to word it. His *Exam tip* is this |
+| **Tip** | A quick way to get something right, or to win the marks: a method, a shortcut, a check, how to word an answer, a way to remember it. His *Top tip*, *Exam tip*, *Examiner's advice* and *Memory trick* are this |
 | **Common mistake** | A wrong idea or a slip in working, and how to avoid it |
-| **Real-world link** | Where the idea appears outside the classroom |
+| **Link** | Where the idea is used: in the real world, in practical work, later in the course; its title says which. His *Real-world link*, *Practical skills link* and *Syllabus link* are this |
 | **Think about it** | A question to stop and think about |
-| **Memory trick** | A way to remember it |
-| **Practical skills link** | How it connects to practical work |
-| **Syllabus link** | Where the idea is used later in the course |
 | **Teacher's note** | For teachers only |
+
+These eight are all the kinds a box has. His own old names are read as the new ones, so `✔ TOP TIP · Using the data`
+is a Tip titled *Using the data* and `⚗ PRACTICAL SKILLS LINK (Paper 3 / Paper 5) · Quick test` a Link titled *Quick
+test*.
 
 There is also **Worked example**; and **Check your understanding**, for a short question (below). A box of his that
 is none of these starts **`Box · `** and his own title, so it stays a box with his title:
 `Box · GRAPH CHECK`; a box with no title starts with `Box` alone.
 
 **A heading or line that only names a box's kind is that box, with no title.** `2.1 Exam Tip` with two paragraphs under
-it, or `Exam tip:` starting a paragraph, becomes a box whose first line is `Examiner's advice` alone and whose body is
-his words, never `Top tip · Exam Tip`, which names the same thing twice. **A title is words that say something
+it, or `Exam tip:` starting a paragraph, becomes a box whose first line is `Tip` alone and whose body is
+his words, never `Tip · Exam Tip`, which names the same thing twice. **A title is words that say something
 the label does not.**
 
 **A line that says `Definition` or `Definition:` over his words is a Definition box**, its title the heading it stands
@@ -223,7 +223,7 @@ box's body. Do this for every such line in his file. **Nothing else about his wo
   fits, use `Box · ` and his words: Maktab asks him to check its type.
 - **A box with no label line**, which Maktab types by its shading alone, and a `Box · ` box with his title, each
   come in as a *Please check* for him to confirm its type. A box you labelled comes in with none.
-- **An *Examiner's advice* or *Top tip* box keeps its label**: never make it a *Common mistake*, even when it warns
+- **A *Tip* box (his *Examiner's advice*, *Exam tip* or *Top tip*) stays a Tip**: never make it a *Common mistake*, even when it warns
   of one, since it often gives the right answer.
 - A *Teacher's note* is for teachers; students never see it.
 - Leave an empty paragraph after each box, so two boxes stay two.

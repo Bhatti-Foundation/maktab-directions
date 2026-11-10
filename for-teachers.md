@@ -49,19 +49,20 @@ Textbooks use boxes to draw the eye and break up long text: a definition to lear
 > **Definition: Momentum**
 > The momentum of a body is the product of its mass and its velocity.
 
-There are seven types of boxes:
+There are eight types of boxes:
 
 | Box | What the student does |
 |---|---|
 | **Definition** | Learn these words exactly |
 | **Key idea** | Remember this. The rest builds on it |
+| **Derivation** | See where this result comes from |
 | **Tip** | Use this in your answers. Your exam tips, shortcuts and memory tricks |
 | **Common mistake** | Many students get this wrong. Check you don't |
 | **Link** | See where this idea is used: in the real world, in practical work, later in the course. Its title says which |
 | **Think about it** | Stop and think before you read on |
 | **Teacher's note** | For teachers only. Students never see it |
 
-- **Your own names are read too:** *Exam tip*, *Examiner's advice* and *Top tip* are all a **Tip**.
+- **Your own names are read too:** *Exam tip*, *Examiner's advice*, *Top tip* and *Memory trick* are all a **Tip**; *Real-world link*, *Practical skills link* and *Syllabus link* are all a **Link**.
 - **A box that fits none of these** starts with `Box` and your title, and stays a plain box.
 - **One table makes one box.** Start a new table for the next box, and start your next paragraph after the table.
 
