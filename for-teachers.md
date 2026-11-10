@@ -107,7 +107,7 @@ For a multiple-choice question of your own, type each option on its own line wit
 
 The **Past paper questions** tab has Cambridge's questions, which students answer on their own, as Cambridge asks them, marked against the mark scheme.
 
-**The reference alone is enough.** A line such as `9618/12/M/J/21 Q5` brings in the question, its pictures, its options if it is multiple choice, its marks and Cambridge's answer. You don't type any of them.
+**In Physics, a written question's reference alone is enough.** A line such as `9702/22/O/N/25 Q2` brings in the question as Cambridge printed it, part by part, with its pictures, its marks and Cambridge's mark scheme. You don't type any of it. Your own steps under it stay in your notes for the sub-topic, under the reference, for now. For a multiple-choice question, and in other subjects, type the question under its reference for now.
 
 That needs Cambridge's question number. Where you have only the paper, write it and type the question under it: `9618/12/M/J/21`, then the question. Maktab finds it on the paper by its words.
 

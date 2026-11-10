@@ -581,6 +581,9 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    a student another question's answer. Moving each answer under its question (7) is surer, and is what to do with one left out. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
+   **A question his file names by its reference alone**, with no words of it, `[9702/22/O/N/25 Q2]` over his own steps: keep the reference on a line of its own,
+   in full with its question number, and never type the question's words from a picture of the paper or from memory. In Physics, a written question comes
+   in as Cambridge printed it, part by part, with its marks and Cambridge's mark scheme; elsewhere, and for a multiple-choice question, it brings nothing yet.
    **The full reference is all Maktab needs to take Cambridge's answer**: the paper, series, year and the
    question's number on that paper (`9701/11/M/J/15 Q5`). Maktab fetches Cambridge's key or mark scheme itself;
    his own answer, where he gives one, comes first.
