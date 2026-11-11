@@ -113,6 +113,8 @@ That needs Cambridge's question number. Where you have only the paper, write it 
 
 Add your step-by-step solution under it, a line `SOLUTION` then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.
 
+**A table your students fill in** stays a Word table under the question: leave empty each cell they write in, and put a dash, `—`, in a grey cell. They fill it where it is printed, a box in each empty cell. Never type its answers into it: they go in the mark scheme. In a table they only read, put `—` in any cell with nothing printed, so it is not taken for one they fill.
+
 ## Question codes
 
 - **A past paper reference** is written out in full: the subject and paper, the series (`M/J`, `O/N`, `F/M`), the year in two figures, then the question number. For example `9701/11/M/J/15 Q5`, not `M/J-15-11`.

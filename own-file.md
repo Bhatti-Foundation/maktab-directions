@@ -752,6 +752,13 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
     4. In B and C the forces are F and 2F; in D they are at right angles.
     5. Only A meets all three conditions, so the answer is A.
     ```
+13. **A table his students fill stays a Word table under the question's words**, as his file has it: every printed
+   word in its cell, **each cell a student writes in left empty**, and a grey or crossed-out cell holding only `—`.
+   Maktab makes it the table she fills, a box in each empty cell, and the question goes on after it, its next part or
+   its `Mark scheme:`. Never type the answers into its cells, and never turn it into lines of text or `|`s. A table of
+   data with no empty cell stays a table she reads, so **a cell with nothing printed in a table she only reads holds
+   `—`**: a reading the paper leaves blank, or a corner. A table that is only in a picture of the paper stays the picture
+   (5), and her answer is the box under it.
 
 ### Lines pointing to a book or a question bank: leave them out
 
