@@ -109,6 +109,8 @@ The **Past paper questions** tab has Cambridge's questions, which students answe
 
 **In Physics, a written question's reference alone is enough.** A line such as `9702/22/O/N/25 Q2` brings in the question as Cambridge printed it, part by part, with its pictures, its marks and Cambridge's mark scheme. You don't type any of it. Your own steps under it stay in your notes for the sub-topic, under the reference, for now. For a multiple-choice question, and in other subjects, type the question under its reference for now.
 
+**A lab practical question comes with a set of readings Maktab made.** Your students read them above part (a), under *Readings*, and work from them: the table, the graph, the calculations. Where your class took its own readings, put them in a box straight under the question (a Biology or Chemistry practical typed out with its parts, a Physics one its reference alone or typed), its first line `Readings`, one reading to a line, `(a) n₀: 22, 23`; yours replace Maktab's. For a Biology microscope question, put your photo of the slide, graticule in view, as a JPEG or PNG, in a box whose first line is `Slide`; without it, the drawing and measuring parts aren't marked.
+
 That needs Cambridge's question number. Where you have only the paper, write it and type the question under it: `9618/12/M/J/21`, then the question. Maktab finds it on the paper by its words.
 
 Add your step-by-step solution under it, a line `SOLUTION` then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.

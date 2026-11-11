@@ -584,6 +584,14 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    **A question his file names by its reference alone**, with no words of it, `[9702/22/O/N/25 Q2]` over his own steps: keep the reference on a line of its own,
    in full with its question number, and never type the question's words from a picture of the paper or from memory. In Physics, a written question comes
    in as Cambridge printed it, part by part, with its marks and Cambridge's mark scheme; elsewhere, and for a multiple-choice question, it brings nothing yet.
+   **A lab practical question** (Paper 3 of Biology, Chemistry or Physics) is practised with a set of readings given to her, which
+   Maktab makes for each question: write nothing for it. **Where his class took its own readings**, put them in a box straight under the
+   question's reference or its words (a Biology or Chemistry practical typed out with its parts, since Maktab holds the words of
+   Physics papers only), its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
+   unit, `(a) n₀: 22, 23`, a set of several quantities a line a set, `(c) M = 10 g, n = 19`; his replace Maktab's. **A Biology
+   microscope question** takes his photo of the slide, through the microscope with the eyepiece graticule in view, a JPEG or PNG, in a box under the
+   question whose first line is `Slide`; she draws and measures from it. Without his photo, the parts drawn or measured from the slide
+   are not marked. Only a 2025 practical takes his box; an older one keeps it in his notes. Never write a set of readings he did not give, and never use a photo of a slide from anywhere but his class.
    **The full reference is all Maktab needs to take Cambridge's answer**: the paper, series, year and the
    question's number on that paper (`9701/11/M/J/15 Q5`). Maktab fetches Cambridge's key or mark scheme itself;
    his own answer, where he gives one, comes first.
