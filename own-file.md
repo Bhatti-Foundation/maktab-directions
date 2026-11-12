@@ -222,7 +222,7 @@ box's body. Do this for every such line in his file. **Nothing else about his wo
   title, `Derivation · GAP FILLED – WHERE DOES THIS LAW COME FROM?`. When you cannot tell which label
   fits, use `Box · ` and his words: Maktab asks him to check its type.
 - **A box with no label line**, which Maktab types by its shading alone, and a `Box · ` box with his title, each
-  come in as a *Please check* for him to confirm its type. A box you labelled comes in with none.
+  come in *to confirm* (🔍), for him to check its type. A box you labelled comes in with none.
 - **A *Tip* box (his *Examiner's advice*, *Exam tip* or *Top tip*) stays a Tip**: never make it a *Common mistake*, even when it warns
   of one, since it often gives the right answer.
 - A *Teacher's note* is for teachers; students never see it.
@@ -863,7 +863,7 @@ The bond angle in water is 104.5°. [check: the scan cut off its last digit]
 **In a table, the marker goes inside the cell it is about**, never on a line after the table's last row: there it is
 a paragraph of its own, away from what it is about.
 
-Maktab takes the marker out of what students read and shows him the reason as **Please check**: a nod he gives with
+Maktab takes the marker out of what students read and shows him the reason *to confirm* (🔍): a nod he gives with
 *Looks right*, or an edit. **Anything about one place in his file that you ask him to check is marked there**, what you
 think is likely wrong or could not do too, its reason saying so: `[check: I think this is wrong: …]`, `[check: I could not
 read this]`. Your note reaches no page. A `[check]` on a heading is counted too. Never mark what you are sure of: each one is
@@ -878,7 +878,7 @@ need*).
 
 **Never write a working note into a heading, a caption or his words**: no `(read from the chart, approximate;
 check)`, `(continued)`, `(see note)` or `please fill in` of your own. A doubt is one `[check: why]` at the end, which
-Maktab shows him as *Please check*; anything more goes in your note.
+Maktab shows him *to confirm* (🔍); anything more goes in your note.
 
 ### Point out what could mislead a student: [could mislead: why]
 

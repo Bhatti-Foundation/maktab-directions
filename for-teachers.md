@@ -141,7 +141,7 @@ In your file, put each answer straight under its question, never in a section at
 Your answer always wins over Cambridge's. If your file has an answer sheet at the back, your AI moves each answer under its question.
 
 > ### ⚠ A question with no answer is never asked
-> Where you gave no answer, your AI suggests one. **Students don't see that question until you confirm the answer.** To confirm it, open the sub-topic and press **Edit**. The suggested answer is in the question's answer box, marked **Suggested by AI**. Press **Looks right** under *Please check* to keep it, or type your own. Maktab also lists these questions when you publish.
+> Where you gave no answer, your AI suggests one. **Students don't see that question until you confirm the answer.** To confirm it, open the sub-topic and press **Edit**. The suggested answer is in the question's answer box, marked **Suggested by AI**. Press **Looks right** on it, under *to confirm* (🔍), to keep it, or type your own. Maktab also lists these questions when you publish.
 
 ## Learning outcomes
 
@@ -165,7 +165,7 @@ On **Class materials**, press **Export or import** and choose your files. You ca
 
 **Your Word file is the master copy of your teaching.** Make your changes there and import it again, under the same name.
 
-**The editor** (press **Edit** on a sub-topic) is for quick changes on the page: choosing a box's type, answering each *Please check*, confirming a suggested answer, choosing videos, or correcting a word you spot while reading as a student.
+**The editor** (press **Edit** on a sub-topic) is for quick changes on the page: choosing a box's type, answering each item *to confirm* (🔍), confirming a suggested answer, choosing videos, or correcting a word you spot while reading as a student.
 
 **Maktab never overwrites your changes on the page.** For example, you fix a typo in 3.1 on the page. A week later you import a new version of your file, which still has the typo. Maktab keeps your fix and tells you the file says something different. Anything you added only on the page, such as a video, also stays. To keep your file and the page the same, make each fix in your file too.
 
