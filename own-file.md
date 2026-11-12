@@ -581,11 +581,16 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    a student another question's answer. Moving each answer under its question (7) is surer, and is what to do with one left out. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
-   **A question his file names by its reference alone**, with no words of it, `[9702/22/O/N/25 Q2]` over his own steps: keep the reference on a line of its own,
-   in full with its question number, and never type the question's words from a picture of the paper or from memory. In every subject, a written question
-   comes in as Cambridge printed it, part by part, with its marks and Cambridge's mark scheme, and a multiple-choice question with its four options and
-   Cambridge's answer. Where Maktab does not hold a question yet, the import says so under *Didn't come in*, and then the question is typed under its
-   reference by the teacher, as any typed question is.
+   **A Cambridge question is named by its reference alone**, `[9702/22/O/N/25 Q2]`, or the part he uses, `9701/21/M/J/25 Q2(b)`, over his own steps: keep
+   the reference on a line of its own, in full with its question number, and never type the question's words, its tables or its mark scheme, from a picture
+   of the paper or from memory. In every subject, a written question comes in as Cambridge printed it, part by part, with its marks and Cambridge's mark
+   scheme, the part a reference names with what it needs of the question's opening, and a multiple-choice question with its four options and Cambridge's
+   answer. **Whatever his file types of a written Cambridge question is not used**, words, tables, answers or worked steps typed under its heading: Maktab shows
+   Cambridge's copy, and keeps only the sub-topic he put it under. Where Maktab does not hold a question yet, nothing is for him to type: a question he typed waits, his page saying
+   *Waiting for Cambridge’s copy of 9701/21/M/J/20 Q2(c)*, and comes in by itself once Maktab holds it; a reference alone is said under
+   *Didn't come in*, and comes in when he imports the file again once it is held. A multiple-choice question's typed options are used for now. A question
+   Cambridge's mark scheme does not mark whole is not asked, and his page says *Left out: Cambridge’s mark scheme doesn’t mark 9708/22/M/J/25 Q1 whole.*;
+   it comes back by itself once Maktab holds the whole scheme.
    **A lab practical question** (Paper 3 of Biology, Chemistry or Physics) is practised with a set of readings given to her, which
    Maktab makes for each question: write nothing for it. **Where his class took its own readings**, put them in a box straight under the
    question's reference or its words, its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
