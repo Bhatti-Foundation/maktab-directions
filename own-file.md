@@ -582,12 +582,13 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
    **A question his file names by its reference alone**, with no words of it, `[9702/22/O/N/25 Q2]` over his own steps: keep the reference on a line of its own,
-   in full with its question number, and never type the question's words from a picture of the paper or from memory. In Physics, a written question comes
-   in as Cambridge printed it, part by part, with its marks and Cambridge's mark scheme; elsewhere, and for a multiple-choice question, it brings nothing yet.
+   in full with its question number, and never type the question's words from a picture of the paper or from memory. In every subject, a written question
+   comes in as Cambridge printed it, part by part, with its marks and Cambridge's mark scheme, and a multiple-choice question with its four options and
+   Cambridge's answer. Where Maktab does not hold a question yet, the import says so under *Didn't come in*, and then the question is typed under its
+   reference by the teacher, as any typed question is.
    **A lab practical question** (Paper 3 of Biology, Chemistry or Physics) is practised with a set of readings given to her, which
    Maktab makes for each question: write nothing for it. **Where his class took its own readings**, put them in a box straight under the
-   question's reference or its words (a Biology or Chemistry practical typed out with its parts, since Maktab holds the words of
-   Physics papers only), its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
+   question's reference or its words, its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
    unit, `(a) n₀: 22, 23`, a set of several quantities a line a set, `(c) M = 10 g, n = 19`; his replace Maktab's. **A Biology
    microscope question** takes his photo of the slide, through the microscope with the eyepiece graticule in view, a JPEG or PNG, in a box under the
    question whose first line is `Slide`; she draws and measures from it. Without his photo, the parts drawn or measured from the slide
@@ -640,6 +641,11 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    have none, write `Words: [check: why]`.
    **Do not type a table from the picture into `Words:`**, neither as rows nor with `|` between its cells: the picture
    shows it, so write only its title, *Table 1.1*, where it stands, and go on with the words after it.
+   **Wherever a question's words stand, `Words:` or not, a figure or table in them is the paper's picture of it**, cut
+   from the paper and pasted where the figure or table stands: never a line in its place such as `[diagram]`, `[figure]`
+   or `[table]`, and never a table typed as rows with `|` between its cells. Maktab holds back a question with either
+   from students, and his page says *“…” has a typed “[diagram]” where its figure belongs: delete that line, or put the
+   paper’s picture in its place.*, until he does one or the other.
    **A multiple-choice question needs no `Words:`**: Maktab shows its pictures and leaves their words out, so a
    student never reads its statements or options twice. Keep its own lines and its options as the file types them. Type a statement's number, `1  The reaction is endothermic.`, where a Word list numbered it: Maktab adds it from Cambridge's paper only where it can read it there.
    **Copy a question's words exactly as his file has them**, a slip included, and do not retype one from memory.
