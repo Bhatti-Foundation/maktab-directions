@@ -572,15 +572,17 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    the file stays in the sub-topic's notes. **A heading whose paper cannot be read** (`9702/SP/2016`, `[series]/[year]`, no
    paper at all): find the paper in his file and write it; where his file does not say, head it `Q19   [check: paper not in
    his file]   [5 marks]`, never a guess. With its answer it comes in under *Paper unknown*.
-   **A question's answers never stay in the notes**: Maktab leaves out of a sub-topic's text any mark scheme, answer sheet,
-   `Answer:` line under a question or `Suggested answer:` it finds there, and warns him. **An answer sheet left as a
+   **An answer he put under its question in the notes stays there**: a mark scheme, answer sheet or `Answer:` line in a
+   sub-topic's text that no question takes comes in as he wrote it, and students read it there. A `Suggested answer:` there is
+   left out. **An answer sheet left as a
    section** may stand under a heading or a plain line, `ANSWER SHEET` or `Answers`, each entry numbered as its question
    is on the worksheet, `1.`, `Q1` or `Answer 1`, and starting again at `Answer 1` for each sub-topic: leave his numbers and
    marks as his file has them. Maktab takes an entry for the question of the same number where their marks agree, and
-   leaves out any it cannot be sure of, saying so under *Left out*. Never renumber to make them fit: one wrong number gives
-   a student another question's answer. Moving each answer under its question (7) is surer, and is what to do with one left out. A worked example keeps its answer, in its box.
+   keeps any it cannot be sure of in that sub-topic's notes, as his file has it; a sheet under no sub-topic's heading, at the file's
+   end, is left out where no question takes it, saying so under *Left out*. Never renumber to make them fit: one wrong number gives
+   a student another question's answer. Moving each answer under its question (7) is surer, and is what to do with one left in the notes. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
-   sub-topic's notes, and Maktab warns him there. Give each its reference, or put a short one in a box (above).
+   sub-topic's notes, as he wrote them. Give each its reference, or put a short one in a box (above).
    **A Cambridge question is named by its reference alone**, `[9702/22/O/N/25 Q2]`, or the part he uses, `9701/21/M/J/25 Q2(b)`, over his own steps: keep
    the reference on a line of its own, in full with its question number, and never type the question's words, its tables or its mark scheme, from a picture
    of the paper or from memory. In every subject, a written question comes in as Cambridge printed it, part by part, with its marks and Cambridge's mark
