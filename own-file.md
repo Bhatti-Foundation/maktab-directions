@@ -1004,7 +1004,12 @@ The lists are in my note and under "Changes made by AI".
    the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`. A long part covering
    more than one idea is split, one idea per part, his words unchanged.
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
-   above, or `Box · ` and his title.
+   above, or `Box · ` and his title. **Read each box's first line once more:** the label, a middle dot and its title,
+   `Worked example · Work done at an angle`, never a colon (`Worked example: …`) and never a number of his own
+   (`Worked example 2`); a box that does not read this way does not come in as that kind. **Every worked example's
+   `Answer:` answers what that example asks**, and matches its last step: an answer copied from the question next to
+   it (a power where the example finds a mass) is left as he wrote it and marked
+   `[check: this answer does not match the last step, which gives 0.68 kg]`, for him to mend.
 5. Every short question names its outcomes and has its answer, or a `Suggested answer:` you wrote, and no answer or
    mark scheme anywhere is only words in brackets. Each `Answer:` line is the final value alone, its steps after the box
    under `SOLUTION`, and no question or step points to a worked example *above* or *below*.
