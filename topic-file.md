@@ -28,10 +28,10 @@ Downloaded on … · stamp …                      grey first line
 4 Forces, density and pressure                 Title
 [How to edit this file]                        yellow box
 4.1 Turning effects of forces                  Heading 1, one per sub-topic
+  Lesson video                                 Heading 2, a table
   Text                                         Heading 2
     4.1.2 The moment of a force                Heading 3: a learning outcome's code, then words
     paragraphs, and boxes
-  Lesson video                                 Heading 2, a table
   Textbook                                     Heading 2, a table
   Past papers                                  Heading 2, a table
   Practise                                     Heading 2, questions

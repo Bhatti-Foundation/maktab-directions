@@ -1,5 +1,6 @@
 # Changes
 
+- **13 November 2026, a sub-topic's lesson video comes before its text.** *A topic's file*, *The shape*: each sub-topic's *Lesson video* table now comes before its *Text*, as the page shows it; a file with *Text* first still reads as before (M-624, 2; walk W-1111, #6338).
 - **13 November 2026, an answer sheet's entry no question takes is left out again.** *A teacher's own file*, *Past-paper questions*: an answer sheet's entry that no question of the same number and marks takes is left out of the sub-topic's notes, saying so under *Left out*; an answer under its own question still stays (M-625, 1).
 - **13 November 2026, a worked example has no number of its own.** *A teacher's own file*, *Worked examples*: `Worked example 2: title` becomes `Worked example · title`; Maktab numbers them (walk W-1111, #6350).
 - **13 November 2026, no sub-topic number under a heading, and a split sentence joined.** *A teacher's own file*, *Headings*, point 8: a line under a heading that starts with its sub-topic's number and a dash keeps its words without them; a sentence his Word file splits across paragraphs is joined into one, his words unchanged (walk W-1111, #6336).
