@@ -18,7 +18,7 @@ Your students read Maktab on a phone, one short part at a time, with the class's
 
 Your lesson adds to the book: your explanations, your examples, the mistakes you see, what earns marks. Where it would only repeat the book, leave it out.
 
-Your own file stays as it is. Your AI gives you a copy for Maktab. Anything true only on paper (*Take a break*, *Learner's name: ____*) goes in a box whose first line is `Print only`, and Maktab leaves that box out.
+Your own file stays as it is. Your AI gives you a copy for Maktab, and you make it again, in a new chat, before each import: Maktab takes a copy only when the directions named in its header are the current ones. Anything true only on paper (*Take a break*, *Learner's name: ____*) goes in a box whose first line is `Print only`, and Maktab leaves that box out.
 
 ## Headings
 

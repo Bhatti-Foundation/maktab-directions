@@ -1,5 +1,6 @@
 # Changes
 
+- **14 November 2026, a copy is made again with the current directions before each import.** *For teachers*: Maktab takes a teacher's copy only when its header names the current directions; an older copy, or his own file with no stamp, is turned away (M-644).
 - **13 November 2026, a suggested answer in his notes comes in, for him to confirm.** *A teacher's own file*, *Past-paper questions*: his AI's `Suggested answer:` under its question in a sub-topic's notes comes in as it is written, each one his to confirm (🔍) on the sub-topic, until he presses **Looks right** on it (M-625, 2 and 3; M-629).
 - **13 November 2026, a sub-topic's lesson video comes before its text.** *A topic's file*, *The shape*: each sub-topic's *Lesson video* table now comes before its *Text*, as the page shows it; a file with *Text* first still reads as before (M-624, 2; walk W-1111, #6338).
 - **13 November 2026, the last check reads every box's first line and every worked example's answer.** *A teacher's own file*, *Check your file before you hand it back*, item 4: each box's first line is the label, a middle dot and its title, never a colon or a number of his own; each worked example's `Answer:` answers what it asks and matches its last step, or is marked `[check: …]` for him to mend (walk W-1111, #6448).
