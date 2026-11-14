@@ -5,7 +5,10 @@ you change it; she imports it. Its grey first line proves which class and which 
 so an export can add, change and remove. **A file made from nothing in the same shape imports too**
 (M-421): it is compared with the class as it stands, and it adds and rewords but never removes, so
 what the class has and the file lacks stays. Each sub-topic it covers offers to replace the starter
-text nobody has edited, unticked. Work from her export when you were given one.
+text nobody has edited, unticked. **Such a file needs your stamp in its page header**, naming the current
+directions, as a copy of his own file does ([Stamp the copy](own-file.md#stamp-the-copy)): with no stamp, or one
+naming older directions, Maktab turns it away (M-644). Only a file with Maktab's grey first line needs none. Work
+from her export when you were given one.
 
 ## Never change
 
