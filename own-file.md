@@ -580,8 +580,8 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    paper at all): find the paper in his file and write it; where his file does not say, head it `Q19   [check: paper not in
    his file]   [5 marks]`, never a guess. With its answer it comes in under *Paper unknown*.
    **An answer he put under its question in the notes stays there**: a mark scheme or `Answer:` line under its question in a
-   sub-topic's text that no question takes comes in as he wrote it, and students read it there. A `Suggested answer:` there is
-   left out. **An answer sheet left as a
+   sub-topic's text that no question takes comes in as he wrote it, and students read it there. A `Suggested answer:` under its
+   question there comes in the same way, and each one is his to confirm (🔍). **An answer sheet left as a
    section** may stand under a heading or a plain line, `ANSWER SHEET` or `Answers`, each entry numbered as its question
    is on the worksheet, `1.`, `Q1` or `Answer 1`, and starting again at `Answer 1` for each sub-topic: leave his numbers and
    marks as his file has them. Maktab takes an entry for the question of the same number where their marks agree, and
@@ -616,7 +616,8 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    change to the answer on its page, replaces it. Where Maktab does not hold the paper's key, the question brings
    nothing in, and a booklet whose every key row is missing brings nothing at all. Where he gives no key, leave
    the `Answer:` line out; never write a placeholder such as `Answer: [see note]`. **Never write a `Suggested answer:` under a
-   past-paper question**, a letter you worked out included: Maktab never takes it as the key and leaves it out.
+   past-paper question**, a letter you worked out included: Maktab never takes it as the key. Under a question left in
+   the sub-topic's notes it comes in as written, for him to confirm (1).
 3. **A structured question has its mark scheme**, after it or in his answer section, under the same
    number, moved under the question as its own `Mark scheme:` paragraph (7) where it came in his answer section.
    **Without it, it takes Cambridge's published mark scheme** for that question and part where Maktab
