@@ -134,6 +134,13 @@ Summary                                            Heading 1: what comes after t
    *Sand entering and leaving a truck* over *Worked example · Sand entering and leaving a truck* has the student read
    the same title twice, one above the other (a physics file, 9 November 2026). Where the part is that example alone,
    split it at the line before, or not at all.
+   **No line under a heading starts with its sub-topic's number.** A line such as `5.1 - only the component of a force
+   along the displacement does work` under the Heading 2 *Work done by a force* repeats what the page already shows: keep
+   its words and drop the number and the dash, `Only the component of a force along the displacement does work`
+   (a physics file, 13 November 2026).
+   **A sentence his Word file splits across paragraphs is joined back into one**, his words unchanged: a paragraph that
+   stops mid-clause (`…both act on the SAME object - `) followed by one that goes on in lower case (`the book - so they
+   fail criterion 4. …`) is one paragraph, as it is from a PDF (a physics file, 13 November 2026).
    **A part of over 1,500 words is long**: students read one part at a time, and that is about nineteen screens on a
    phone. Maktab keeps a part whole, so its import names one that long, once for its sub-topic, under that
    sub-topic's name in the summary. **A list of worked solutions, each under its paper, is no long part**: no idea runs
