@@ -246,7 +246,7 @@ box's body. Do this for every such line in his file. **Nothing else about his wo
 
 ### Worked examples
 
-A worked example is a box whose first line is **`Worked example`**, and its title after a middle dot:
+A worked example is a box whose first line is **`Worked example`**, and its title after a middle dot: **No number of your own**: `Worked example 2: Work done at an angle` becomes `Worked example · Work done at an angle`, since Maktab numbers the worked examples itself (a physics file, 13 November 2026).
 
 ```
 Worked example · A rocket in flight
