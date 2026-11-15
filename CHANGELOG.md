@@ -1,5 +1,6 @@
 # Changes
 
+- **14 November 2026, a past paper question's reference brings it in from a topic file too.** *A topic file*: a line that is only a question's reference, `9702/12/O/N/25 Q20`, under a sub-topic's *Past papers* table, brings in Cambridge's question as a teacher's own file does, its paper's row with it; a new past paper no longer goes in a note to the teacher (M-652, 7; #6574).
 - **14 November 2026, a topic file made from nothing takes the AI's stamp too.** *For teachers*: a file his AI writes in Maktab's topic shape, with no grey first line, comes in only when its header names the current directions, as his own file's copy does; only a file exported from Maktab needs no stamp (M-644).
 - **14 November 2026, a copy is made again with the current directions before each import.** *For teachers*: Maktab takes a teacher's copy only when its header names the current directions; an older copy, or his own file with no stamp, is turned away (M-644).
 - **13 November 2026, a suggested answer in his notes comes in, for him to confirm.** *A teacher's own file*, *Past-paper questions*: his AI's `Suggested answer:` under its question in a sub-topic's notes comes in as it is written, each one his to confirm (🔍) on the sub-topic, until he presses **Looks right** on it (M-625, 2 and 3; M-629).

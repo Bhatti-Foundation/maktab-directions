@@ -121,9 +121,14 @@ Tables whose first row is the header: *Title · Link · Opens at*, *Title · Lin
 The *Past papers* heading may also be *Past paper questions*, the name of the tab its questions are on; Maktab reads
 both the same.
 
-**Today a file changes a row that is there, but cannot add a row.** A new past paper goes in your
-note to the teacher, with its questions and link, to add on the sub-topic's page; a new video or
-reading goes in the *Text* as a *Video* or *Reading* box (above).
+**Today a file changes a row that is there, but cannot add a row.** A new video or reading goes in
+the *Text* as a *Video* or *Reading* box (above).
+
+**A past paper question is its reference on a line of its own**, under the *Past papers* table:
+`9702/12/O/N/25 Q20`, or `9701/21/M/J/25 Q2(b)` for a part. It brings in the question as Cambridge
+printed it, a multiple-choice one with its options and Cambridge's answer, as in a teacher's own
+file; its paper's row is added with it. Type nothing of the question under it. Where Maktab does not
+hold it yet, the import says so, and it comes in when the file is imported again once it is held.
 
 - **Link** starts with `https://`.
 - **Opens at** is minutes and seconds (`24:13`), or empty for the beginning. YouTube's `t=1453s` is
