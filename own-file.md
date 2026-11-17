@@ -793,6 +793,25 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    data with no empty cell stays a table she reads, so **a cell with nothing printed in a table she only reads holds
    `—`**: a reading the paper leaves blank, or a corner. A table that is only in a picture of the paper stays the picture
    (5), and her answer is the box under it.
+14. **A part a student draws has a line of its own under it, saying how**: after the part and its marks, `[draw on the
+   figure]` where she draws on the question's figure (sketches a line on its graph, marks its axes, completes its
+   diagram), or `[draw on paper]` where she draws from nothing (a dot-and-cross diagram, a displayed formula, a labelled
+   diagram of the apparatus). Maktab gives that part no typed box: she draws on the figure with a pen, or adds a photo of
+   her drawing on paper. The figure is the last picture above the part, his own picture pasted where his question has it.
+   **Where a second part is drawn on the same figure, paste his figure again just above that part**, so each part drawn on
+   a figure has its own copy of it, as Cambridge's parts each have theirs. Only in a past paper question of his own, typed
+   under its `Q…` heading: never in a `Question` box or a *Check your understanding* box, where the line would show as a
+   line of the question. A Cambridge question named by its reference needs none, since Maktab brings Cambridge's. Never
+   under a part she answers in words or numbers, a value she reads off the graph included.
+
+   ```
+   Q5   [check: paper not in his file]   [4 marks]
+   [his Fig. 5.1, pasted]
+   (a) (i) Use Fig. 5.1 to determine the Young modulus of copper.
+   Young modulus = .......................................... Pa [3]
+   (ii) On Fig. 5.1, sketch a line to show the strain of the rod as the stress is reduced to zero. [1]
+   [draw on the figure]
+   ```
 
 ### Lines pointing to a book or a question bank: leave them out
 

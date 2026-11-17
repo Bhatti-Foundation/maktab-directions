@@ -128,6 +128,8 @@ Add your step-by-step solution under its reference, a line `SOLUTION`, then one 
 
 **A table your students fill in** stays a Word table under the question: leave empty each cell they write in, and put a dash, `—`, in a grey cell. They fill it where it is printed, a box in each empty cell. Never type its answers into it: they go in the mark scheme. In a table they only read, put `—` in any cell with nothing printed, so it is not taken for one they fill.
 
+**A part your students draw**, in a past paper question of your own typed under its `Q…` heading: put a line of its own under the part, `[draw on the figure]` where they draw on the question's figure, or `[draw on paper]` where they draw from nothing. They draw on your figure with a pen, or add a photo of their drawing on paper, in place of a typed answer. Where a second part is drawn on the same figure, paste the figure again just above that part. A Cambridge question needs no line, and a `Question` box or a *Check your understanding* box takes none.
+
 ## Question codes
 
 - **A past paper reference** is written out in full: the subject and paper, the series (`M/J`, `O/N`, `F/M`), the year in two figures, then the question number. For example `9701/11/M/J/15 Q5`, not `M/J-15-11`.

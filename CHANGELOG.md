@@ -1,5 +1,6 @@
 # Changes
 
+- **17 November 2026, a part of his own question that she draws.** *A teacher's own file*, *Past-paper questions*, 14: a line of its own under a part of a past paper question of his own, typed under its `Q…` heading, `[draw on the figure]` or `[draw on paper]`, gives that part no typed box: she draws on his figure with a pen, the last picture above the part, or adds a photo of her drawing on paper; a second part drawn on the same figure has the figure pasted again above it (the Drawn Answers Spec; #5945). A Cambridge question named by its reference needs none, and a `Question` box or a *Check your understanding* box takes none. *Directions for teachers* and the BIC teachers' guide say the same.
 - **17 November 2026, a file of another name replaces a video in the same place.** *For teachers*: a file with another
   name whose video stands where another file's video stands replaces it, a new link under the same title or a new video
   altogether, and *What the files change* says *Replaced the video “…”*; one edited on the page stays (M-670, 4; #6752).
