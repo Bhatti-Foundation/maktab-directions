@@ -2,6 +2,8 @@
 
 We are creating a world-class experience for BIC's students, in the classroom and online. For your teaching to reach them in Maktab, your content needs to be in one consistent shape, and your AI can do most of that for you ([the directions it follows](README.md)). This page explains the shape and why, so you can write in it from the start and check what your AI gives back.
 
+**To see all of it in one file**, download [sample-lecture-accounting.docx](sample-lecture-accounting.docx): one Accounting sub-topic with a lesson video, text under your own titles, every kind of box, a picture with its caption, a table, a worked example, quick checks with their answers and working, a practice question and a past paper question. Copy its shapes into your own file.
+
 ## Maktab is a website, not a handout
 
 Your students read Maktab on a phone, one short part at a time, with the class's book beside them. That changes what a lesson needs:

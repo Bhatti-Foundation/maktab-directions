@@ -8,7 +8,7 @@ an AI agent helping a teacher bring her own material into Maktab.
 
 | You are asked to… | Read |
 |---|---|
-| Make a teacher's own lecture notes, worked solutions or past-paper booklet ready for Maktab, in his own layout | [own-file.md](own-file.md), with [sample-lecture.docx](sample-lecture.docx) |
+| Make a teacher's own lecture notes, worked solutions or past-paper booklet ready for Maktab, in his own layout | [own-file.md](own-file.md), with [sample-lecture.docx](sample-lecture.docx) and [sample-lecture-accounting.docx](sample-lecture-accounting.docx) |
 | Put a folder of a teacher's notes, worksheets and slides into Maktab | [bulk-import.md](bulk-import.md) |
 | Find a course's sub-topic numbers and outcome codes | [subjects/](subjects/): one page and one empty Word file per course, `subjects/9702.md` and `subjects/9702 skeleton.docx` |
 | Change or add to an exported file in any other way | [topic-file.md](topic-file.md) |
