@@ -46,9 +46,11 @@ teacher's notes, a paper of another course).
    code only; its wording is in the export and in the syllabus the page links to.
 
 [sample-lecture.docx](sample-lecture.docx) is a short file in the shape below. Open it and copy its
-shapes. [sample-lecture-accounting.docx](sample-lecture-accounting.docx) is the same in Accounting 9706 1.5, with what
+shapes, its past paper questions too: a multiple-choice one by its reference alone, and a written part by its heading
+line under a Heading 2 of its own, with its working under `SOLUTION`.
+[sample-lecture-accounting.docx](sample-lecture-accounting.docx) is the same in Accounting 9706 1.5, with what
 the first lacks: a lesson video, a table, a Key idea, Tip, Link and Think about it box, a Quick check's working under
-`SOLUTION`, a Practise question, and a past paper question by its heading with a part's working.
+`SOLUTION`, and a Practise question.
 
 ## Never change
 
