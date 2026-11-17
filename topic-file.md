@@ -32,7 +32,7 @@ Downloaded on … · stamp …                      grey first line
 [How to edit this file]                        yellow box
 4.1 Turning effects of forces                  Heading 1, one per sub-topic
   Lesson video                                 Heading 2, a table
-  Text                                         Heading 2
+  Lesson text                                  Heading 2
     4.1.2 The moment of a force                Heading 3: a learning outcome's code, then words
     paragraphs, and boxes
   Textbook                                     Heading 2, a table
@@ -43,7 +43,9 @@ Downloaded on … · stamp …                      grey first line
 4.2 …
 ```
 
-## Text
+## Lesson text
+
+An older export says *Text* here; Maktab reads it the same, so leave it as it is.
 
 - **A Heading 3** starts with the learning outcome's code: `4.1.2 The moment of a force`. Use only
   the outcomes of the sub-topic it sits in. Add material under the heading for its outcome, after
@@ -82,15 +84,15 @@ Downloaded on … · stamp …                      grey first line
   A title for the box, if it has one, is a plain paragraph just under its label. If the file has no
   box of that kind to copy, copy the yellow *How to edit this file* box, change its label and words,
   and set the shading above. Leave an empty paragraph after each box, so two boxes stay two.
-- **A picture** comes in where it stands in a sub-topic's *Text*: on a line of its own between
+- **A picture** comes in where it stands in a sub-topic's *Lesson text*: on a line of its own between
   paragraphs, or in a *Figure* box to give it a caption. Paste the picture itself (PNG or JPEG); an
   old Word drawing (EMF or WMF) is made a PNG as it comes in; a chart, a shape or a linked picture
   does not come in. A *Figure* box with no picture is refused. **A picture in a table's cell** in the
-  *Text* comes in in its cell, above the cell's words, one to a cell; a picture the file already shows in
+  *Lesson text* comes in in its cell, above the cell's words, one to a cell; a picture the file already shows in
   a cell is kept as it is, so leave it there. A picture anywhere else (before the first sub-topic, in a
   question, a second in one cell) stays out. A picture
   in a *Worked example*, *Lab* or *Teacher's note* box comes in as a figure just after the box.
-- **A table in the *Text*** that is not a box is read anyway: when its first line names a kind, or
+- **A table in the *Lesson text*** that is not a box is read anyway: when its first line names a kind, or
   is a heading that starts with one (`WORKED EXAMPLE - A ROCKET IN FLIGHT`), as a box of that kind;
   otherwise its words come in as text where it stands, a row of several cells one line. Write boxes
   rather than relying on this.
@@ -107,8 +109,8 @@ Downloaded on … · stamp …                      grey first line
   its place in the list. Under it: its title as a Heading 3, then `Paper: 9702/12/O/N/15 Q15` where it
   has one, then its words. Add a new one where it goes in the list, numbered for its place; the
   examples are matched by what they say, so the numbers are read as their order.
-- **In the *Text*, a box whose only line is `Worked example 7`** shows example 7 where it stands. Its
-  words are never in the *Text*: change them under *Worked examples*. A line naming a number the
+- **In the *Lesson text*, a box whose only line is `Worked example 7`** shows example 7 where it stands. Its
+  words are never in the *Lesson text*: change them under *Worked examples*. A line naming a number the
   section does not hold is left out.
 - A picture pasted into a new example's box comes in with it; an example already in the list keeps
   its pictures, which the file does not carry.
@@ -122,7 +124,7 @@ The *Past papers* heading may also be *Past paper questions*, the name of the ta
 both the same.
 
 **Today a file changes a row that is there, but cannot add a row.** A new video or reading goes in
-the *Text* as a *Video* or *Reading* box (above).
+the *Lesson text* as a *Video* or *Reading* box (above).
 
 **A past paper question is its reference on a line of its own**, under the *Past papers* table:
 `9702/12/O/N/25 Q20`, or `9701/21/M/J/25 Q2(b)` for a part. It brings in the question as Cambridge

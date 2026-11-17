@@ -37,7 +37,7 @@ teacher's notes, a paper of another course).
    ```
 2. **The topic's export from Maktab**, if he gave you one (*Export or import* on the class materials
    page). Its Heading 1 lines are the sub-topics, `3.1 Momentum and Newton's laws of motion`, and its
-   Heading 3 lines under *Text* the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
+   Heading 3 lines under *Lesson text* (*Text* in an older export) the learning outcomes, `3.1.3 Momentum is mass times velocity`. **Take
    every sub-topic number and outcome code from it.**
 3. **With no export, the course's skeleton**: [subjects/](subjects/) has a page for every course Maktab
    holds, `subjects/9702.md`, with each topic, each sub-topic's number and name and each outcome's code, as
