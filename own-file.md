@@ -556,6 +556,23 @@ Answer: B
 
 The rules for a short question's `Answer:` line, `Suggested answer:` and a question that stands alone hold for it too.
 
+**A part she draws, in a `Question` box or a *Check your understanding* box**, has the same line of its own under it as in
+a past paper question of his (*Past-paper questions*, 14): `[draw on the figure]` or `[draw on paper]`. Its `Answer:` line
+says in words what her drawing shows, so Maktab can mark her picture against it: `Answer: a straight line from (0, 0) to
+(4.0, 12), then horizontal at 12 m s⁻¹ to 10 s`. A picture inside the box does not come in from the file: where the
+question needs his figure, he adds it on the sub-topic page, above the part, and until he does, she adds a photo of her
+paper.
+
+```
+Question
+A trolley starts from rest and speeds up uniformly to 12 m s⁻¹ in 4.0 s. It then moves at a steady speed for 6.0 s.
+Sketch its velocity–time graph.
+[draw on paper]
+1. Speeding up uniformly is a straight line with a steady gradient.
+2. Steady speed is a horizontal line.
+Answer: a straight line from (0, 0) to (4.0, 12), then horizontal at 12 m s⁻¹ to 10 s
+```
+
 ### Past-paper questions
 
 1. **Each question starts with its paper reference, and its marks**, a paragraph of its own: his first words and any picture start the next paragraph, never a line break under the reference in theirs:
@@ -800,10 +817,10 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    diagram of the apparatus). Maktab gives that part no typed box: she draws on the figure with a pen, or adds a photo of
    her drawing on paper. The figure is the last picture above the part, his own picture pasted where his question has it.
    **Where a second part is drawn on the same figure, paste his figure again just above that part**, so each part drawn on
-   a figure has its own copy of it, as Cambridge's parts each have theirs. Only in a past paper question of his own, typed
-   under its `Q…` heading: never in a `Question` box or a *Check your understanding* box, where the line would show as a
-   line of the question. A Cambridge question named by its reference needs none, since Maktab brings Cambridge's. Never
-   under a part she answers in words or numbers, a value she reads off the graph included.
+   a figure has its own copy of it, as Cambridge's parts each have theirs. In a past paper question of his own, typed
+   under its `Q…` heading, and in his `Question` box and *Check your understanding* box (below). A Cambridge question
+   named by its reference needs none, since Maktab brings Cambridge's. Never under a part she answers in words or
+   numbers, a value she reads off the graph included.
 
    ```
    Q5   [check: paper not in his file]   [4 marks]

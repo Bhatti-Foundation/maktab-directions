@@ -1,5 +1,6 @@
 # Changes
 
+- **17 November 2026, his `Question` box and *Check your understanding* box take a part she draws.** *A teacher's own file*, *A question of his own, with its working*: the line `[draw on the figure]` or `[draw on paper]` under a part works there too, as in a past paper question of his own, on Practise and the Quick check; its `Answer:` says in words what her drawing shows, and the marker reads her picture against it. A picture inside the box still does not come in from the file: he adds his figure on the sub-topic page, above the part (M-681, 3; #6890). *Directions for teachers* and the BIC teachers' guide say the same.
 - **17 November 2026, the topic file leaves out the Textbook and Past papers tables.** *A topic file*: it has no
   *Textbook* table and no table under *Past papers*; a book's page is changed in its popup on the sub-topic page, and the
   Past papers cards on the page. The *Past papers* heading stays, for a question's reference on a line of its own. An
