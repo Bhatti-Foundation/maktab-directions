@@ -165,7 +165,7 @@ On **Class materials**, press **Export or import** and choose your files. You ca
 
 **A file's name is how Maktab knows it:**
 - **A new version of the same file keeps the same name.** Importing it replaces what the last version brought in, and takes out what you took out of your file. A past paper question you take out of your file stays on the page: delete it there.
-- **A file with another name replaces what it matches**, whichever file brought it: a worked example with the same title, a question in nearly the same words, a picture in the same place, and the lesson text of each sub-topic it brings lesson text to. It adds what is new and takes nothing out. A question it is not sure about comes in beside the one it may be, and *What the files change* says so: delete the one you don't want.
+- **A file with another name replaces what it matches**, whichever file brought it: a worked example with the same title, a question in nearly the same words, a picture in the same place, a video in the same place, and the lesson text of each sub-topic it brings lesson text to. It adds what is new and takes nothing out. A question it is not sure about comes in beside the one it may be, and *What the files change* says so: delete the one you don't want.
 
 **If you don't like how something came in,** change your file, save it, and press **Read again** on the import screen. Maktab reads the file again before anything is added.
 

@@ -1,5 +1,8 @@
 # Changes
 
+- **17 November 2026, a file of another name replaces a video in the same place.** *For teachers*: a file with another
+  name whose video stands where another file's video stands replaces it, a new link under the same title or a new video
+  altogether, and *What the files change* says *Replaced the video “…”*; one edited on the page stays (M-670, 4; #6752).
 - **17 November 2026, a Cambridge question Maktab cannot mark stays out.** *A teacher's own file*: a past paper question Maktab does not hold yet, typed or named by its reference, and one whose mark scheme Maktab does not hold whole, do not come in; *Didn't come in* says *we don’t have Cambridge’s copy of it yet.* or *we don’t have Cambridge’s mark scheme for it yet.*, and nothing comes in by itself later (M-667, 2 and 3; M-664, 2; #6820). *Directions for teachers* and the BIC teachers' guide say the same.
 - **16 November 2026, the Physics sample lists its past paper references together.** *A teacher's own file*: `sample-lecture.docx` names its multiple-choice question and its written part each by its reference alone, `9702/12/M/J/23 Q5` and `9702/22/O/N/22 Q2(b)`, in one list under one heading, the part's working under `SOLUTION`, as Maktab now reads them (#6735). Nothing Maktab reads changes.
 - **16 November 2026, a sub-topic's first place heading is *Lesson text*.** *A topic's file*, *The shape* and *Lesson text*: the Heading 2 over a sub-topic's lesson text is *Lesson text*, not *Text*, as a fresh export says it; an older export saying *Text* reads exactly as before, so leave it as it is. *A teacher's own file*: an export's Heading 3 lines are under *Lesson text* (M-407, 1; walk W-1111, item 94; #3801).
