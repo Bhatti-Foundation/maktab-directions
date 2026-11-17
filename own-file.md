@@ -604,7 +604,8 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    Cambridge's copy, and keeps only the sub-topic he put it under. Where Maktab does not hold a question yet, nothing is for him to type: it does not
    come in, typed or named by its reference, and *Didn't come in* says *we don’t have Cambridge’s copy of it yet.* A multiple-choice question's typed
    options are used for now. A question Cambridge's mark scheme does not mark whole does not come in either, and *Didn't come in* says
-   *we don’t have Cambridge’s mark scheme for it yet.*
+   *we don’t have Cambridge’s mark scheme for it yet.* One from a paper more than 15 years old, before 2011 today, that Maktab cannot mark
+   stays out too, and *Didn't come in* says in bold *we don’t have a marking scheme for it. Use a newer example that has a marking scheme.*
    **A lab practical question** (Paper 3 of Biology, Chemistry or Physics) is practised with a set of readings given to her, which
    Maktab makes for each question: write nothing for it. **Where his class took its own readings**, put them in a box straight under the
    question's reference or its words, its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
