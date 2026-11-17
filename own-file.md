@@ -591,8 +591,11 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
    a student another question's answer. Moving each answer under its question (7) is surer, and is what to do with one left out. A worked example keeps its answer, in its box.
    **Questions left as plain numbered lines with no paper under them are not read as questions**: they come into the
    sub-topic's notes, as he wrote them. Give each its reference, or put a short one in a box (above).
-   **A Cambridge question is named by its reference alone**, `[9702/22/O/N/25 Q2]`, or the part he uses, `9701/21/M/J/25 Q2(b)`, over his own steps: keep
-   the reference on a line of its own, in full with its question number, and never type the question's words, its tables or its mark scheme, from a picture
+   **A Cambridge question is named, never typed**: a written one by its heading line, `Q2   9702/22/O/N/25 Q2   [6 marks]`, or the part he uses,
+   `Q2(b)   9701/21/M/J/25 Q2(b)   [3 marks]`, one line for the question, over his own steps; a multiple-choice one by its reference alone, `9702/11/O/N/25 Q9`,
+   on a line with nothing under it, or typed whole as he has it, its heading, words, options and `Answer:` (12); never its heading and
+   `Answer:` alone, which brings in nothing. Never a reference in brackets or a part's reference alone without its heading: either comes in as lesson text. Keep
+   the reference in full with its question number, and never type the question's words, its tables or its mark scheme, from a picture
    of the paper or from memory. In every subject, a written question comes in as Cambridge printed it, part by part, with its marks and Cambridge's mark
    scheme, the part a reference names with what it needs of the question's opening, and a multiple-choice question with its four options and Cambridge's
    answer. **Whatever his file types of a written Cambridge question is not used**, words, tables, answers or worked steps typed under its heading: Maktab shows

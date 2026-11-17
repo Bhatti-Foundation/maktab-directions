@@ -37,7 +37,7 @@ Your own file stays as it is. Your AI gives you a copy for Maktab, and you make 
 - **Captions:** put the caption on the line just under the picture, starting with its name and number: `Figure 2.1 A mass spectrum`. It must start that way to be read as the caption; `Figure: A mass spectrum` comes in as an ordinary paragraph. For a table, put its title on the line above it: `Table 2.1 Reacting masses`.
 - **Attribution, if you give one:** to say where a figure, table or picture came from, add it to the end of its caption: `Figure 2.1 A mass spectrum. Source: Chemistry Coursebook, Cambridge University Press`. Your AI keeps any attribution your file already has, and moves it there for you.
 - **Tables:** a table of data stays a table, and a picture in a table cell comes in where it stands.
-- **A past paper question's figures and tables:** a Cambridge question needs none, being its reference alone. In a question of your own, paste the picture of each where it stands in the question. A line such as `[diagram]`, or a table typed as rows with `|` between its cells, keeps the question from your students, and your page says *“…” has a typed “[diagram]” where its figure belongs: delete that line, or put the paper’s picture in its place.* Do either, on the page or in your file.
+- **A past paper question's figures and tables:** a Cambridge question needs none: Maktab brings Cambridge's. In a question of your own, paste the picture of each where it stands in the question. A line such as `[diagram]`, or a table typed as rows with `|` between its cells, keeps the question from your students, and your page says *“…” has a typed “[diagram]” where its figure belongs: delete that line, or put the paper’s picture in its place.* Do either, on the page or in your file.
 - **Lists:** use Word's bullets and numbering (Home › Bullets), up to three levels.
 - **Links:** a link inside a sentence comes in as a link. A YouTube or Vimeo link on a line of its own comes in as a video, playing where it stands. A picture is pasted into the file, not linked to.
 - **Formulas:** type them as ordinary text, using Word's superscripts and subscripts: `Eₖ = ½mv²`, `m s⁻²`. Maktab can't read a formula made with Word's equation tool (Insert › Equation): the words around it come in, but the formula doesn't. Your AI can retype one for you.
@@ -65,7 +65,7 @@ There are eight types of boxes:
 | **Think about it** | Stop and think before you read on |
 | **Teacher's note** | For teachers only. Students never see it |
 
-- **Your own names are read too:** *Exam tip*, *Examiner's advice*, *Top tip* and *Memory trick* are all a **Tip**; *Real-world link*, *Practical skills link* and *Syllabus link* are all a **Link**.
+- **Use these names, as written here.** Your AI changes your own to them: *Exam tip*, *Examiner's advice*, *Top tip* and *Memory trick* become a **Tip**; *Real-world link*, *Practical skills link* and *Syllabus link* a **Link**.
 - **A box that fits none of these** starts with `Box` and your title, and stays a plain box.
 - **One table makes one box.** Start a new table for the next box, and start your next paragraph after the table.
 
@@ -94,7 +94,7 @@ Where you don't give quick check questions, Maktab writes its own, but it's happ
 
 ## Practice questions
 
-The **Practise** tab has whole problems that students work through with help. **Any question with your step-by-step working is a practice question:** a past paper question with your solution under it, or a question of your own. At any step, a student who needs help presses **Hint** and sees your solution, one step at a time. So write one step to a line.
+The **Practise** tab has whole problems that students work through with help. **Any question with your step-by-step working is a practice question:** a past paper question with your solution under it, or a question of your own. At any step, a student who needs help presses **Show a hint** and sees your solution, one step at a time. So write one step to a line.
 
 For a question of your own, use a one-by-one table whose first line is `Question`:
 
@@ -106,17 +106,24 @@ For a question of your own, use a one-by-one table whose first line is `Question
 
 For a multiple-choice question of your own, type each option on its own line with its letter (`A`, `B`, `C`, `D`), and give the answer: `Answer: B`.
 
+A question of your own can't hold a table for students to fill in: a table after its box comes into your lesson instead. For that, use a past paper question (below).
+
 ## Past paper questions
 
 The **Past paper questions** tab has Cambridge's questions, which students answer on their own, as Cambridge asks them, marked against the mark scheme.
 
-**A question's reference alone is enough, in every subject.** A line such as `9618/12/M/J/21 Q5` brings in the question as Cambridge printed it, part by part, with its pictures, its marks and Cambridge's mark scheme. A multiple-choice question, such as `9702/11/O/N/25 Q9`, comes in with its four options and Cambridge's answer. You don't type any of it. Your own steps under it stay in your notes for the sub-topic, under the reference. **A Cambridge question is its reference alone**: whatever your file types of a written one, words, tables or a copied mark scheme, is not used, and your students see Cambridge's copy, under the sub-topic you put it in. A part you use is its reference too, `9701/21/M/J/25 Q2(b)`. Where Maktab does not hold a question yet, a question you typed waits, your page saying *Waiting for Cambridge’s copy of …*, and comes in by itself once it is held; a reference alone is said under *Didn't come in*, and comes in when you import the file again once it is held. A question Cambridge's mark scheme doesn't mark whole isn't asked, and your page says *Left out: Cambridge’s mark scheme doesn’t mark … whole.*
+**Name a Cambridge question; don't type it.** Maktab brings it in as Cambridge printed it, part by part, with its pictures, its marks and Cambridge's mark scheme, under the sub-topic you put it in. Whatever your file types of it, words, tables or a mark scheme, is not used.
+
+- **A written question** is one line, its number, its reference in full and its marks: `Q5   9618/22/M/J/21 Q5   [8 marks]`. For a part you use, name the part: `Q2(b)   9701/21/M/J/25 Q2(b)   [3 marks]`. Use one line for the whole question, not one line per part.
+- **A multiple-choice question** is its reference alone, on a line of its own, with nothing under it: `9702/11/O/N/25 Q9`. It comes in with its four options and Cambridge's answer.
+
+Where Maktab does not hold a question yet, your page says so under *Didn't come in*, and it comes in when you import the file again once it is held. A question Cambridge's mark scheme doesn't mark whole isn't asked, and your page says *Left out: Cambridge’s mark scheme doesn’t mark … whole.*
 
 **A lab practical question comes with a set of readings Maktab made.** Your students read them above part (a), under *Readings*, and work from them: the table, the graph, the calculations. Where your class took its own readings, put them in a box straight under the question (a Biology or Chemistry practical typed out with its parts, a Physics one its reference alone or typed), its first line `Readings`, one reading to a line, `(a) n₀: 22, 23`; yours replace Maktab's. For a Biology microscope question, put your photo of the slide, graticule in view, as a JPEG or PNG, in a box whose first line is `Slide`; without it, the drawing and measuring parts aren't marked.
 
-That needs Cambridge's question number. Where you have only the paper, write it and type the question under it: `9618/12/M/J/21`, then the question. Maktab finds it on the paper by its words.
+That needs Cambridge's question number. Where you have only the paper, head the question with it, `Q1   9618/12/M/J/21   [6 marks]`, and type the question under it, then its mark scheme on a line starting `Mark scheme:`. Maktab finds it on the paper by its words. Without a mark scheme it comes into your lesson as text.
 
-Add your step-by-step solution under it, a line `SOLUTION` then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.
+Add your step-by-step solution under a written question's line, a line `SOLUTION`, then the part's name on a line of its own, `(c)`, then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.
 
 **A table your students fill in** stays a Word table under the question: leave empty each cell they write in, and put a dash, `—`, in a grey cell. They fill it where it is printed, a box in each empty cell. Never type its answers into it: they go in the mark scheme. In a table they only read, put `—` in any cell with nothing printed, so it is not taken for one they fill.
 
@@ -124,7 +131,7 @@ Add your step-by-step solution under it, a line `SOLUTION` then one step to a li
 
 - **A past paper reference** is written out in full: the subject and paper, the series (`M/J`, `O/N`, `F/M`), the year in two figures, then the question number. For example `9701/11/M/J/15 Q5`, not `M/J-15-11`.
 - **Use Cambridge's question number, never your own.** If your worksheet calls it *Question 2* but it was question 5 on Cambridge's paper, write `Q5`. A wrong number brings in a different question, with the wrong answer and mark scheme.
-- **If you don't know Cambridge's number, leave it off**, write only the paper, `9701/11/M/J/15`, and type the question under it.
+- **If you don't know Cambridge's number, leave it off**: head it with the paper alone, `Q1   9701/11/M/J/15   [2 marks]`, then type the question and its `Mark scheme:` under it.
 
 ## How you give answers
 
@@ -135,12 +142,12 @@ In your file, put each answer straight under its question, never in a section at
 | Quick check | `Answer:` and the final value alone, on the last line of the box; any working after the box, under `SOLUTION` |
 | Practice question | Your working, one step to a line, then `Answer:` |
 | Worked example | Your working, one step to a line, then `Answer:` |
-| Past paper, multiple choice | Nothing: Maktab uses Cambridge's key. To add your reason, write `Answer: B (ionic bonds need two elements)` |
-| Past paper, structured | Nothing: Maktab uses Cambridge's mark scheme. To use your own, write `Mark scheme:` under the question, keeping each point's code (`M1`, `A1`) on its line |
+| Past paper, multiple choice | Nothing: Maktab uses Cambridge's key |
+| Past paper, written | Nothing: Maktab uses Cambridge's mark scheme. Your working, if you give it, under `SOLUTION` |
 
 **Your working is worth giving.** In Practise it is the hint students reveal a step at a time, and after they answer it is the solution they compare with their own.
 
-Your answer always wins over Cambridge's. If your file has an answer sheet at the back, your AI moves each answer under its question.
+If your file has an answer sheet at the back, your AI moves each answer under its question.
 
 > ### ⚠ A question with no answer is never asked
 > Where you gave no answer, your AI suggests one. **Students don't see that question until you confirm the answer.** To confirm it, open the sub-topic and press **Edit**. The suggested answer is in the question's answer box, marked **Suggested by AI**. Press **Looks right** on it, under *to confirm* (🔍), to keep it, or type your own. Maktab also lists these questions when you publish.
