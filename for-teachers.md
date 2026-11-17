@@ -114,8 +114,9 @@ The **Past paper questions** tab has Cambridge's questions, which students answe
 
 **Name a Cambridge question; don't type it.** Maktab brings it in as Cambridge printed it, part by part, with its pictures, its marks and Cambridge's mark scheme, under the sub-topic you put it in. Whatever your file types of it, words, tables or a mark scheme, is not used.
 
-- **A written question** is one line, its number, its reference in full and its marks: `Q5   9618/22/M/J/21 Q5   [8 marks]`. For a part you use, name the part: `Q2(b)   9701/21/M/J/25 Q2(b)   [3 marks]`. Use one line for the whole question, not one line per part.
-- **A multiple-choice question** is its reference alone, on a line of its own, with nothing under it: `9702/11/O/N/25 Q9`. It comes in with its four options and Cambridge's answer.
+- **Its reference alone is enough, in every subject:** a line such as `9618/22/M/J/21 Q5`, or the part you use, `9701/21/M/J/25 Q2(b)`. A heading line, `Q5   9618/22/M/J/21 Q5   [8 marks]`, works too.
+- **A multiple-choice question** is the same, `9702/11/O/N/25 Q9`, and comes in with its four options and Cambridge's answer.
+- **List as many as you like**, one to a line, written and multiple choice mixed, and the parts you use one by one or the whole question.
 
 Where Maktab does not hold a question yet, your page says so under *Didn't come in*, and it comes in when you import the file again once it is held. A question Cambridge's mark scheme doesn't mark whole isn't asked, and your page says *Left out: Cambridge’s mark scheme doesn’t mark … whole.*
 
@@ -123,7 +124,7 @@ Where Maktab does not hold a question yet, your page says so under *Didn't come 
 
 That needs Cambridge's question number. Where you have only the paper, head the question with it, `Q1   9618/12/M/J/21   [6 marks]`, and type the question under it, then its mark scheme on a line starting `Mark scheme:`. Maktab finds it on the paper by its words. Without a mark scheme it comes into your lesson as text.
 
-Add your step-by-step solution under a written question's line, a line `SOLUTION`, then the part's name on a line of its own, `(c)`, then one step to a line, and the question also goes to Practise, where students can work through it with hints. After they answer on Past paper questions, it is the solution they compare with their own.
+Add your step-by-step solution under its reference, a line `SOLUTION`, then one step to a line, and the question also goes to Practise, where students can work through it with hints. For a question in parts, put the part's name on a line of its own, `(c)`, above that part's steps. After they answer on Past paper questions, it is the solution they compare with their own.
 
 **A table your students fill in** stays a Word table under the question: leave empty each cell they write in, and put a dash, `—`, in a grey cell. They fill it where it is printed, a box in each empty cell. Never type its answers into it: they go in the mark scheme. In a table they only read, put `—` in any cell with nothing printed, so it is not taken for one they fill.
 
@@ -142,7 +143,7 @@ In your file, put each answer straight under its question, never in a section at
 | Quick check | `Answer:` and the final value alone, on the last line of the box; any working after the box, under `SOLUTION` |
 | Practice question | Your working, one step to a line, then `Answer:` |
 | Worked example | Your working, one step to a line, then `Answer:` |
-| Past paper, multiple choice | Nothing: Maktab uses Cambridge's key |
+| Past paper, multiple choice | Nothing: Maktab uses Cambridge's key. To add your reason, write `Answer: B (ionic bonds need two elements)` under its reference |
 | Past paper, written | Nothing: Maktab uses Cambridge's mark scheme. Your working, if you give it, under `SOLUTION` |
 
 **Your working is worth giving.** In Practise it is the hint students reveal a step at a time, and after they answer it is the solution they compare with their own.
