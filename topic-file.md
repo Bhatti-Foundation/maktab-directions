@@ -35,8 +35,7 @@ Downloaded on … · stamp …                      grey first line
   Lesson text                                  Heading 2
     4.1.2 The moment of a force                Heading 3: a learning outcome's code, then words
     paragraphs, and boxes
-  Textbook                                     Heading 2, a table
-  Past papers                                  Heading 2, a table
+  Past papers                                  Heading 2, past paper questions by their reference
   Practise                                     Heading 2, questions
   Worked examples                              Heading 2, boxes, where it has any
   Quick check                                  Heading 2, questions
@@ -115,18 +114,21 @@ An older export says *Text* here; Maktab reads it the same, so leave it as it is
 - A picture pasted into a new example's box comes in with it; an example already in the list keeps
   its pictures, which the file does not carry.
 
-## Lesson video, Textbook, Past papers
+## Lesson video, Past papers
 
-Tables whose first row is the header: *Title · Link · Opens at*, *Title · Link · From*,
-*Paper · Questions · Link*.
+The *Lesson video* is a table whose first row is the header: *Title · Link · Opens at*.
+
+The file has no *Textbook* table and no table under *Past papers*: a book's page is changed in its popup on the
+sub-topic page, and the Past papers cards on the page. An older export that still has those tables imports as before;
+their rows change nothing, and the import says so once, under *Left out on purpose*.
 
 The *Past papers* heading may also be *Past paper questions*, the name of the tab its questions are on; Maktab reads
 both the same.
 
-**Today a file changes a row that is there, but cannot add a row.** A new video or reading goes in
+**Today a file changes the video's row that is there, but cannot add a row.** A new video or reading goes in
 the *Lesson text* as a *Video* or *Reading* box (above).
 
-**A past paper question is its reference on a line of its own**, under the *Past papers* table:
+**A past paper question is its reference on a line of its own**, under the *Past papers* heading:
 `9702/12/O/N/25 Q20`, or `9701/21/M/J/25 Q2(b)` for a part. It brings in the question as Cambridge
 printed it, a multiple-choice one with its options and Cambridge's answer, as in a teacher's own
 file; its paper's row is added with it. Type nothing of the question under it. Where Maktab does not
@@ -135,7 +137,6 @@ hold it yet, the import says so, and it comes in when the file is imported again
 - **Link** starts with `https://`.
 - **Opens at** is minutes and seconds (`24:13`), or empty for the beginning. YouTube's `t=1453s` is
   `24:13`.
-- **Questions** are numbers only: `3, 7`.
 - One video is one row: the same YouTube video at another start time is not a new video.
 
 ## Practise and Quick check

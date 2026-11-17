@@ -1,5 +1,10 @@
 # Changes
 
+- **17 November 2026, the topic file leaves out the Textbook and Past papers tables.** *A topic file*: it has no
+  *Textbook* table and no table under *Past papers*; a book's page is changed in its popup on the sub-topic page, and the
+  Past papers cards on the page. The *Past papers* heading stays, for a question's reference on a line of its own. An
+  older export with those tables imports as before; their rows change nothing, said once under *Left out on purpose*
+  (M-675; #6761).
 - **17 November 2026, an old question Maktab cannot mark says so in bold.** *A teacher's own file*: a past paper question from a paper more than 15 years old, before 2011 today, whose mark scheme Maktab does not hold whole does not come in, and *Didn't come in* says in bold *we don’t have a marking scheme for it. Use a newer example that has a marking scheme.* (the scheme-at-import spec, draft 7; #6870). The BIC teachers' guide asks for a question from 2011 or later in its place.
 - **17 November 2026, a part of his own question that she draws.** *A teacher's own file*, *Past-paper questions*, 14: a line of its own under a part of a past paper question of his own, typed under its `Q…` heading, `[draw on the figure]` or `[draw on paper]`, gives that part no typed box: she draws on his figure with a pen, the last picture above the part, or adds a photo of her drawing on paper; a second part drawn on the same figure has the figure pasted again above it (the Drawn Answers Spec; #5945). A Cambridge question named by its reference needs none, and a `Question` box or a *Check your understanding* box takes none. *Directions for teachers* and the BIC teachers' guide say the same.
 - **17 November 2026, a file of another name replaces a video in the same place.** *For teachers*: a file with another
