@@ -559,15 +559,17 @@ The rules for a short question's `Answer:` line, `Suggested answer:` and a quest
 **A part she draws, in a `Question` box or a *Check your understanding* box**, has the same line of its own under it as in
 a past paper question of his (*Past-paper questions*, 14): `[draw on the figure]` or `[draw on paper]`. Its `Answer:` line
 says in words what her drawing shows, so Maktab can mark her picture against it: `Answer: a straight line from (0, 0) to
-(4.0, 12), then horizontal at 12 m s⁻¹ to 10 s`. A picture inside the box does not come in from the file: where the
-question needs his figure, he adds it on the sub-topic page, above the part, and until he does, she adds a photo of her
-paper.
+(4.0, 12), then horizontal at 12 m s⁻¹ to 10 s`. **His figure is pasted inside the box, on a line of its own, just
+above the part drawn on it**: it comes in where it stands among the box's words, and she draws on it with a pen. A picture
+on the box's first line, beside `Question`, is his label's mark and does not come in, and so does none among his steps
+or after his `Answer:`, which would show her the answer.
 
 ```
 Question
 A trolley starts from rest and speeds up uniformly to 12 m s⁻¹ in 4.0 s. It then moves at a steady speed for 6.0 s.
-Sketch its velocity–time graph.
-[draw on paper]
+On Fig. 1, sketch its velocity–time graph.
+[his Fig. 1, pasted]
+[draw on the figure]
 1. Speeding up uniformly is a straight line with a steady gradient.
 2. Steady speed is a horizontal line.
 Answer: a straight line from (0, 0) to (4.0, 12), then horizontal at 12 m s⁻¹ to 10 s
