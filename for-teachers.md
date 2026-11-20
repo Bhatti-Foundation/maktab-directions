@@ -28,8 +28,8 @@ Your own file stays as it is. Your AI gives you a copy for Maktab, and you make 
 - **Your own section titles are Heading 2s, with no number**, for example `Mass and inertia`. Maktab reads a number at the start of a heading as a Cambridge sub-topic.
 - **Each title says in 3 to 8 words what the part teaches.** *Testing for reducing sugars* works; *Part A* does not.
 - **Optional extras:**
-  - A sub-topic can open with a Heading 2 **Start here** (what to know first) and close with a Heading 2 **Wrap up** (your summary). Students see these as the sub-topic's first and last screens.
-  - The whole topic can open with a Heading 1 **Introduction** and close with a Heading 1 **Summary**, for your glossary and chapter summary.
+  - A sub-topic can open with a Heading 2 **Introduction** (what to know first) and close with a Heading 2 **Summary** (your summary). Students see these as the sub-topic's first and last screens.
+  - The whole topic can open with a Heading 1 **Topic overview** and close with a Heading 1 **Topic summary**, for your glossary and chapter summary.
 
 ## Pictures, tables, lists, links and formulas
 

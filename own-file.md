@@ -79,18 +79,18 @@ the first lacks: a lesson video, a table, a Key idea, Tip, Link and Think about 
 
 ```
 3 Dynamics                                         Title: the topic's number and name
-Introduction                                       Heading 1: what comes before the first sub-topic
+Topic overview                                     Heading 1: what comes before the first sub-topic
   …his introduction, chapter at a glance…
 3.1 Momentum and Newton's laws of motion           Heading 1: the sub-topic, as Maktab names it
-  Start here                                       Heading 2: what comes before its first part, if any
+  Introduction                                     Heading 2: what comes before its first part, if any
   Mass and inertia                                 Heading 2: each part, his own title, no number
     paragraphs, lists, boxes, pictures
     Check your understanding · 3.1.3               a box: one short question, its outcome, its answer
-  Wrap up                                          Heading 2: its summary and key points, if any
+  Summary                                          Heading 2: its summary and key points, if any
   Past-paper questions                             Heading 2
 3.2 Non-uniform motion                             Heading 1
   …
-Summary                                            Heading 1: what comes after the last sub-topic
+Topic summary                                      Heading 1: what comes after the last sub-topic
 ```
 
 ### Headings
@@ -117,8 +117,8 @@ Summary                                            Heading 1: what comes after t
    sub-topic's number and title exactly is checked heading by heading**: there `3.1 Mass, inertia, and
    Newton's second law` is read as another subject's 3.1 and left out.
 5. **What sits before the first sub-topic** (his introduction, *Chapter at a glance*) goes under a Heading 1
-   *Introduction*, when there is any besides his front matter (below); **what sits after the last** (his summary, glossary,
-   key terms) under a Heading 1 *Summary*. Maktab puts them on the topic's own first and last pages.
+   *Topic overview*, when there is any besides his front matter (below); **what sits after the last** (his summary, glossary,
+   key terms) under a Heading 1 *Topic summary*. Maktab puts them on the topic's own first and last pages.
 6. **If you cannot tell which sub-topic a section teaches, do not guess.** Leave its heading as it is
    and list it in your note.
 7. **Every part of a sub-topic has a real title**: each Heading 2 says in 3 to 8 words what its part teaches,
@@ -154,22 +154,23 @@ Summary                                            Heading 1: what comes after t
    Split every part of over 1,500 words into parts, one idea each, each new part a Heading 2 with a title of 3 to 8 words. Where my own heading or label already names the idea, it is the title. Never change my words.
    ```
 
-### Start here and Wrap up
+### Introduction and Summary
 
-**A sub-topic opens with a Heading 2 *Start here* and closes with a Heading 2 *Wrap up*, when he has them.** Put what
-comes before its first part (what the sub-topic is about, what to know first) under *Start here*, and his summary,
-key points or *now you can…* under *Wrap up*, his words as he wrote them. Leave out either he has nothing for. Name
-them exactly *Start here* and *Wrap up*: students read each sub-topic one part at a time, and Maktab shows these two
-as its first and last screens. They are the sub-topic's own: the topic's *Introduction* and *Summary* (above) stay the
-whole topic's, at its start and end.
+**A sub-topic opens with a Heading 2 *Introduction* and closes with a Heading 2 *Summary*, when he has them.** Put
+what comes before its first part (what the sub-topic is about, what to know first) under *Introduction*, and his summary,
+key points or *now you can…* under *Summary*, his words as he wrote them. Leave out either he has nothing for. Name
+them exactly *Introduction* and *Summary*: students read each sub-topic one part at a time, and Maktab shows these two
+as its first and last screens. They are the sub-topic's own: the topic's *Topic overview* and *Topic summary* (above,
+Heading 1) stay the whole topic's, at its start and end. A file made before 20 November 2026 with *Start here* and *Wrap
+up* still comes in, read as *Introduction* and *Summary*; write the new names.
 
-**A *Start here* is about the whole sub-topic, never only the part his file teaches.** Where his file covers one part
-of a sub-topic (*Irrecoverable debts*, in *1.4 Reconciliation and verification*), his opening lines go under *Start
-here* as he wrote them, and you never write that the sub-topic covers only that part. A line you write yourself names
-what the whole sub-topic covers, from its Cambridge title and outcomes, and ends `[check: Start here written by AI]`.
+**An *Introduction* is about the whole sub-topic, never only the part his file teaches.** Where his file covers one part
+of a sub-topic (*Irrecoverable debts*, in *1.4 Reconciliation and verification*), his opening lines go under its
+*Introduction* as he wrote them, and you never write that the sub-topic covers only that part. A line you write yourself names
+what the whole sub-topic covers, from its Cambridge title and outcomes, and ends `[check: Introduction written by AI]`.
 
 **Common mistakes come only from his misconception boxes** (his *Common mistake*, `⚠ COMMON MISCONCEPTION`). A
-*Common mistake* box under *Wrap up* copies one of them word for word, and you write none yourself. His *Examiner's
+*Common mistake* box under *Summary* copies one of them word for word, and you write none yourself. His *Examiner's
 advice*, *Exam tip* and *Top tip* boxes are Tips, never common mistakes, even when they name a mistake: they often hold the
 right answer (*Insoluble, so it does not affect water potential.*), and a student reading it as a common mistake
 learns that it is wrong.
@@ -865,7 +866,7 @@ Stand up, stretch, and drink some water before Part C.
 booklet is, such as the college's logo, a course line (`AS LEVEL PHYSICS 9702`), *Prepared for* and his name, in one
 `Print only · Cover` box, the logo inside it. Maktab knows a cover by itself only when its opening lines name the college.
 In a physics file of 9 November 2026 the college's name was in the page header alone, so nothing marked the logo and
-`AS LEVEL PHYSICS 9702`, and both reached the topic's *Introduction* as lesson. A teacher whose cover came in as lesson
+`AS LEVEL PHYSICS 9702`, and both reached the topic's *Topic overview* as lesson. A teacher whose cover came in as lesson
 pastes this to his AI:
 
 ```
@@ -886,20 +887,20 @@ sub-topic's page shows them. The heading and notes over a sub-topic's past-paper
 questions*, *Paper 1 · Multiple choice (6 questions)*, *All 6 Paper 1 questions … are included.*), wherever they sit:
 the questions under them go to its Past paper questions tab.
 
-Anything else before the first sub-topic comes in, to the topic's Introduction: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
+Anything else before the first sub-topic comes in, to the topic's Topic overview: his *Chapter at a glance*, *Before you start*, a paragraph that teaches. Maktab leaves out
 by itself his *Work it out here* spaces and *SOLUTION* labels, his self-assessment checklist and the page header and
 footer.
 
-**Never make an *Introduction* or *Summary* out of leftovers.** Lines that only describe his file (`Reference:`, `From
+**Never make a *Topic overview* or *Topic summary* out of leftovers.** Lines that only describe his file (`Reference:`, `From
 year 2023 till 2026`, `End of chapter`, `Best of luck!`) are not teaching: put them in a `Print only · ` box where they
-stand, never under a Heading 1 *Introduction* or *Summary*, and make neither heading for them alone. In a file that is
-one sub-topic's notes, his opening lines go under that sub-topic's *Start here*, not the topic's *Introduction*.
+stand, never under a Heading 1 *Topic overview* or *Topic summary*, and make neither heading for them alone. In a file that is
+one sub-topic's notes, his opening lines go under that sub-topic's *Introduction*, not the topic's *Topic overview*.
 
-- **His glossary and his chapter summary go last**, under one Heading 1 **`Summary`** after the last sub-topic,
+- **His glossary and his chapter summary go last**, under one Heading 1 **`Topic summary`** after the last sub-topic,
   wherever he had them: Maktab shows them on the topic's last page.
 - **His answers section is never a block of its own**: each question's answers or mark scheme go under that
   question (*Past-paper questions*, 7); only a multiple-choice answer key may stay as his key. Never move answers
-  under `Summary`.
+  under `Topic summary`.
 - **A section headed as a worked example** (`1.3 Worked Example – Run-Length Encoding` over paragraphs) becomes a
   worked-example box, `Worked example · Run-Length Encoding`, his words inside it.
 
@@ -956,8 +957,8 @@ Do not check his file against the syllabus or a coursebook. `[check: why]` is fo
 
 ### Say what you changed: Changes made by AI
 
-**End the copy with a Heading 1 `Changes made by AI`**, last of all (after `Summary` where his file has a glossary or
-chapter summary; never add an empty `Summary` to put it after), and under it a bulleted list of what you
+**End the copy with a Heading 1 `Changes made by AI`**, last of all (after `Topic summary` where his file has a glossary or
+chapter summary; never add an empty `Topic summary` to put it after), and under it a bulleted list of what you
 could not keep as he had it, one change a line (not the headings, labels and lists you set, which are the shape):
 
 ```
@@ -1045,7 +1046,7 @@ The lists are in my note and under "Changes made by AI".
    footer in the text, and every line holding `×`, `÷` or another symbol kept.
 2. Every heading is a Word heading, not a table or bold text.
 3. Every Heading 1 is a sub-topic's number and Cambridge title exactly, as the export or the course's skeleton has it, or is
-   *Introduction* or *Summary*; every Heading 2 is his own title, with no number or with the number of
+   *Topic overview* or *Topic summary*; every Heading 2 is his own title, with no number or with the number of
    the sub-topic it sits under, or a title you wrote marked `[check: title written by AI; …]`. A long part covering
    more than one idea is split, one idea per part, his words unchanged.
 4. Every box is a one-cell table, or a label row over a body row, whose first line is one of the labels
@@ -1065,9 +1066,9 @@ The lists are in my note and under "Changes made by AI".
 7. Every bulleted list is a Word bulleted list, every numbered list keeps his numbers, every multiple-choice option
    starts with its typed letter, and every picture is a pasted picture.
 8. His teaching and every heading over it are all there; nothing only paper needs is deleted: Maktab knows it by its
-   shape, or it is in a `Print only · ` box, his cover always. His glossary and summary sit under `Summary`; no line only points to a
+   shape, or it is in a `Print only · ` box, his cover always. His glossary and summary sit under `Topic summary`; no line only points to a
    printed book, and no reference to a question bank is left; the last heading is `Changes made by AI`, when you
-   changed anything. No *Introduction* or *Summary* holds only lines about his file, and each *Start here* is about
+   changed anything. No *Topic overview* or *Topic summary* holds only lines about his file, and each *Introduction* is about
    its whole sub-topic.
 9. Every picture of a question or mark scheme has its `Words:` paragraph under it.
 10. Each `[check: why]` is where you are truly unsure, with one plain reason; each `[could mislead: why]` is what you
