@@ -2,8 +2,8 @@
 
 A college may publish only material it has the right to use. **When she imports a file, Maktab
 asks her where its new material came from**: *Written by me*, *Free to use: I checked its
-licence*, *Not known* or *Not licensed*. *Not licensed* stays out; *Not known* comes in but cannot
-be published until she answers. Each piece keeps who imported it.
+licence*, *Not known* or *Not licensed*. *Not licensed* and *Not known* stay out: nothing from
+that file comes in. Once she finds where it came from, she imports the file again with that answer. Each piece keeps who imported it.
 
 She answers once per file, so **your job is to make that answer true**:
 
