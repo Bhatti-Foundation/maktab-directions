@@ -454,6 +454,11 @@ A 0.50 kg ball moves at 8.0 m s⁻¹. What is its momentum?
 Answer: 4.0 kg m s⁻¹
 ```
 
+- **A line introducing his questions is his text, never a box.** Where his file opens a run of short questions with a line
+  that asks nothing, such as *Try these questions before reviewing the key takeaways.*, keep it as a line of his text where it
+  stands, under his heading and above the first box, and never put it in a `Check your understanding` box of its own: a box is
+  one question. Maktab reads a `Check your understanding` box that holds no question, nothing numbered, no question mark and no
+  answer, as his line where it stands (#7642).
 - **The learning outcome is optional.** With or without one, the box goes to the *Quick check*. One with none
   is filed under no outcome until *Clean up with AI* gives it one; never add one for its own sake. Where his
   file names one, keep it after a middle dot, `Check your understanding · 3.1.3`, or as a line of its own in the
