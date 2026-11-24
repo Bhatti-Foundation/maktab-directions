@@ -632,6 +632,8 @@ Answer: a straight line from (0, 0) to (4.0, 12), then horizontal at 12 m s⁻¹
    options are used for now. A question Cambridge's mark scheme does not mark whole does not come in either, and *Didn't come in* says
    *we don’t have Cambridge’s mark scheme for it yet.* One from a paper more than 15 years old, before 2011 today, that Maktab cannot mark
    stays out too, and *Didn't come in* says in bold *we don’t have a marking scheme for it. Use a newer example that has a marking scheme.*
+   A question Cambridge cancelled, its mark scheme giving it no answer, says *Cambridge cancelled this question, so it isn’t used.*, and one
+   whose source Cambridge removed from its paper says *Cambridge removed this question’s source for copyright, so it isn’t used.*: neither comes in.
    **A lab practical question** (Paper 3 of Biology, Chemistry or Physics) is practised with a set of readings given to her, which
    Maktab makes for each question: write nothing for it. **Where his class took its own readings**, put them in a box straight under the
    question's reference or its words, its first line `Readings`, then each reading on a line of its own, its part, its quantity and its
