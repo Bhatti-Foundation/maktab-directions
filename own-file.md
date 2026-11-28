@@ -251,6 +251,12 @@ box's body. Do this for every such line in his file. **Nothing else about his wo
 
 ### Worked examples
 
+**A worked example solves a problem, step by step, to an answer**: it states the problem (a question with its values, or
+a past-paper question), then his working, one step to a line, then the answer. A box that describes a case, says what
+something is or holds, or tells which to use, and solves nothing, is not a worked example: keep it as a sentence of his
+lesson, or label it **`Link`** if it ties his lesson to a case (*Washing machine controller: non-volatile memory stores the
+wash program …*). Never make a worked example of a sentence that has no problem in it.
+
 A worked example is a box whose first line is **`Worked example`**, and its title after a middle dot: **No number of your own**: `Worked example 2: Work done at an angle` becomes `Worked example · Work done at an angle`, since Maktab numbers the worked examples itself (a physics file, 13 November 2026).
 
 ```
